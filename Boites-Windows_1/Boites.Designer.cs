@@ -1,6 +1,6 @@
 ﻿namespace Boites_Windows_1
 {
-    partial class Form1
+    partial class Boites
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,12 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            monthYear = new Label();
+            SuspendLayout();
+            // 
+            // monthYear
+            // 
+            monthYear.AutoSize = true;
+            monthYear.Font = new Font("p5hatty", 36F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            monthYear.Location = new Point(31, 25);
+            monthYear.Name = "monthYear";
+            monthYear.Size = new Size(244, 37);
+            monthYear.TabIndex = 0;
+            monthYear.Text = "January 2026";
+            // 
+            // Boites
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1350, 893);
+            Controls.Add(monthYear);
+            Name = "Boites";
+            Text = "Boites";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label monthYear;
     }
 }

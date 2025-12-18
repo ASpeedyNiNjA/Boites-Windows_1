@@ -1217,6 +1217,7 @@
             face2 = new LinkLabel();
             hair = new LinkLabel();
             cardio = new LinkLabel();
+            DataEntry = new GroupBox();
             boitesBoxes.SuspendLayout();
             boitesTasks.SuspendLayout();
             this.SuspendLayout();
@@ -15026,7 +15027,7 @@
             collegeCourse2.Font = new Font("ArcadeClassic", 14.2499981F, FontStyle.Regular, GraphicsUnit.Point, (byte)0);
             collegeCourse2.LinkBehavior = LinkBehavior.NeverUnderline;
             collegeCourse2.LinkColor = Color.Black;
-            collegeCourse2.Location = new Point(1672, 1041);
+            collegeCourse2.Location = new Point(18, 1168);
             collegeCourse2.Name = "collegeCourse2";
             collegeCourse2.Size = new Size(98, 18);
             collegeCourse2.TabIndex = 19;
@@ -15041,7 +15042,7 @@
             collegeCourse3.Font = new Font("ArcadeClassic", 14.2499981F, FontStyle.Regular, GraphicsUnit.Point, (byte)0);
             collegeCourse3.LinkBehavior = LinkBehavior.NeverUnderline;
             collegeCourse3.LinkColor = Color.Black;
-            collegeCourse3.Location = new Point(1672, 1070);
+            collegeCourse3.Location = new Point(147, 1168);
             collegeCourse3.Name = "collegeCourse3";
             collegeCourse3.Size = new Size(98, 18);
             collegeCourse3.TabIndex = 20;
@@ -15635,12 +15636,22 @@
             cardio.Text = "Cardio";
             cardio.VisitedLinkColor = Color.Black;
             // 
+            // DataEntry
+            // 
+            DataEntry.Location = new Point(1367, 70);
+            DataEntry.Name = "DataEntry";
+            DataEntry.Size = new Size(454, 1094);
+            DataEntry.TabIndex = 21;
+            DataEntry.TabStop = false;
+            DataEntry.Text = "Data Entry in Boites Placeholder";
+            // 
             // Boites
             // 
             this.AutoScaleDimensions = new SizeF(7F, 15F);
             this.AutoScaleMode = AutoScaleMode.Font;
             this.BackColor = Color.White;
             this.ClientSize = new Size(1840, 1195);
+            this.Controls.Add(DataEntry);
             this.Controls.Add(boitesTasks);
             this.Controls.Add(boitesBoxes);
             this.Controls.Add(monthYear);
@@ -16846,5 +16857,6 @@
         private Button sleep_d3;
         private Button sleep_d2;
         private Button sleep_d1;
+        private GroupBox DataEntry;
     }
 }

@@ -6,5 +6,7 @@ namespace Boites_Windows_1
         {
             InitializeComponent();
         }
+
+
     }
 }

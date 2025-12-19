@@ -402,35 +402,35 @@
             button360 = new Button();
             button361 = new Button();
             button362 = new Button();
-            button311 = new Button();
-            button312 = new Button();
-            button313 = new Button();
-            button314 = new Button();
-            button315 = new Button();
-            button316 = new Button();
-            button317 = new Button();
-            button318 = new Button();
-            button319 = new Button();
-            button320 = new Button();
-            button321 = new Button();
-            button322 = new Button();
-            button323 = new Button();
-            button324 = new Button();
-            button325 = new Button();
-            button326 = new Button();
-            button327 = new Button();
-            button328 = new Button();
-            button329 = new Button();
-            button330 = new Button();
-            button331 = new Button();
-            button332 = new Button();
-            button333 = new Button();
-            button334 = new Button();
-            button335 = new Button();
-            button336 = new Button();
-            button337 = new Button();
-            button338 = new Button();
-            button339 = new Button();
+            pcBuild_d31 = new Button();
+            pcBuild_d30 = new Button();
+            pcBuild_d29 = new Button();
+            pcBuild_d28 = new Button();
+            pcBuild_d27 = new Button();
+            pcBuild_d26 = new Button();
+            pcBuild_d25 = new Button();
+            pcBuild_d24 = new Button();
+            pcBuild_d23 = new Button();
+            pcBuild_d22 = new Button();
+            pcBuild_d21 = new Button();
+            pcBuild_d20 = new Button();
+            pcBuild_d19 = new Button();
+            pcBuild_d18 = new Button();
+            pcBuild_d17 = new Button();
+            pcBuild_d16 = new Button();
+            pcBuild_d15 = new Button();
+            pcBuild_d14 = new Button();
+            pcBuild_d13 = new Button();
+            pcBuild_d12 = new Button();
+            pcBuild_d11 = new Button();
+            pcBuild_d10 = new Button();
+            pcBuild_d9 = new Button();
+            pcBuild_d8 = new Button();
+            pcBuild_d7 = new Button();
+            pcBuild_d6 = new Button();
+            pcBuild_d5 = new Button();
+            pcBuild_d4 = new Button();
+            pcBuild_d3 = new Button();
             pcBuild_d2 = new Button();
             pcBuild_d1 = new Button();
             guitar_d31 = new Button();
@@ -1605,35 +1605,35 @@
             boitesBoxes.Controls.Add(button360);
             boitesBoxes.Controls.Add(button361);
             boitesBoxes.Controls.Add(button362);
-            boitesBoxes.Controls.Add(button311);
-            boitesBoxes.Controls.Add(button312);
-            boitesBoxes.Controls.Add(button313);
-            boitesBoxes.Controls.Add(button314);
-            boitesBoxes.Controls.Add(button315);
-            boitesBoxes.Controls.Add(button316);
-            boitesBoxes.Controls.Add(button317);
-            boitesBoxes.Controls.Add(button318);
-            boitesBoxes.Controls.Add(button319);
-            boitesBoxes.Controls.Add(button320);
-            boitesBoxes.Controls.Add(button321);
-            boitesBoxes.Controls.Add(button322);
-            boitesBoxes.Controls.Add(button323);
-            boitesBoxes.Controls.Add(button324);
-            boitesBoxes.Controls.Add(button325);
-            boitesBoxes.Controls.Add(button326);
-            boitesBoxes.Controls.Add(button327);
-            boitesBoxes.Controls.Add(button328);
-            boitesBoxes.Controls.Add(button329);
-            boitesBoxes.Controls.Add(button330);
-            boitesBoxes.Controls.Add(button331);
-            boitesBoxes.Controls.Add(button332);
-            boitesBoxes.Controls.Add(button333);
-            boitesBoxes.Controls.Add(button334);
-            boitesBoxes.Controls.Add(button335);
-            boitesBoxes.Controls.Add(button336);
-            boitesBoxes.Controls.Add(button337);
-            boitesBoxes.Controls.Add(button338);
-            boitesBoxes.Controls.Add(button339);
+            boitesBoxes.Controls.Add(pcBuild_d31);
+            boitesBoxes.Controls.Add(pcBuild_d30);
+            boitesBoxes.Controls.Add(pcBuild_d29);
+            boitesBoxes.Controls.Add(pcBuild_d28);
+            boitesBoxes.Controls.Add(pcBuild_d27);
+            boitesBoxes.Controls.Add(pcBuild_d26);
+            boitesBoxes.Controls.Add(pcBuild_d25);
+            boitesBoxes.Controls.Add(pcBuild_d24);
+            boitesBoxes.Controls.Add(pcBuild_d23);
+            boitesBoxes.Controls.Add(pcBuild_d22);
+            boitesBoxes.Controls.Add(pcBuild_d21);
+            boitesBoxes.Controls.Add(pcBuild_d20);
+            boitesBoxes.Controls.Add(pcBuild_d19);
+            boitesBoxes.Controls.Add(pcBuild_d18);
+            boitesBoxes.Controls.Add(pcBuild_d17);
+            boitesBoxes.Controls.Add(pcBuild_d16);
+            boitesBoxes.Controls.Add(pcBuild_d15);
+            boitesBoxes.Controls.Add(pcBuild_d14);
+            boitesBoxes.Controls.Add(pcBuild_d13);
+            boitesBoxes.Controls.Add(pcBuild_d12);
+            boitesBoxes.Controls.Add(pcBuild_d11);
+            boitesBoxes.Controls.Add(pcBuild_d10);
+            boitesBoxes.Controls.Add(pcBuild_d9);
+            boitesBoxes.Controls.Add(pcBuild_d8);
+            boitesBoxes.Controls.Add(pcBuild_d7);
+            boitesBoxes.Controls.Add(pcBuild_d6);
+            boitesBoxes.Controls.Add(pcBuild_d5);
+            boitesBoxes.Controls.Add(pcBuild_d4);
+            boitesBoxes.Controls.Add(pcBuild_d3);
             boitesBoxes.Controls.Add(pcBuild_d2);
             boitesBoxes.Controls.Add(pcBuild_d1);
             boitesBoxes.Controls.Add(guitar_d31);
@@ -6479,324 +6479,324 @@
             button362.TabIndex = 772;
             button362.UseVisualStyleBackColor = false;
             // 
-            // button311
+            // pcBuild_d31
             // 
-            button311.BackColor = Color.White;
-            button311.BackgroundImageLayout = ImageLayout.None;
-            button311.FlatStyle = FlatStyle.Popup;
-            button311.Location = new Point(870, 709);
-            button311.Name = "button311";
-            button311.Size = new Size(23, 23);
-            button311.TabIndex = 771;
-            button311.UseVisualStyleBackColor = false;
+            pcBuild_d31.BackColor = Color.White;
+            pcBuild_d31.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d31.FlatStyle = FlatStyle.Popup;
+            pcBuild_d31.Location = new Point(870, 709);
+            pcBuild_d31.Name = "pcBuild_d31";
+            pcBuild_d31.Size = new Size(23, 23);
+            pcBuild_d31.TabIndex = 771;
+            pcBuild_d31.UseVisualStyleBackColor = false;
             // 
-            // button312
+            // pcBuild_d30
             // 
-            button312.BackColor = Color.White;
-            button312.BackgroundImageLayout = ImageLayout.None;
-            button312.FlatStyle = FlatStyle.Popup;
-            button312.Location = new Point(841, 709);
-            button312.Name = "button312";
-            button312.Size = new Size(23, 23);
-            button312.TabIndex = 770;
-            button312.UseVisualStyleBackColor = false;
+            pcBuild_d30.BackColor = Color.White;
+            pcBuild_d30.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d30.FlatStyle = FlatStyle.Popup;
+            pcBuild_d30.Location = new Point(841, 709);
+            pcBuild_d30.Name = "pcBuild_d30";
+            pcBuild_d30.Size = new Size(23, 23);
+            pcBuild_d30.TabIndex = 770;
+            pcBuild_d30.UseVisualStyleBackColor = false;
             // 
-            // button313
+            // pcBuild_d29
             // 
-            button313.BackColor = Color.White;
-            button313.BackgroundImageLayout = ImageLayout.None;
-            button313.FlatStyle = FlatStyle.Popup;
-            button313.Location = new Point(812, 709);
-            button313.Name = "button313";
-            button313.Size = new Size(23, 23);
-            button313.TabIndex = 769;
-            button313.UseVisualStyleBackColor = false;
+            pcBuild_d29.BackColor = Color.White;
+            pcBuild_d29.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d29.FlatStyle = FlatStyle.Popup;
+            pcBuild_d29.Location = new Point(812, 709);
+            pcBuild_d29.Name = "pcBuild_d29";
+            pcBuild_d29.Size = new Size(23, 23);
+            pcBuild_d29.TabIndex = 769;
+            pcBuild_d29.UseVisualStyleBackColor = false;
             // 
-            // button314
+            // pcBuild_d28
             // 
-            button314.BackColor = Color.White;
-            button314.BackgroundImageLayout = ImageLayout.None;
-            button314.FlatStyle = FlatStyle.Popup;
-            button314.Location = new Point(783, 709);
-            button314.Name = "button314";
-            button314.Size = new Size(23, 23);
-            button314.TabIndex = 768;
-            button314.UseVisualStyleBackColor = false;
+            pcBuild_d28.BackColor = Color.White;
+            pcBuild_d28.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d28.FlatStyle = FlatStyle.Popup;
+            pcBuild_d28.Location = new Point(783, 709);
+            pcBuild_d28.Name = "pcBuild_d28";
+            pcBuild_d28.Size = new Size(23, 23);
+            pcBuild_d28.TabIndex = 768;
+            pcBuild_d28.UseVisualStyleBackColor = false;
             // 
-            // button315
+            // pcBuild_d27
             // 
-            button315.BackColor = Color.White;
-            button315.BackgroundImageLayout = ImageLayout.None;
-            button315.FlatStyle = FlatStyle.Popup;
-            button315.Location = new Point(754, 709);
-            button315.Name = "button315";
-            button315.Size = new Size(23, 23);
-            button315.TabIndex = 767;
-            button315.UseVisualStyleBackColor = false;
+            pcBuild_d27.BackColor = Color.White;
+            pcBuild_d27.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d27.FlatStyle = FlatStyle.Popup;
+            pcBuild_d27.Location = new Point(754, 709);
+            pcBuild_d27.Name = "pcBuild_d27";
+            pcBuild_d27.Size = new Size(23, 23);
+            pcBuild_d27.TabIndex = 767;
+            pcBuild_d27.UseVisualStyleBackColor = false;
             // 
-            // button316
+            // pcBuild_d26
             // 
-            button316.BackColor = Color.White;
-            button316.BackgroundImageLayout = ImageLayout.None;
-            button316.FlatStyle = FlatStyle.Popup;
-            button316.Location = new Point(725, 709);
-            button316.Name = "button316";
-            button316.Size = new Size(23, 23);
-            button316.TabIndex = 766;
-            button316.UseVisualStyleBackColor = false;
+            pcBuild_d26.BackColor = Color.White;
+            pcBuild_d26.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d26.FlatStyle = FlatStyle.Popup;
+            pcBuild_d26.Location = new Point(725, 709);
+            pcBuild_d26.Name = "pcBuild_d26";
+            pcBuild_d26.Size = new Size(23, 23);
+            pcBuild_d26.TabIndex = 766;
+            pcBuild_d26.UseVisualStyleBackColor = false;
             // 
-            // button317
+            // pcBuild_d25
             // 
-            button317.BackColor = Color.White;
-            button317.BackgroundImageLayout = ImageLayout.None;
-            button317.FlatStyle = FlatStyle.Popup;
-            button317.Location = new Point(696, 709);
-            button317.Name = "button317";
-            button317.Size = new Size(23, 23);
-            button317.TabIndex = 765;
-            button317.UseVisualStyleBackColor = false;
+            pcBuild_d25.BackColor = Color.White;
+            pcBuild_d25.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d25.FlatStyle = FlatStyle.Popup;
+            pcBuild_d25.Location = new Point(696, 709);
+            pcBuild_d25.Name = "pcBuild_d25";
+            pcBuild_d25.Size = new Size(23, 23);
+            pcBuild_d25.TabIndex = 765;
+            pcBuild_d25.UseVisualStyleBackColor = false;
             // 
-            // button318
+            // pcBuild_d24
             // 
-            button318.BackColor = Color.White;
-            button318.BackgroundImageLayout = ImageLayout.None;
-            button318.FlatStyle = FlatStyle.Popup;
-            button318.Location = new Point(667, 709);
-            button318.Name = "button318";
-            button318.Size = new Size(23, 23);
-            button318.TabIndex = 764;
-            button318.UseVisualStyleBackColor = false;
+            pcBuild_d24.BackColor = Color.White;
+            pcBuild_d24.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d24.FlatStyle = FlatStyle.Popup;
+            pcBuild_d24.Location = new Point(667, 709);
+            pcBuild_d24.Name = "pcBuild_d24";
+            pcBuild_d24.Size = new Size(23, 23);
+            pcBuild_d24.TabIndex = 764;
+            pcBuild_d24.UseVisualStyleBackColor = false;
             // 
-            // button319
+            // pcBuild_d23
             // 
-            button319.BackColor = Color.White;
-            button319.BackgroundImageLayout = ImageLayout.None;
-            button319.FlatStyle = FlatStyle.Popup;
-            button319.Location = new Point(638, 709);
-            button319.Name = "button319";
-            button319.Size = new Size(23, 23);
-            button319.TabIndex = 763;
-            button319.UseVisualStyleBackColor = false;
+            pcBuild_d23.BackColor = Color.White;
+            pcBuild_d23.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d23.FlatStyle = FlatStyle.Popup;
+            pcBuild_d23.Location = new Point(638, 709);
+            pcBuild_d23.Name = "pcBuild_d23";
+            pcBuild_d23.Size = new Size(23, 23);
+            pcBuild_d23.TabIndex = 763;
+            pcBuild_d23.UseVisualStyleBackColor = false;
             // 
-            // button320
+            // pcBuild_d22
             // 
-            button320.BackColor = Color.White;
-            button320.BackgroundImageLayout = ImageLayout.None;
-            button320.FlatStyle = FlatStyle.Popup;
-            button320.Location = new Point(609, 709);
-            button320.Name = "button320";
-            button320.Size = new Size(23, 23);
-            button320.TabIndex = 762;
-            button320.UseVisualStyleBackColor = false;
+            pcBuild_d22.BackColor = Color.White;
+            pcBuild_d22.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d22.FlatStyle = FlatStyle.Popup;
+            pcBuild_d22.Location = new Point(609, 709);
+            pcBuild_d22.Name = "pcBuild_d22";
+            pcBuild_d22.Size = new Size(23, 23);
+            pcBuild_d22.TabIndex = 762;
+            pcBuild_d22.UseVisualStyleBackColor = false;
             // 
-            // button321
+            // pcBuild_d21
             // 
-            button321.BackColor = Color.White;
-            button321.BackgroundImageLayout = ImageLayout.None;
-            button321.FlatStyle = FlatStyle.Popup;
-            button321.Location = new Point(580, 709);
-            button321.Name = "button321";
-            button321.Size = new Size(23, 23);
-            button321.TabIndex = 761;
-            button321.UseVisualStyleBackColor = false;
+            pcBuild_d21.BackColor = Color.White;
+            pcBuild_d21.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d21.FlatStyle = FlatStyle.Popup;
+            pcBuild_d21.Location = new Point(580, 709);
+            pcBuild_d21.Name = "pcBuild_d21";
+            pcBuild_d21.Size = new Size(23, 23);
+            pcBuild_d21.TabIndex = 761;
+            pcBuild_d21.UseVisualStyleBackColor = false;
             // 
-            // button322
+            // pcBuild_d20
             // 
-            button322.BackColor = Color.White;
-            button322.BackgroundImageLayout = ImageLayout.None;
-            button322.FlatStyle = FlatStyle.Popup;
-            button322.Location = new Point(551, 709);
-            button322.Name = "button322";
-            button322.Size = new Size(23, 23);
-            button322.TabIndex = 760;
-            button322.UseVisualStyleBackColor = false;
+            pcBuild_d20.BackColor = Color.White;
+            pcBuild_d20.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d20.FlatStyle = FlatStyle.Popup;
+            pcBuild_d20.Location = new Point(551, 709);
+            pcBuild_d20.Name = "pcBuild_d20";
+            pcBuild_d20.Size = new Size(23, 23);
+            pcBuild_d20.TabIndex = 760;
+            pcBuild_d20.UseVisualStyleBackColor = false;
             // 
-            // button323
+            // pcBuild_d19
             // 
-            button323.BackColor = Color.White;
-            button323.BackgroundImageLayout = ImageLayout.None;
-            button323.FlatStyle = FlatStyle.Popup;
-            button323.Location = new Point(522, 709);
-            button323.Name = "button323";
-            button323.Size = new Size(23, 23);
-            button323.TabIndex = 759;
-            button323.UseVisualStyleBackColor = false;
+            pcBuild_d19.BackColor = Color.White;
+            pcBuild_d19.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d19.FlatStyle = FlatStyle.Popup;
+            pcBuild_d19.Location = new Point(522, 709);
+            pcBuild_d19.Name = "pcBuild_d19";
+            pcBuild_d19.Size = new Size(23, 23);
+            pcBuild_d19.TabIndex = 759;
+            pcBuild_d19.UseVisualStyleBackColor = false;
             // 
-            // button324
+            // pcBuild_d18
             // 
-            button324.BackColor = Color.White;
-            button324.BackgroundImageLayout = ImageLayout.None;
-            button324.FlatStyle = FlatStyle.Popup;
-            button324.Location = new Point(493, 709);
-            button324.Name = "button324";
-            button324.Size = new Size(23, 23);
-            button324.TabIndex = 758;
-            button324.UseVisualStyleBackColor = false;
+            pcBuild_d18.BackColor = Color.White;
+            pcBuild_d18.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d18.FlatStyle = FlatStyle.Popup;
+            pcBuild_d18.Location = new Point(493, 709);
+            pcBuild_d18.Name = "pcBuild_d18";
+            pcBuild_d18.Size = new Size(23, 23);
+            pcBuild_d18.TabIndex = 758;
+            pcBuild_d18.UseVisualStyleBackColor = false;
             // 
-            // button325
+            // pcBuild_d17
             // 
-            button325.BackColor = Color.White;
-            button325.BackgroundImageLayout = ImageLayout.None;
-            button325.FlatStyle = FlatStyle.Popup;
-            button325.Location = new Point(464, 709);
-            button325.Name = "button325";
-            button325.Size = new Size(23, 23);
-            button325.TabIndex = 757;
-            button325.UseVisualStyleBackColor = false;
+            pcBuild_d17.BackColor = Color.White;
+            pcBuild_d17.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d17.FlatStyle = FlatStyle.Popup;
+            pcBuild_d17.Location = new Point(464, 709);
+            pcBuild_d17.Name = "pcBuild_d17";
+            pcBuild_d17.Size = new Size(23, 23);
+            pcBuild_d17.TabIndex = 757;
+            pcBuild_d17.UseVisualStyleBackColor = false;
             // 
-            // button326
+            // pcBuild_d16
             // 
-            button326.BackColor = Color.White;
-            button326.BackgroundImageLayout = ImageLayout.None;
-            button326.FlatStyle = FlatStyle.Popup;
-            button326.Location = new Point(435, 709);
-            button326.Name = "button326";
-            button326.Size = new Size(23, 23);
-            button326.TabIndex = 756;
-            button326.UseVisualStyleBackColor = false;
+            pcBuild_d16.BackColor = Color.White;
+            pcBuild_d16.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d16.FlatStyle = FlatStyle.Popup;
+            pcBuild_d16.Location = new Point(435, 709);
+            pcBuild_d16.Name = "pcBuild_d16";
+            pcBuild_d16.Size = new Size(23, 23);
+            pcBuild_d16.TabIndex = 756;
+            pcBuild_d16.UseVisualStyleBackColor = false;
             // 
-            // button327
+            // pcBuild_d15
             // 
-            button327.BackColor = Color.White;
-            button327.BackgroundImageLayout = ImageLayout.None;
-            button327.FlatStyle = FlatStyle.Popup;
-            button327.Location = new Point(406, 709);
-            button327.Name = "button327";
-            button327.Size = new Size(23, 23);
-            button327.TabIndex = 755;
-            button327.UseVisualStyleBackColor = false;
+            pcBuild_d15.BackColor = Color.White;
+            pcBuild_d15.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d15.FlatStyle = FlatStyle.Popup;
+            pcBuild_d15.Location = new Point(406, 709);
+            pcBuild_d15.Name = "pcBuild_d15";
+            pcBuild_d15.Size = new Size(23, 23);
+            pcBuild_d15.TabIndex = 755;
+            pcBuild_d15.UseVisualStyleBackColor = false;
             // 
-            // button328
+            // pcBuild_d14
             // 
-            button328.BackColor = Color.White;
-            button328.BackgroundImageLayout = ImageLayout.None;
-            button328.FlatStyle = FlatStyle.Popup;
-            button328.Location = new Point(377, 709);
-            button328.Name = "button328";
-            button328.Size = new Size(23, 23);
-            button328.TabIndex = 754;
-            button328.UseVisualStyleBackColor = false;
+            pcBuild_d14.BackColor = Color.White;
+            pcBuild_d14.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d14.FlatStyle = FlatStyle.Popup;
+            pcBuild_d14.Location = new Point(377, 709);
+            pcBuild_d14.Name = "pcBuild_d14";
+            pcBuild_d14.Size = new Size(23, 23);
+            pcBuild_d14.TabIndex = 754;
+            pcBuild_d14.UseVisualStyleBackColor = false;
             // 
-            // button329
+            // pcBuild_d13
             // 
-            button329.BackColor = Color.White;
-            button329.BackgroundImageLayout = ImageLayout.None;
-            button329.FlatStyle = FlatStyle.Popup;
-            button329.Location = new Point(348, 709);
-            button329.Name = "button329";
-            button329.Size = new Size(23, 23);
-            button329.TabIndex = 753;
-            button329.UseVisualStyleBackColor = false;
+            pcBuild_d13.BackColor = Color.White;
+            pcBuild_d13.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d13.FlatStyle = FlatStyle.Popup;
+            pcBuild_d13.Location = new Point(348, 709);
+            pcBuild_d13.Name = "pcBuild_d13";
+            pcBuild_d13.Size = new Size(23, 23);
+            pcBuild_d13.TabIndex = 753;
+            pcBuild_d13.UseVisualStyleBackColor = false;
             // 
-            // button330
+            // pcBuild_d12
             // 
-            button330.BackColor = Color.White;
-            button330.BackgroundImageLayout = ImageLayout.None;
-            button330.FlatStyle = FlatStyle.Popup;
-            button330.Location = new Point(319, 709);
-            button330.Name = "button330";
-            button330.Size = new Size(23, 23);
-            button330.TabIndex = 752;
-            button330.UseVisualStyleBackColor = false;
+            pcBuild_d12.BackColor = Color.White;
+            pcBuild_d12.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d12.FlatStyle = FlatStyle.Popup;
+            pcBuild_d12.Location = new Point(319, 709);
+            pcBuild_d12.Name = "pcBuild_d12";
+            pcBuild_d12.Size = new Size(23, 23);
+            pcBuild_d12.TabIndex = 752;
+            pcBuild_d12.UseVisualStyleBackColor = false;
             // 
-            // button331
+            // pcBuild_d11
             // 
-            button331.BackColor = Color.White;
-            button331.BackgroundImageLayout = ImageLayout.None;
-            button331.FlatStyle = FlatStyle.Popup;
-            button331.Location = new Point(290, 709);
-            button331.Name = "button331";
-            button331.Size = new Size(23, 23);
-            button331.TabIndex = 751;
-            button331.UseVisualStyleBackColor = false;
+            pcBuild_d11.BackColor = Color.White;
+            pcBuild_d11.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d11.FlatStyle = FlatStyle.Popup;
+            pcBuild_d11.Location = new Point(290, 709);
+            pcBuild_d11.Name = "pcBuild_d11";
+            pcBuild_d11.Size = new Size(23, 23);
+            pcBuild_d11.TabIndex = 751;
+            pcBuild_d11.UseVisualStyleBackColor = false;
             // 
-            // button332
+            // pcBuild_d10
             // 
-            button332.BackColor = Color.White;
-            button332.BackgroundImageLayout = ImageLayout.None;
-            button332.FlatStyle = FlatStyle.Popup;
-            button332.Location = new Point(261, 709);
-            button332.Name = "button332";
-            button332.Size = new Size(23, 23);
-            button332.TabIndex = 750;
-            button332.UseVisualStyleBackColor = false;
+            pcBuild_d10.BackColor = Color.White;
+            pcBuild_d10.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d10.FlatStyle = FlatStyle.Popup;
+            pcBuild_d10.Location = new Point(261, 709);
+            pcBuild_d10.Name = "pcBuild_d10";
+            pcBuild_d10.Size = new Size(23, 23);
+            pcBuild_d10.TabIndex = 750;
+            pcBuild_d10.UseVisualStyleBackColor = false;
             // 
-            // button333
+            // pcBuild_d9
             // 
-            button333.BackColor = Color.White;
-            button333.BackgroundImageLayout = ImageLayout.None;
-            button333.FlatStyle = FlatStyle.Popup;
-            button333.Location = new Point(232, 709);
-            button333.Name = "button333";
-            button333.Size = new Size(23, 23);
-            button333.TabIndex = 749;
-            button333.UseVisualStyleBackColor = false;
+            pcBuild_d9.BackColor = Color.White;
+            pcBuild_d9.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d9.FlatStyle = FlatStyle.Popup;
+            pcBuild_d9.Location = new Point(232, 709);
+            pcBuild_d9.Name = "pcBuild_d9";
+            pcBuild_d9.Size = new Size(23, 23);
+            pcBuild_d9.TabIndex = 749;
+            pcBuild_d9.UseVisualStyleBackColor = false;
             // 
-            // button334
+            // pcBuild_d8
             // 
-            button334.BackColor = Color.White;
-            button334.BackgroundImageLayout = ImageLayout.None;
-            button334.FlatStyle = FlatStyle.Popup;
-            button334.Location = new Point(203, 709);
-            button334.Name = "button334";
-            button334.Size = new Size(23, 23);
-            button334.TabIndex = 748;
-            button334.UseVisualStyleBackColor = false;
+            pcBuild_d8.BackColor = Color.White;
+            pcBuild_d8.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d8.FlatStyle = FlatStyle.Popup;
+            pcBuild_d8.Location = new Point(203, 709);
+            pcBuild_d8.Name = "pcBuild_d8";
+            pcBuild_d8.Size = new Size(23, 23);
+            pcBuild_d8.TabIndex = 748;
+            pcBuild_d8.UseVisualStyleBackColor = false;
             // 
-            // button335
+            // pcBuild_d7
             // 
-            button335.BackColor = Color.White;
-            button335.BackgroundImageLayout = ImageLayout.None;
-            button335.FlatStyle = FlatStyle.Popup;
-            button335.Location = new Point(174, 709);
-            button335.Name = "button335";
-            button335.Size = new Size(23, 23);
-            button335.TabIndex = 747;
-            button335.UseVisualStyleBackColor = false;
+            pcBuild_d7.BackColor = Color.White;
+            pcBuild_d7.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d7.FlatStyle = FlatStyle.Popup;
+            pcBuild_d7.Location = new Point(174, 709);
+            pcBuild_d7.Name = "pcBuild_d7";
+            pcBuild_d7.Size = new Size(23, 23);
+            pcBuild_d7.TabIndex = 747;
+            pcBuild_d7.UseVisualStyleBackColor = false;
             // 
-            // button336
+            // pcBuild_d6
             // 
-            button336.BackColor = Color.White;
-            button336.BackgroundImageLayout = ImageLayout.None;
-            button336.FlatStyle = FlatStyle.Popup;
-            button336.Location = new Point(145, 709);
-            button336.Name = "button336";
-            button336.Size = new Size(23, 23);
-            button336.TabIndex = 746;
-            button336.UseVisualStyleBackColor = false;
+            pcBuild_d6.BackColor = Color.White;
+            pcBuild_d6.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d6.FlatStyle = FlatStyle.Popup;
+            pcBuild_d6.Location = new Point(145, 709);
+            pcBuild_d6.Name = "pcBuild_d6";
+            pcBuild_d6.Size = new Size(23, 23);
+            pcBuild_d6.TabIndex = 746;
+            pcBuild_d6.UseVisualStyleBackColor = false;
             // 
-            // button337
+            // pcBuild_d5
             // 
-            button337.BackColor = Color.White;
-            button337.BackgroundImageLayout = ImageLayout.None;
-            button337.FlatStyle = FlatStyle.Popup;
-            button337.Location = new Point(116, 709);
-            button337.Name = "button337";
-            button337.Size = new Size(23, 23);
-            button337.TabIndex = 745;
-            button337.UseVisualStyleBackColor = false;
+            pcBuild_d5.BackColor = Color.White;
+            pcBuild_d5.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d5.FlatStyle = FlatStyle.Popup;
+            pcBuild_d5.Location = new Point(116, 709);
+            pcBuild_d5.Name = "pcBuild_d5";
+            pcBuild_d5.Size = new Size(23, 23);
+            pcBuild_d5.TabIndex = 745;
+            pcBuild_d5.UseVisualStyleBackColor = false;
             // 
-            // button338
+            // pcBuild_d4
             // 
-            button338.BackColor = Color.White;
-            button338.BackgroundImageLayout = ImageLayout.None;
-            button338.FlatStyle = FlatStyle.Popup;
-            button338.Location = new Point(87, 709);
-            button338.Name = "button338";
-            button338.Size = new Size(23, 23);
-            button338.TabIndex = 744;
-            button338.UseVisualStyleBackColor = false;
+            pcBuild_d4.BackColor = Color.White;
+            pcBuild_d4.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d4.FlatStyle = FlatStyle.Popup;
+            pcBuild_d4.Location = new Point(87, 709);
+            pcBuild_d4.Name = "pcBuild_d4";
+            pcBuild_d4.Size = new Size(23, 23);
+            pcBuild_d4.TabIndex = 744;
+            pcBuild_d4.UseVisualStyleBackColor = false;
             // 
-            // button339
+            // pcBuild_d3
             // 
-            button339.BackColor = Color.White;
-            button339.BackgroundImageLayout = ImageLayout.None;
-            button339.FlatStyle = FlatStyle.Popup;
-            button339.Location = new Point(58, 709);
-            button339.Name = "button339";
-            button339.Size = new Size(23, 23);
-            button339.TabIndex = 743;
-            button339.UseVisualStyleBackColor = false;
+            pcBuild_d3.BackColor = Color.White;
+            pcBuild_d3.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d3.FlatStyle = FlatStyle.Popup;
+            pcBuild_d3.Location = new Point(58, 709);
+            pcBuild_d3.Name = "pcBuild_d3";
+            pcBuild_d3.Size = new Size(23, 23);
+            pcBuild_d3.TabIndex = 743;
+            pcBuild_d3.UseVisualStyleBackColor = false;
             // 
             // pcBuild_d2
             // 
@@ -16253,35 +16253,35 @@
         private Button cardio_d3;
         private Button cardio_d2;
         private Button cardio_d1;
-        private Button button311;
-        private Button button312;
-        private Button button313;
-        private Button button314;
-        private Button button315;
-        private Button button316;
-        private Button button317;
-        private Button button318;
-        private Button button319;
-        private Button button320;
-        private Button button321;
-        private Button button322;
-        private Button button323;
-        private Button button324;
-        private Button button325;
-        private Button button326;
-        private Button button327;
-        private Button button328;
-        private Button button329;
-        private Button button330;
-        private Button button331;
-        private Button button332;
-        private Button button333;
-        private Button button334;
-        private Button button335;
-        private Button button336;
-        private Button button337;
-        private Button button338;
-        private Button button339;
+        private Button pcBuild_d31;
+        private Button pcBuild_d30;
+        private Button pcBuild_d29;
+        private Button pcBuild_d28;
+        private Button pcBuild_d27;
+        private Button pcBuild_d26;
+        private Button pcBuild_d25;
+        private Button pcBuild_d24;
+        private Button pcBuild_d23;
+        private Button pcBuild_d22;
+        private Button pcBuild_d21;
+        private Button pcBuild_d20;
+        private Button pcBuild_d19;
+        private Button pcBuild_d18;
+        private Button pcBuild_d17;
+        private Button pcBuild_d16;
+        private Button pcBuild_d15;
+        private Button pcBuild_d14;
+        private Button pcBuild_d13;
+        private Button pcBuild_d12;
+        private Button pcBuild_d11;
+        private Button pcBuild_d10;
+        private Button pcBuild_d9;
+        private Button pcBuild_d8;
+        private Button pcBuild_d7;
+        private Button pcBuild_d6;
+        private Button pcBuild_d5;
+        private Button pcBuild_d4;
+        private Button pcBuild_d3;
         private Button pcBuild_d2;
         private Button pcBuild_d1;
         private Button guitar_d31;

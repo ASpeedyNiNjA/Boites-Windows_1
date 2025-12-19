@@ -431,37 +431,37 @@
             button337 = new Button();
             button338 = new Button();
             button339 = new Button();
-            button340 = new Button();
-            button341 = new Button();
-            button280 = new Button();
-            button281 = new Button();
-            button282 = new Button();
-            button283 = new Button();
-            button284 = new Button();
-            button285 = new Button();
-            button286 = new Button();
-            button287 = new Button();
-            button288 = new Button();
-            button289 = new Button();
-            button290 = new Button();
-            button291 = new Button();
-            button292 = new Button();
-            button293 = new Button();
-            button294 = new Button();
-            button295 = new Button();
-            button296 = new Button();
-            button297 = new Button();
-            button298 = new Button();
-            button299 = new Button();
-            button300 = new Button();
-            button301 = new Button();
-            button302 = new Button();
-            button303 = new Button();
-            button304 = new Button();
-            button305 = new Button();
-            button306 = new Button();
-            button307 = new Button();
-            button308 = new Button();
+            pcBuild_d2 = new Button();
+            pcBuild_d1 = new Button();
+            guitar_d31 = new Button();
+            guitar_d30 = new Button();
+            guitar_d29 = new Button();
+            guitar_d28 = new Button();
+            guitar_d27 = new Button();
+            guitar_d26 = new Button();
+            guitar_d25 = new Button();
+            guitar_d24 = new Button();
+            guitar_d23 = new Button();
+            guitar_d22 = new Button();
+            guitar_d21 = new Button();
+            guitar_d20 = new Button();
+            guitar_d19 = new Button();
+            guitar_d18 = new Button();
+            guitar_d17 = new Button();
+            guitar_d16 = new Button();
+            guitar_d15 = new Button();
+            guitar_d14 = new Button();
+            guitar_d13 = new Button();
+            guitar_d12 = new Button();
+            guitar_d11 = new Button();
+            guitar_d10 = new Button();
+            guitar_d9 = new Button();
+            guitar_d8 = new Button();
+            guitar_d7 = new Button();
+            guitar_d6 = new Button();
+            guitar_d5 = new Button();
+            guitar_d4 = new Button();
+            guitar_d3 = new Button();
             guitar_d2 = new Button();
             guitar_d1 = new Button();
             vocals_d31 = new Button();
@@ -1634,37 +1634,37 @@
             boitesBoxes.Controls.Add(button337);
             boitesBoxes.Controls.Add(button338);
             boitesBoxes.Controls.Add(button339);
-            boitesBoxes.Controls.Add(button340);
-            boitesBoxes.Controls.Add(button341);
-            boitesBoxes.Controls.Add(button280);
-            boitesBoxes.Controls.Add(button281);
-            boitesBoxes.Controls.Add(button282);
-            boitesBoxes.Controls.Add(button283);
-            boitesBoxes.Controls.Add(button284);
-            boitesBoxes.Controls.Add(button285);
-            boitesBoxes.Controls.Add(button286);
-            boitesBoxes.Controls.Add(button287);
-            boitesBoxes.Controls.Add(button288);
-            boitesBoxes.Controls.Add(button289);
-            boitesBoxes.Controls.Add(button290);
-            boitesBoxes.Controls.Add(button291);
-            boitesBoxes.Controls.Add(button292);
-            boitesBoxes.Controls.Add(button293);
-            boitesBoxes.Controls.Add(button294);
-            boitesBoxes.Controls.Add(button295);
-            boitesBoxes.Controls.Add(button296);
-            boitesBoxes.Controls.Add(button297);
-            boitesBoxes.Controls.Add(button298);
-            boitesBoxes.Controls.Add(button299);
-            boitesBoxes.Controls.Add(button300);
-            boitesBoxes.Controls.Add(button301);
-            boitesBoxes.Controls.Add(button302);
-            boitesBoxes.Controls.Add(button303);
-            boitesBoxes.Controls.Add(button304);
-            boitesBoxes.Controls.Add(button305);
-            boitesBoxes.Controls.Add(button306);
-            boitesBoxes.Controls.Add(button307);
-            boitesBoxes.Controls.Add(button308);
+            boitesBoxes.Controls.Add(pcBuild_d2);
+            boitesBoxes.Controls.Add(pcBuild_d1);
+            boitesBoxes.Controls.Add(guitar_d31);
+            boitesBoxes.Controls.Add(guitar_d30);
+            boitesBoxes.Controls.Add(guitar_d29);
+            boitesBoxes.Controls.Add(guitar_d28);
+            boitesBoxes.Controls.Add(guitar_d27);
+            boitesBoxes.Controls.Add(guitar_d26);
+            boitesBoxes.Controls.Add(guitar_d25);
+            boitesBoxes.Controls.Add(guitar_d24);
+            boitesBoxes.Controls.Add(guitar_d23);
+            boitesBoxes.Controls.Add(guitar_d22);
+            boitesBoxes.Controls.Add(guitar_d21);
+            boitesBoxes.Controls.Add(guitar_d20);
+            boitesBoxes.Controls.Add(guitar_d19);
+            boitesBoxes.Controls.Add(guitar_d18);
+            boitesBoxes.Controls.Add(guitar_d17);
+            boitesBoxes.Controls.Add(guitar_d16);
+            boitesBoxes.Controls.Add(guitar_d15);
+            boitesBoxes.Controls.Add(guitar_d14);
+            boitesBoxes.Controls.Add(guitar_d13);
+            boitesBoxes.Controls.Add(guitar_d12);
+            boitesBoxes.Controls.Add(guitar_d11);
+            boitesBoxes.Controls.Add(guitar_d10);
+            boitesBoxes.Controls.Add(guitar_d9);
+            boitesBoxes.Controls.Add(guitar_d8);
+            boitesBoxes.Controls.Add(guitar_d7);
+            boitesBoxes.Controls.Add(guitar_d6);
+            boitesBoxes.Controls.Add(guitar_d5);
+            boitesBoxes.Controls.Add(guitar_d4);
+            boitesBoxes.Controls.Add(guitar_d3);
             boitesBoxes.Controls.Add(guitar_d2);
             boitesBoxes.Controls.Add(guitar_d1);
             boitesBoxes.Controls.Add(vocals_d31);
@@ -6798,346 +6798,346 @@
             button339.TabIndex = 743;
             button339.UseVisualStyleBackColor = false;
             // 
-            // button340
+            // pcBuild_d2
             // 
-            button340.BackColor = Color.White;
-            button340.BackgroundImageLayout = ImageLayout.None;
-            button340.FlatStyle = FlatStyle.Popup;
-            button340.Location = new Point(29, 709);
-            button340.Name = "button340";
-            button340.Size = new Size(23, 23);
-            button340.TabIndex = 742;
-            button340.UseVisualStyleBackColor = false;
+            pcBuild_d2.BackColor = Color.White;
+            pcBuild_d2.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d2.FlatStyle = FlatStyle.Popup;
+            pcBuild_d2.Location = new Point(29, 709);
+            pcBuild_d2.Name = "pcBuild_d2";
+            pcBuild_d2.Size = new Size(23, 23);
+            pcBuild_d2.TabIndex = 742;
+            pcBuild_d2.UseVisualStyleBackColor = false;
             // 
-            // button341
+            // pcBuild_d1
             // 
-            button341.BackColor = Color.Red;
-            button341.BackgroundImageLayout = ImageLayout.None;
-            button341.FlatStyle = FlatStyle.Popup;
-            button341.Location = new Point(0, 709);
-            button341.Name = "button341";
-            button341.Size = new Size(23, 23);
-            button341.TabIndex = 741;
-            button341.UseVisualStyleBackColor = false;
+            pcBuild_d1.BackColor = Color.Red;
+            pcBuild_d1.BackgroundImageLayout = ImageLayout.None;
+            pcBuild_d1.FlatStyle = FlatStyle.Popup;
+            pcBuild_d1.Location = new Point(0, 709);
+            pcBuild_d1.Name = "pcBuild_d1";
+            pcBuild_d1.Size = new Size(23, 23);
+            pcBuild_d1.TabIndex = 741;
+            pcBuild_d1.UseVisualStyleBackColor = false;
             // 
-            // button280
+            // guitar_d31
             // 
-            button280.BackColor = Color.White;
-            button280.BackgroundImageLayout = ImageLayout.None;
-            button280.FlatStyle = FlatStyle.Popup;
-            button280.Location = new Point(870, 680);
-            button280.Name = "button280";
-            button280.Size = new Size(23, 23);
-            button280.TabIndex = 740;
-            button280.UseVisualStyleBackColor = false;
+            guitar_d31.BackColor = Color.White;
+            guitar_d31.BackgroundImageLayout = ImageLayout.None;
+            guitar_d31.FlatStyle = FlatStyle.Popup;
+            guitar_d31.Location = new Point(870, 680);
+            guitar_d31.Name = "guitar_d31";
+            guitar_d31.Size = new Size(23, 23);
+            guitar_d31.TabIndex = 740;
+            guitar_d31.UseVisualStyleBackColor = false;
             // 
-            // button281
+            // guitar_d30
             // 
-            button281.BackColor = Color.White;
-            button281.BackgroundImageLayout = ImageLayout.None;
-            button281.FlatStyle = FlatStyle.Popup;
-            button281.Location = new Point(841, 680);
-            button281.Name = "button281";
-            button281.Size = new Size(23, 23);
-            button281.TabIndex = 739;
-            button281.UseVisualStyleBackColor = false;
+            guitar_d30.BackColor = Color.White;
+            guitar_d30.BackgroundImageLayout = ImageLayout.None;
+            guitar_d30.FlatStyle = FlatStyle.Popup;
+            guitar_d30.Location = new Point(841, 680);
+            guitar_d30.Name = "guitar_d30";
+            guitar_d30.Size = new Size(23, 23);
+            guitar_d30.TabIndex = 739;
+            guitar_d30.UseVisualStyleBackColor = false;
             // 
-            // button282
+            // guitar_d29
             // 
-            button282.BackColor = Color.White;
-            button282.BackgroundImageLayout = ImageLayout.None;
-            button282.FlatStyle = FlatStyle.Popup;
-            button282.Location = new Point(812, 680);
-            button282.Name = "button282";
-            button282.Size = new Size(23, 23);
-            button282.TabIndex = 738;
-            button282.UseVisualStyleBackColor = false;
+            guitar_d29.BackColor = Color.White;
+            guitar_d29.BackgroundImageLayout = ImageLayout.None;
+            guitar_d29.FlatStyle = FlatStyle.Popup;
+            guitar_d29.Location = new Point(812, 680);
+            guitar_d29.Name = "guitar_d29";
+            guitar_d29.Size = new Size(23, 23);
+            guitar_d29.TabIndex = 738;
+            guitar_d29.UseVisualStyleBackColor = false;
             // 
-            // button283
+            // guitar_d28
             // 
-            button283.BackColor = Color.White;
-            button283.BackgroundImageLayout = ImageLayout.None;
-            button283.FlatStyle = FlatStyle.Popup;
-            button283.Location = new Point(783, 680);
-            button283.Name = "button283";
-            button283.Size = new Size(23, 23);
-            button283.TabIndex = 737;
-            button283.UseVisualStyleBackColor = false;
+            guitar_d28.BackColor = Color.White;
+            guitar_d28.BackgroundImageLayout = ImageLayout.None;
+            guitar_d28.FlatStyle = FlatStyle.Popup;
+            guitar_d28.Location = new Point(783, 680);
+            guitar_d28.Name = "guitar_d28";
+            guitar_d28.Size = new Size(23, 23);
+            guitar_d28.TabIndex = 737;
+            guitar_d28.UseVisualStyleBackColor = false;
             // 
-            // button284
+            // guitar_d27
             // 
-            button284.BackColor = Color.White;
-            button284.BackgroundImageLayout = ImageLayout.None;
-            button284.FlatStyle = FlatStyle.Popup;
-            button284.Location = new Point(754, 680);
-            button284.Name = "button284";
-            button284.Size = new Size(23, 23);
-            button284.TabIndex = 736;
-            button284.UseVisualStyleBackColor = false;
+            guitar_d27.BackColor = Color.White;
+            guitar_d27.BackgroundImageLayout = ImageLayout.None;
+            guitar_d27.FlatStyle = FlatStyle.Popup;
+            guitar_d27.Location = new Point(754, 680);
+            guitar_d27.Name = "guitar_d27";
+            guitar_d27.Size = new Size(23, 23);
+            guitar_d27.TabIndex = 736;
+            guitar_d27.UseVisualStyleBackColor = false;
             // 
-            // button285
+            // guitar_d26
             // 
-            button285.BackColor = Color.White;
-            button285.BackgroundImageLayout = ImageLayout.None;
-            button285.FlatStyle = FlatStyle.Popup;
-            button285.Location = new Point(725, 680);
-            button285.Name = "button285";
-            button285.Size = new Size(23, 23);
-            button285.TabIndex = 735;
-            button285.UseVisualStyleBackColor = false;
+            guitar_d26.BackColor = Color.White;
+            guitar_d26.BackgroundImageLayout = ImageLayout.None;
+            guitar_d26.FlatStyle = FlatStyle.Popup;
+            guitar_d26.Location = new Point(725, 680);
+            guitar_d26.Name = "guitar_d26";
+            guitar_d26.Size = new Size(23, 23);
+            guitar_d26.TabIndex = 735;
+            guitar_d26.UseVisualStyleBackColor = false;
             // 
-            // button286
+            // guitar_d25
             // 
-            button286.BackColor = Color.White;
-            button286.BackgroundImageLayout = ImageLayout.None;
-            button286.FlatStyle = FlatStyle.Popup;
-            button286.Location = new Point(696, 680);
-            button286.Name = "button286";
-            button286.Size = new Size(23, 23);
-            button286.TabIndex = 734;
-            button286.UseVisualStyleBackColor = false;
+            guitar_d25.BackColor = Color.White;
+            guitar_d25.BackgroundImageLayout = ImageLayout.None;
+            guitar_d25.FlatStyle = FlatStyle.Popup;
+            guitar_d25.Location = new Point(696, 680);
+            guitar_d25.Name = "guitar_d25";
+            guitar_d25.Size = new Size(23, 23);
+            guitar_d25.TabIndex = 734;
+            guitar_d25.UseVisualStyleBackColor = false;
             // 
-            // button287
+            // guitar_d24
             // 
-            button287.BackColor = Color.White;
-            button287.BackgroundImageLayout = ImageLayout.None;
-            button287.FlatStyle = FlatStyle.Popup;
-            button287.Location = new Point(667, 680);
-            button287.Name = "button287";
-            button287.Size = new Size(23, 23);
-            button287.TabIndex = 733;
-            button287.UseVisualStyleBackColor = false;
+            guitar_d24.BackColor = Color.White;
+            guitar_d24.BackgroundImageLayout = ImageLayout.None;
+            guitar_d24.FlatStyle = FlatStyle.Popup;
+            guitar_d24.Location = new Point(667, 680);
+            guitar_d24.Name = "guitar_d24";
+            guitar_d24.Size = new Size(23, 23);
+            guitar_d24.TabIndex = 733;
+            guitar_d24.UseVisualStyleBackColor = false;
             // 
-            // button288
+            // guitar_d23
             // 
-            button288.BackColor = Color.White;
-            button288.BackgroundImageLayout = ImageLayout.None;
-            button288.FlatStyle = FlatStyle.Popup;
-            button288.Location = new Point(638, 680);
-            button288.Name = "button288";
-            button288.Size = new Size(23, 23);
-            button288.TabIndex = 732;
-            button288.UseVisualStyleBackColor = false;
+            guitar_d23.BackColor = Color.White;
+            guitar_d23.BackgroundImageLayout = ImageLayout.None;
+            guitar_d23.FlatStyle = FlatStyle.Popup;
+            guitar_d23.Location = new Point(638, 680);
+            guitar_d23.Name = "guitar_d23";
+            guitar_d23.Size = new Size(23, 23);
+            guitar_d23.TabIndex = 732;
+            guitar_d23.UseVisualStyleBackColor = false;
             // 
-            // button289
+            // guitar_d22
             // 
-            button289.BackColor = Color.White;
-            button289.BackgroundImageLayout = ImageLayout.None;
-            button289.FlatStyle = FlatStyle.Popup;
-            button289.Location = new Point(609, 680);
-            button289.Name = "button289";
-            button289.Size = new Size(23, 23);
-            button289.TabIndex = 731;
-            button289.UseVisualStyleBackColor = false;
+            guitar_d22.BackColor = Color.White;
+            guitar_d22.BackgroundImageLayout = ImageLayout.None;
+            guitar_d22.FlatStyle = FlatStyle.Popup;
+            guitar_d22.Location = new Point(609, 680);
+            guitar_d22.Name = "guitar_d22";
+            guitar_d22.Size = new Size(23, 23);
+            guitar_d22.TabIndex = 731;
+            guitar_d22.UseVisualStyleBackColor = false;
             // 
-            // button290
+            // guitar_d21
             // 
-            button290.BackColor = Color.White;
-            button290.BackgroundImageLayout = ImageLayout.None;
-            button290.FlatStyle = FlatStyle.Popup;
-            button290.Location = new Point(580, 680);
-            button290.Name = "button290";
-            button290.Size = new Size(23, 23);
-            button290.TabIndex = 730;
-            button290.UseVisualStyleBackColor = false;
+            guitar_d21.BackColor = Color.White;
+            guitar_d21.BackgroundImageLayout = ImageLayout.None;
+            guitar_d21.FlatStyle = FlatStyle.Popup;
+            guitar_d21.Location = new Point(580, 680);
+            guitar_d21.Name = "guitar_d21";
+            guitar_d21.Size = new Size(23, 23);
+            guitar_d21.TabIndex = 730;
+            guitar_d21.UseVisualStyleBackColor = false;
             // 
-            // button291
+            // guitar_d20
             // 
-            button291.BackColor = Color.White;
-            button291.BackgroundImageLayout = ImageLayout.None;
-            button291.FlatStyle = FlatStyle.Popup;
-            button291.Location = new Point(551, 680);
-            button291.Name = "button291";
-            button291.Size = new Size(23, 23);
-            button291.TabIndex = 729;
-            button291.UseVisualStyleBackColor = false;
+            guitar_d20.BackColor = Color.White;
+            guitar_d20.BackgroundImageLayout = ImageLayout.None;
+            guitar_d20.FlatStyle = FlatStyle.Popup;
+            guitar_d20.Location = new Point(551, 680);
+            guitar_d20.Name = "guitar_d20";
+            guitar_d20.Size = new Size(23, 23);
+            guitar_d20.TabIndex = 729;
+            guitar_d20.UseVisualStyleBackColor = false;
             // 
-            // button292
+            // guitar_d19
             // 
-            button292.BackColor = Color.White;
-            button292.BackgroundImageLayout = ImageLayout.None;
-            button292.FlatStyle = FlatStyle.Popup;
-            button292.Location = new Point(522, 680);
-            button292.Name = "button292";
-            button292.Size = new Size(23, 23);
-            button292.TabIndex = 728;
-            button292.UseVisualStyleBackColor = false;
+            guitar_d19.BackColor = Color.White;
+            guitar_d19.BackgroundImageLayout = ImageLayout.None;
+            guitar_d19.FlatStyle = FlatStyle.Popup;
+            guitar_d19.Location = new Point(522, 680);
+            guitar_d19.Name = "guitar_d19";
+            guitar_d19.Size = new Size(23, 23);
+            guitar_d19.TabIndex = 728;
+            guitar_d19.UseVisualStyleBackColor = false;
             // 
-            // button293
+            // guitar_d18
             // 
-            button293.BackColor = Color.White;
-            button293.BackgroundImageLayout = ImageLayout.None;
-            button293.FlatStyle = FlatStyle.Popup;
-            button293.Location = new Point(493, 680);
-            button293.Name = "button293";
-            button293.Size = new Size(23, 23);
-            button293.TabIndex = 727;
-            button293.UseVisualStyleBackColor = false;
+            guitar_d18.BackColor = Color.White;
+            guitar_d18.BackgroundImageLayout = ImageLayout.None;
+            guitar_d18.FlatStyle = FlatStyle.Popup;
+            guitar_d18.Location = new Point(493, 680);
+            guitar_d18.Name = "guitar_d18";
+            guitar_d18.Size = new Size(23, 23);
+            guitar_d18.TabIndex = 727;
+            guitar_d18.UseVisualStyleBackColor = false;
             // 
-            // button294
+            // guitar_d17
             // 
-            button294.BackColor = Color.White;
-            button294.BackgroundImageLayout = ImageLayout.None;
-            button294.FlatStyle = FlatStyle.Popup;
-            button294.Location = new Point(464, 680);
-            button294.Name = "button294";
-            button294.Size = new Size(23, 23);
-            button294.TabIndex = 726;
-            button294.UseVisualStyleBackColor = false;
+            guitar_d17.BackColor = Color.White;
+            guitar_d17.BackgroundImageLayout = ImageLayout.None;
+            guitar_d17.FlatStyle = FlatStyle.Popup;
+            guitar_d17.Location = new Point(464, 680);
+            guitar_d17.Name = "guitar_d17";
+            guitar_d17.Size = new Size(23, 23);
+            guitar_d17.TabIndex = 726;
+            guitar_d17.UseVisualStyleBackColor = false;
             // 
-            // button295
+            // guitar_d16
             // 
-            button295.BackColor = Color.White;
-            button295.BackgroundImageLayout = ImageLayout.None;
-            button295.FlatStyle = FlatStyle.Popup;
-            button295.Location = new Point(435, 680);
-            button295.Name = "button295";
-            button295.Size = new Size(23, 23);
-            button295.TabIndex = 725;
-            button295.UseVisualStyleBackColor = false;
+            guitar_d16.BackColor = Color.White;
+            guitar_d16.BackgroundImageLayout = ImageLayout.None;
+            guitar_d16.FlatStyle = FlatStyle.Popup;
+            guitar_d16.Location = new Point(435, 680);
+            guitar_d16.Name = "guitar_d16";
+            guitar_d16.Size = new Size(23, 23);
+            guitar_d16.TabIndex = 725;
+            guitar_d16.UseVisualStyleBackColor = false;
             // 
-            // button296
+            // guitar_d15
             // 
-            button296.BackColor = Color.White;
-            button296.BackgroundImageLayout = ImageLayout.None;
-            button296.FlatStyle = FlatStyle.Popup;
-            button296.Location = new Point(406, 680);
-            button296.Name = "button296";
-            button296.Size = new Size(23, 23);
-            button296.TabIndex = 724;
-            button296.UseVisualStyleBackColor = false;
+            guitar_d15.BackColor = Color.White;
+            guitar_d15.BackgroundImageLayout = ImageLayout.None;
+            guitar_d15.FlatStyle = FlatStyle.Popup;
+            guitar_d15.Location = new Point(406, 680);
+            guitar_d15.Name = "guitar_d15";
+            guitar_d15.Size = new Size(23, 23);
+            guitar_d15.TabIndex = 724;
+            guitar_d15.UseVisualStyleBackColor = false;
             // 
-            // button297
+            // guitar_d14
             // 
-            button297.BackColor = Color.White;
-            button297.BackgroundImageLayout = ImageLayout.None;
-            button297.FlatStyle = FlatStyle.Popup;
-            button297.Location = new Point(377, 680);
-            button297.Name = "button297";
-            button297.Size = new Size(23, 23);
-            button297.TabIndex = 723;
-            button297.UseVisualStyleBackColor = false;
+            guitar_d14.BackColor = Color.White;
+            guitar_d14.BackgroundImageLayout = ImageLayout.None;
+            guitar_d14.FlatStyle = FlatStyle.Popup;
+            guitar_d14.Location = new Point(377, 680);
+            guitar_d14.Name = "guitar_d14";
+            guitar_d14.Size = new Size(23, 23);
+            guitar_d14.TabIndex = 723;
+            guitar_d14.UseVisualStyleBackColor = false;
             // 
-            // button298
+            // guitar_d13
             // 
-            button298.BackColor = Color.White;
-            button298.BackgroundImageLayout = ImageLayout.None;
-            button298.FlatStyle = FlatStyle.Popup;
-            button298.Location = new Point(348, 680);
-            button298.Name = "button298";
-            button298.Size = new Size(23, 23);
-            button298.TabIndex = 722;
-            button298.UseVisualStyleBackColor = false;
+            guitar_d13.BackColor = Color.White;
+            guitar_d13.BackgroundImageLayout = ImageLayout.None;
+            guitar_d13.FlatStyle = FlatStyle.Popup;
+            guitar_d13.Location = new Point(348, 680);
+            guitar_d13.Name = "guitar_d13";
+            guitar_d13.Size = new Size(23, 23);
+            guitar_d13.TabIndex = 722;
+            guitar_d13.UseVisualStyleBackColor = false;
             // 
-            // button299
+            // guitar_d12
             // 
-            button299.BackColor = Color.White;
-            button299.BackgroundImageLayout = ImageLayout.None;
-            button299.FlatStyle = FlatStyle.Popup;
-            button299.Location = new Point(319, 680);
-            button299.Name = "button299";
-            button299.Size = new Size(23, 23);
-            button299.TabIndex = 721;
-            button299.UseVisualStyleBackColor = false;
+            guitar_d12.BackColor = Color.White;
+            guitar_d12.BackgroundImageLayout = ImageLayout.None;
+            guitar_d12.FlatStyle = FlatStyle.Popup;
+            guitar_d12.Location = new Point(319, 680);
+            guitar_d12.Name = "guitar_d12";
+            guitar_d12.Size = new Size(23, 23);
+            guitar_d12.TabIndex = 721;
+            guitar_d12.UseVisualStyleBackColor = false;
             // 
-            // button300
+            // guitar_d11
             // 
-            button300.BackColor = Color.White;
-            button300.BackgroundImageLayout = ImageLayout.None;
-            button300.FlatStyle = FlatStyle.Popup;
-            button300.Location = new Point(290, 680);
-            button300.Name = "button300";
-            button300.Size = new Size(23, 23);
-            button300.TabIndex = 720;
-            button300.UseVisualStyleBackColor = false;
+            guitar_d11.BackColor = Color.White;
+            guitar_d11.BackgroundImageLayout = ImageLayout.None;
+            guitar_d11.FlatStyle = FlatStyle.Popup;
+            guitar_d11.Location = new Point(290, 680);
+            guitar_d11.Name = "guitar_d11";
+            guitar_d11.Size = new Size(23, 23);
+            guitar_d11.TabIndex = 720;
+            guitar_d11.UseVisualStyleBackColor = false;
             // 
-            // button301
+            // guitar_d10
             // 
-            button301.BackColor = Color.White;
-            button301.BackgroundImageLayout = ImageLayout.None;
-            button301.FlatStyle = FlatStyle.Popup;
-            button301.Location = new Point(261, 680);
-            button301.Name = "button301";
-            button301.Size = new Size(23, 23);
-            button301.TabIndex = 719;
-            button301.UseVisualStyleBackColor = false;
+            guitar_d10.BackColor = Color.White;
+            guitar_d10.BackgroundImageLayout = ImageLayout.None;
+            guitar_d10.FlatStyle = FlatStyle.Popup;
+            guitar_d10.Location = new Point(261, 680);
+            guitar_d10.Name = "guitar_d10";
+            guitar_d10.Size = new Size(23, 23);
+            guitar_d10.TabIndex = 719;
+            guitar_d10.UseVisualStyleBackColor = false;
             // 
-            // button302
+            // guitar_d9
             // 
-            button302.BackColor = Color.White;
-            button302.BackgroundImageLayout = ImageLayout.None;
-            button302.FlatStyle = FlatStyle.Popup;
-            button302.Location = new Point(232, 680);
-            button302.Name = "button302";
-            button302.Size = new Size(23, 23);
-            button302.TabIndex = 718;
-            button302.UseVisualStyleBackColor = false;
+            guitar_d9.BackColor = Color.White;
+            guitar_d9.BackgroundImageLayout = ImageLayout.None;
+            guitar_d9.FlatStyle = FlatStyle.Popup;
+            guitar_d9.Location = new Point(232, 680);
+            guitar_d9.Name = "guitar_d9";
+            guitar_d9.Size = new Size(23, 23);
+            guitar_d9.TabIndex = 718;
+            guitar_d9.UseVisualStyleBackColor = false;
             // 
-            // button303
+            // guitar_d8
             // 
-            button303.BackColor = Color.White;
-            button303.BackgroundImageLayout = ImageLayout.None;
-            button303.FlatStyle = FlatStyle.Popup;
-            button303.Location = new Point(203, 680);
-            button303.Name = "button303";
-            button303.Size = new Size(23, 23);
-            button303.TabIndex = 717;
-            button303.UseVisualStyleBackColor = false;
+            guitar_d8.BackColor = Color.White;
+            guitar_d8.BackgroundImageLayout = ImageLayout.None;
+            guitar_d8.FlatStyle = FlatStyle.Popup;
+            guitar_d8.Location = new Point(203, 680);
+            guitar_d8.Name = "guitar_d8";
+            guitar_d8.Size = new Size(23, 23);
+            guitar_d8.TabIndex = 717;
+            guitar_d8.UseVisualStyleBackColor = false;
             // 
-            // button304
+            // guitar_d7
             // 
-            button304.BackColor = Color.White;
-            button304.BackgroundImageLayout = ImageLayout.None;
-            button304.FlatStyle = FlatStyle.Popup;
-            button304.Location = new Point(174, 680);
-            button304.Name = "button304";
-            button304.Size = new Size(23, 23);
-            button304.TabIndex = 716;
-            button304.UseVisualStyleBackColor = false;
+            guitar_d7.BackColor = Color.White;
+            guitar_d7.BackgroundImageLayout = ImageLayout.None;
+            guitar_d7.FlatStyle = FlatStyle.Popup;
+            guitar_d7.Location = new Point(174, 680);
+            guitar_d7.Name = "guitar_d7";
+            guitar_d7.Size = new Size(23, 23);
+            guitar_d7.TabIndex = 716;
+            guitar_d7.UseVisualStyleBackColor = false;
             // 
-            // button305
+            // guitar_d6
             // 
-            button305.BackColor = Color.White;
-            button305.BackgroundImageLayout = ImageLayout.None;
-            button305.FlatStyle = FlatStyle.Popup;
-            button305.Location = new Point(145, 680);
-            button305.Name = "button305";
-            button305.Size = new Size(23, 23);
-            button305.TabIndex = 715;
-            button305.UseVisualStyleBackColor = false;
+            guitar_d6.BackColor = Color.White;
+            guitar_d6.BackgroundImageLayout = ImageLayout.None;
+            guitar_d6.FlatStyle = FlatStyle.Popup;
+            guitar_d6.Location = new Point(145, 680);
+            guitar_d6.Name = "guitar_d6";
+            guitar_d6.Size = new Size(23, 23);
+            guitar_d6.TabIndex = 715;
+            guitar_d6.UseVisualStyleBackColor = false;
             // 
-            // button306
+            // guitar_d5
             // 
-            button306.BackColor = Color.White;
-            button306.BackgroundImageLayout = ImageLayout.None;
-            button306.FlatStyle = FlatStyle.Popup;
-            button306.Location = new Point(116, 680);
-            button306.Name = "button306";
-            button306.Size = new Size(23, 23);
-            button306.TabIndex = 712;
-            button306.UseVisualStyleBackColor = false;
+            guitar_d5.BackColor = Color.White;
+            guitar_d5.BackgroundImageLayout = ImageLayout.None;
+            guitar_d5.FlatStyle = FlatStyle.Popup;
+            guitar_d5.Location = new Point(116, 680);
+            guitar_d5.Name = "guitar_d5";
+            guitar_d5.Size = new Size(23, 23);
+            guitar_d5.TabIndex = 712;
+            guitar_d5.UseVisualStyleBackColor = false;
             // 
-            // button307
+            // guitar_d4
             // 
-            button307.BackColor = Color.White;
-            button307.BackgroundImageLayout = ImageLayout.None;
-            button307.FlatStyle = FlatStyle.Popup;
-            button307.Location = new Point(87, 680);
-            button307.Name = "button307";
-            button307.Size = new Size(23, 23);
-            button307.TabIndex = 711;
-            button307.UseVisualStyleBackColor = false;
+            guitar_d4.BackColor = Color.White;
+            guitar_d4.BackgroundImageLayout = ImageLayout.None;
+            guitar_d4.FlatStyle = FlatStyle.Popup;
+            guitar_d4.Location = new Point(87, 680);
+            guitar_d4.Name = "guitar_d4";
+            guitar_d4.Size = new Size(23, 23);
+            guitar_d4.TabIndex = 711;
+            guitar_d4.UseVisualStyleBackColor = false;
             // 
-            // button308
+            // guitar_d3
             // 
-            button308.BackColor = Color.White;
-            button308.BackgroundImageLayout = ImageLayout.None;
-            button308.FlatStyle = FlatStyle.Popup;
-            button308.Location = new Point(58, 680);
-            button308.Name = "button308";
-            button308.Size = new Size(23, 23);
-            button308.TabIndex = 714;
-            button308.UseVisualStyleBackColor = false;
+            guitar_d3.BackColor = Color.White;
+            guitar_d3.BackgroundImageLayout = ImageLayout.None;
+            guitar_d3.FlatStyle = FlatStyle.Popup;
+            guitar_d3.Location = new Point(58, 680);
+            guitar_d3.Name = "guitar_d3";
+            guitar_d3.Size = new Size(23, 23);
+            guitar_d3.TabIndex = 714;
+            guitar_d3.UseVisualStyleBackColor = false;
             // 
             // guitar_d2
             // 
@@ -16282,37 +16282,37 @@
         private Button button337;
         private Button button338;
         private Button button339;
-        private Button button340;
-        private Button button341;
-        private Button button280;
-        private Button button281;
-        private Button button282;
-        private Button button283;
-        private Button button284;
-        private Button button285;
-        private Button button286;
-        private Button button287;
-        private Button button288;
-        private Button button289;
-        private Button button290;
-        private Button button291;
-        private Button button292;
-        private Button button293;
-        private Button button294;
-        private Button button295;
-        private Button button296;
-        private Button button297;
-        private Button button298;
-        private Button button299;
-        private Button button300;
-        private Button button301;
-        private Button button302;
-        private Button button303;
-        private Button button304;
-        private Button button305;
-        private Button button306;
-        private Button button307;
-        private Button button308;
+        private Button pcBuild_d2;
+        private Button pcBuild_d1;
+        private Button guitar_d31;
+        private Button guitar_d30;
+        private Button guitar_d29;
+        private Button guitar_d28;
+        private Button guitar_d27;
+        private Button guitar_d26;
+        private Button guitar_d25;
+        private Button guitar_d24;
+        private Button guitar_d23;
+        private Button guitar_d22;
+        private Button guitar_d21;
+        private Button guitar_d20;
+        private Button guitar_d19;
+        private Button guitar_d18;
+        private Button guitar_d17;
+        private Button guitar_d16;
+        private Button guitar_d15;
+        private Button guitar_d14;
+        private Button guitar_d13;
+        private Button guitar_d12;
+        private Button guitar_d11;
+        private Button guitar_d10;
+        private Button guitar_d9;
+        private Button guitar_d8;
+        private Button guitar_d7;
+        private Button guitar_d6;
+        private Button guitar_d5;
+        private Button guitar_d4;
+        private Button guitar_d3;
         private Button guitar_d2;
         private Button guitar_d1;
         private Button vocals_d31;

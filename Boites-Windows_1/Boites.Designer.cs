@@ -399,9 +399,9 @@
             button357 = new Button();
             button358 = new Button();
             button359 = new Button();
-            button360 = new Button();
-            button361 = new Button();
-            button362 = new Button();
+            clean_d3 = new Button();
+            clean_d2 = new Button();
+            clean_d1 = new Button();
             pcBuild_d31 = new Button();
             pcBuild_d30 = new Button();
             pcBuild_d29 = new Button();
@@ -1602,9 +1602,9 @@
             boitesBoxes.Controls.Add(button357);
             boitesBoxes.Controls.Add(button358);
             boitesBoxes.Controls.Add(button359);
-            boitesBoxes.Controls.Add(button360);
-            boitesBoxes.Controls.Add(button361);
-            boitesBoxes.Controls.Add(button362);
+            boitesBoxes.Controls.Add(clean_d3);
+            boitesBoxes.Controls.Add(clean_d2);
+            boitesBoxes.Controls.Add(clean_d1);
             boitesBoxes.Controls.Add(pcBuild_d31);
             boitesBoxes.Controls.Add(pcBuild_d30);
             boitesBoxes.Controls.Add(pcBuild_d29);
@@ -6446,38 +6446,38 @@
             button359.TabIndex = 775;
             button359.UseVisualStyleBackColor = false;
             // 
-            // button360
+            // clean_d3
             // 
-            button360.BackColor = Color.White;
-            button360.BackgroundImageLayout = ImageLayout.None;
-            button360.FlatStyle = FlatStyle.Popup;
-            button360.Location = new Point(58, 738);
-            button360.Name = "button360";
-            button360.Size = new Size(23, 23);
-            button360.TabIndex = 774;
-            button360.UseVisualStyleBackColor = false;
+            clean_d3.BackColor = Color.White;
+            clean_d3.BackgroundImageLayout = ImageLayout.None;
+            clean_d3.FlatStyle = FlatStyle.Popup;
+            clean_d3.Location = new Point(58, 738);
+            clean_d3.Name = "clean_d3";
+            clean_d3.Size = new Size(23, 23);
+            clean_d3.TabIndex = 774;
+            clean_d3.UseVisualStyleBackColor = false;
             // 
-            // button361
+            // clean_d2
             // 
-            button361.BackColor = Color.White;
-            button361.BackgroundImageLayout = ImageLayout.None;
-            button361.FlatStyle = FlatStyle.Popup;
-            button361.Location = new Point(29, 738);
-            button361.Name = "button361";
-            button361.Size = new Size(23, 23);
-            button361.TabIndex = 773;
-            button361.UseVisualStyleBackColor = false;
+            clean_d2.BackColor = Color.White;
+            clean_d2.BackgroundImageLayout = ImageLayout.None;
+            clean_d2.FlatStyle = FlatStyle.Popup;
+            clean_d2.Location = new Point(29, 738);
+            clean_d2.Name = "clean_d2";
+            clean_d2.Size = new Size(23, 23);
+            clean_d2.TabIndex = 773;
+            clean_d2.UseVisualStyleBackColor = false;
             // 
-            // button362
+            // clean_d1
             // 
-            button362.BackColor = Color.Yellow;
-            button362.BackgroundImageLayout = ImageLayout.None;
-            button362.FlatStyle = FlatStyle.Popup;
-            button362.Location = new Point(0, 738);
-            button362.Name = "button362";
-            button362.Size = new Size(23, 23);
-            button362.TabIndex = 772;
-            button362.UseVisualStyleBackColor = false;
+            clean_d1.BackColor = Color.Yellow;
+            clean_d1.BackgroundImageLayout = ImageLayout.None;
+            clean_d1.FlatStyle = FlatStyle.Popup;
+            clean_d1.Location = new Point(0, 738);
+            clean_d1.Name = "clean_d1";
+            clean_d1.Size = new Size(23, 23);
+            clean_d1.TabIndex = 772;
+            clean_d1.UseVisualStyleBackColor = false;
             // 
             // pcBuild_d31
             // 
@@ -16625,9 +16625,9 @@
         private Button button357;
         private Button button358;
         private Button button359;
-        private Button button360;
-        private Button button361;
-        private Button button362;
+        private Button clean_d3;
+        private Button clean_d2;
+        private Button clean_d1;
         private Button button642;
         private Button button643;
         private Button button644;

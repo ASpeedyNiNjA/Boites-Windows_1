@@ -183,99 +183,99 @@
             button575 = new Button();
             button576 = new Button();
             button577 = new Button();
-            button578 = new Button();
-            button579 = new Button();
-            button518 = new Button();
-            button519 = new Button();
-            button520 = new Button();
-            button521 = new Button();
-            button522 = new Button();
-            button523 = new Button();
-            button524 = new Button();
-            button525 = new Button();
-            button526 = new Button();
-            button527 = new Button();
-            button528 = new Button();
-            button529 = new Button();
-            button530 = new Button();
-            button531 = new Button();
-            button532 = new Button();
-            button533 = new Button();
-            button534 = new Button();
-            button535 = new Button();
-            button536 = new Button();
-            button537 = new Button();
-            button538 = new Button();
-            button539 = new Button();
-            button540 = new Button();
-            button541 = new Button();
-            button542 = new Button();
-            button543 = new Button();
-            button544 = new Button();
-            button545 = new Button();
-            button546 = new Button();
-            button547 = new Button();
-            button548 = new Button();
-            button487 = new Button();
-            button488 = new Button();
-            button489 = new Button();
-            button490 = new Button();
-            button491 = new Button();
-            button492 = new Button();
-            button493 = new Button();
-            button494 = new Button();
-            button495 = new Button();
-            button496 = new Button();
-            button497 = new Button();
-            button498 = new Button();
-            button499 = new Button();
-            button500 = new Button();
-            button501 = new Button();
-            button502 = new Button();
-            button503 = new Button();
-            button504 = new Button();
-            button505 = new Button();
-            button506 = new Button();
-            button507 = new Button();
-            button508 = new Button();
-            button509 = new Button();
-            button510 = new Button();
-            button511 = new Button();
-            button512 = new Button();
-            button513 = new Button();
-            button514 = new Button();
-            button515 = new Button();
-            button516 = new Button();
-            button517 = new Button();
-            button456 = new Button();
-            button457 = new Button();
-            button458 = new Button();
-            button459 = new Button();
-            button460 = new Button();
-            button461 = new Button();
-            button462 = new Button();
-            button463 = new Button();
-            button464 = new Button();
-            button465 = new Button();
-            button466 = new Button();
-            button467 = new Button();
-            button468 = new Button();
-            button469 = new Button();
-            button470 = new Button();
-            button471 = new Button();
-            button472 = new Button();
-            button473 = new Button();
-            button474 = new Button();
-            button475 = new Button();
-            button476 = new Button();
-            button477 = new Button();
-            button478 = new Button();
-            button479 = new Button();
-            button480 = new Button();
-            button481 = new Button();
-            button482 = new Button();
-            button483 = new Button();
-            button484 = new Button();
+            videoGame_d2 = new Button();
+            videoGame_d1 = new Button();
+            book_d31 = new Button();
+            book_d30 = new Button();
+            book_d29 = new Button();
+            book_d28 = new Button();
+            book_d27 = new Button();
+            book_d26 = new Button();
+            book_d25 = new Button();
+            book_d24 = new Button();
+            book_d23 = new Button();
+            book_d22 = new Button();
+            book_d21 = new Button();
+            book_d20 = new Button();
+            book_d19 = new Button();
+            book_d18 = new Button();
+            book_d17 = new Button();
+            book_d16 = new Button();
+            book_d15 = new Button();
+            book_d14 = new Button();
+            book_d13 = new Button();
+            book_d12 = new Button();
+            book_d11 = new Button();
+            book_d10 = new Button();
+            book_d9 = new Button();
+            book_d8 = new Button();
+            book_d7 = new Button();
+            book_d6 = new Button();
+            book_d5 = new Button();
+            book_d4 = new Button();
+            book_d3 = new Button();
+            book_d2 = new Button();
+            book_d1 = new Button();
+            music_d31 = new Button();
+            music_d30 = new Button();
+            music_d29 = new Button();
+            music_d28 = new Button();
+            music_d27 = new Button();
+            music_d26 = new Button();
+            music_d25 = new Button();
+            music_d24 = new Button();
+            music_d23 = new Button();
+            music_d22 = new Button();
+            music_d21 = new Button();
+            music_d20 = new Button();
+            music_d19 = new Button();
+            music_d18 = new Button();
+            music_d17 = new Button();
+            music_d16 = new Button();
+            music_d15 = new Button();
+            music_d14 = new Button();
+            music_d13 = new Button();
+            music_d12 = new Button();
+            music_d11 = new Button();
+            music_d10 = new Button();
+            music_d9 = new Button();
+            music_d8 = new Button();
+            music_d7 = new Button();
+            music_d6 = new Button();
+            music_d5 = new Button();
+            music_d4 = new Button();
+            music_d3 = new Button();
+            music_d2 = new Button();
+            music_d1 = new Button();
+            movie_d31 = new Button();
+            movie_d30 = new Button();
+            movie_d29 = new Button();
+            movie_d28 = new Button();
+            movie_d27 = new Button();
+            movie_d26 = new Button();
+            movie_d25 = new Button();
+            movie_d24 = new Button();
+            movie_d23 = new Button();
+            movie_d22 = new Button();
+            movie_d21 = new Button();
+            movie_d20 = new Button();
+            movie_d19 = new Button();
+            movie_d18 = new Button();
+            movie_d17 = new Button();
+            movie_d16 = new Button();
+            movie_d15 = new Button();
+            movie_d14 = new Button();
+            movie_d13 = new Button();
+            movie_d12 = new Button();
+            movie_d11 = new Button();
+            movie_d10 = new Button();
+            movie_d9 = new Button();
+            movie_d8 = new Button();
+            movie_d7 = new Button();
+            movie_d6 = new Button();
+            movie_d5 = new Button();
+            movie_d4 = new Button();
+            movie_d3 = new Button();
             movie_d2 = new Button();
             movie_d1 = new Button();
             tv_d31 = new Button();
@@ -1386,99 +1386,99 @@
             boitesBoxes.Controls.Add(button575);
             boitesBoxes.Controls.Add(button576);
             boitesBoxes.Controls.Add(button577);
-            boitesBoxes.Controls.Add(button578);
-            boitesBoxes.Controls.Add(button579);
-            boitesBoxes.Controls.Add(button518);
-            boitesBoxes.Controls.Add(button519);
-            boitesBoxes.Controls.Add(button520);
-            boitesBoxes.Controls.Add(button521);
-            boitesBoxes.Controls.Add(button522);
-            boitesBoxes.Controls.Add(button523);
-            boitesBoxes.Controls.Add(button524);
-            boitesBoxes.Controls.Add(button525);
-            boitesBoxes.Controls.Add(button526);
-            boitesBoxes.Controls.Add(button527);
-            boitesBoxes.Controls.Add(button528);
-            boitesBoxes.Controls.Add(button529);
-            boitesBoxes.Controls.Add(button530);
-            boitesBoxes.Controls.Add(button531);
-            boitesBoxes.Controls.Add(button532);
-            boitesBoxes.Controls.Add(button533);
-            boitesBoxes.Controls.Add(button534);
-            boitesBoxes.Controls.Add(button535);
-            boitesBoxes.Controls.Add(button536);
-            boitesBoxes.Controls.Add(button537);
-            boitesBoxes.Controls.Add(button538);
-            boitesBoxes.Controls.Add(button539);
-            boitesBoxes.Controls.Add(button540);
-            boitesBoxes.Controls.Add(button541);
-            boitesBoxes.Controls.Add(button542);
-            boitesBoxes.Controls.Add(button543);
-            boitesBoxes.Controls.Add(button544);
-            boitesBoxes.Controls.Add(button545);
-            boitesBoxes.Controls.Add(button546);
-            boitesBoxes.Controls.Add(button547);
-            boitesBoxes.Controls.Add(button548);
-            boitesBoxes.Controls.Add(button487);
-            boitesBoxes.Controls.Add(button488);
-            boitesBoxes.Controls.Add(button489);
-            boitesBoxes.Controls.Add(button490);
-            boitesBoxes.Controls.Add(button491);
-            boitesBoxes.Controls.Add(button492);
-            boitesBoxes.Controls.Add(button493);
-            boitesBoxes.Controls.Add(button494);
-            boitesBoxes.Controls.Add(button495);
-            boitesBoxes.Controls.Add(button496);
-            boitesBoxes.Controls.Add(button497);
-            boitesBoxes.Controls.Add(button498);
-            boitesBoxes.Controls.Add(button499);
-            boitesBoxes.Controls.Add(button500);
-            boitesBoxes.Controls.Add(button501);
-            boitesBoxes.Controls.Add(button502);
-            boitesBoxes.Controls.Add(button503);
-            boitesBoxes.Controls.Add(button504);
-            boitesBoxes.Controls.Add(button505);
-            boitesBoxes.Controls.Add(button506);
-            boitesBoxes.Controls.Add(button507);
-            boitesBoxes.Controls.Add(button508);
-            boitesBoxes.Controls.Add(button509);
-            boitesBoxes.Controls.Add(button510);
-            boitesBoxes.Controls.Add(button511);
-            boitesBoxes.Controls.Add(button512);
-            boitesBoxes.Controls.Add(button513);
-            boitesBoxes.Controls.Add(button514);
-            boitesBoxes.Controls.Add(button515);
-            boitesBoxes.Controls.Add(button516);
-            boitesBoxes.Controls.Add(button517);
-            boitesBoxes.Controls.Add(button456);
-            boitesBoxes.Controls.Add(button457);
-            boitesBoxes.Controls.Add(button458);
-            boitesBoxes.Controls.Add(button459);
-            boitesBoxes.Controls.Add(button460);
-            boitesBoxes.Controls.Add(button461);
-            boitesBoxes.Controls.Add(button462);
-            boitesBoxes.Controls.Add(button463);
-            boitesBoxes.Controls.Add(button464);
-            boitesBoxes.Controls.Add(button465);
-            boitesBoxes.Controls.Add(button466);
-            boitesBoxes.Controls.Add(button467);
-            boitesBoxes.Controls.Add(button468);
-            boitesBoxes.Controls.Add(button469);
-            boitesBoxes.Controls.Add(button470);
-            boitesBoxes.Controls.Add(button471);
-            boitesBoxes.Controls.Add(button472);
-            boitesBoxes.Controls.Add(button473);
-            boitesBoxes.Controls.Add(button474);
-            boitesBoxes.Controls.Add(button475);
-            boitesBoxes.Controls.Add(button476);
-            boitesBoxes.Controls.Add(button477);
-            boitesBoxes.Controls.Add(button478);
-            boitesBoxes.Controls.Add(button479);
-            boitesBoxes.Controls.Add(button480);
-            boitesBoxes.Controls.Add(button481);
-            boitesBoxes.Controls.Add(button482);
-            boitesBoxes.Controls.Add(button483);
-            boitesBoxes.Controls.Add(button484);
+            boitesBoxes.Controls.Add(videoGame_d2);
+            boitesBoxes.Controls.Add(videoGame_d1);
+            boitesBoxes.Controls.Add(book_d31);
+            boitesBoxes.Controls.Add(book_d30);
+            boitesBoxes.Controls.Add(book_d29);
+            boitesBoxes.Controls.Add(book_d28);
+            boitesBoxes.Controls.Add(book_d27);
+            boitesBoxes.Controls.Add(book_d26);
+            boitesBoxes.Controls.Add(book_d25);
+            boitesBoxes.Controls.Add(book_d24);
+            boitesBoxes.Controls.Add(book_d23);
+            boitesBoxes.Controls.Add(book_d22);
+            boitesBoxes.Controls.Add(book_d21);
+            boitesBoxes.Controls.Add(book_d20);
+            boitesBoxes.Controls.Add(book_d19);
+            boitesBoxes.Controls.Add(book_d18);
+            boitesBoxes.Controls.Add(book_d17);
+            boitesBoxes.Controls.Add(book_d16);
+            boitesBoxes.Controls.Add(book_d15);
+            boitesBoxes.Controls.Add(book_d14);
+            boitesBoxes.Controls.Add(book_d13);
+            boitesBoxes.Controls.Add(book_d12);
+            boitesBoxes.Controls.Add(book_d11);
+            boitesBoxes.Controls.Add(book_d10);
+            boitesBoxes.Controls.Add(book_d9);
+            boitesBoxes.Controls.Add(book_d8);
+            boitesBoxes.Controls.Add(book_d7);
+            boitesBoxes.Controls.Add(book_d6);
+            boitesBoxes.Controls.Add(book_d5);
+            boitesBoxes.Controls.Add(book_d4);
+            boitesBoxes.Controls.Add(book_d3);
+            boitesBoxes.Controls.Add(book_d2);
+            boitesBoxes.Controls.Add(book_d1);
+            boitesBoxes.Controls.Add(music_d31);
+            boitesBoxes.Controls.Add(music_d30);
+            boitesBoxes.Controls.Add(music_d29);
+            boitesBoxes.Controls.Add(music_d28);
+            boitesBoxes.Controls.Add(music_d27);
+            boitesBoxes.Controls.Add(music_d26);
+            boitesBoxes.Controls.Add(music_d25);
+            boitesBoxes.Controls.Add(music_d24);
+            boitesBoxes.Controls.Add(music_d23);
+            boitesBoxes.Controls.Add(music_d22);
+            boitesBoxes.Controls.Add(music_d21);
+            boitesBoxes.Controls.Add(music_d20);
+            boitesBoxes.Controls.Add(music_d19);
+            boitesBoxes.Controls.Add(music_d18);
+            boitesBoxes.Controls.Add(music_d17);
+            boitesBoxes.Controls.Add(music_d16);
+            boitesBoxes.Controls.Add(music_d15);
+            boitesBoxes.Controls.Add(music_d14);
+            boitesBoxes.Controls.Add(music_d13);
+            boitesBoxes.Controls.Add(music_d12);
+            boitesBoxes.Controls.Add(music_d11);
+            boitesBoxes.Controls.Add(music_d10);
+            boitesBoxes.Controls.Add(music_d9);
+            boitesBoxes.Controls.Add(music_d8);
+            boitesBoxes.Controls.Add(music_d7);
+            boitesBoxes.Controls.Add(music_d6);
+            boitesBoxes.Controls.Add(music_d5);
+            boitesBoxes.Controls.Add(music_d4);
+            boitesBoxes.Controls.Add(music_d3);
+            boitesBoxes.Controls.Add(music_d2);
+            boitesBoxes.Controls.Add(music_d1);
+            boitesBoxes.Controls.Add(movie_d31);
+            boitesBoxes.Controls.Add(movie_d30);
+            boitesBoxes.Controls.Add(movie_d29);
+            boitesBoxes.Controls.Add(movie_d28);
+            boitesBoxes.Controls.Add(movie_d27);
+            boitesBoxes.Controls.Add(movie_d26);
+            boitesBoxes.Controls.Add(movie_d25);
+            boitesBoxes.Controls.Add(movie_d24);
+            boitesBoxes.Controls.Add(movie_d23);
+            boitesBoxes.Controls.Add(movie_d22);
+            boitesBoxes.Controls.Add(movie_d21);
+            boitesBoxes.Controls.Add(movie_d20);
+            boitesBoxes.Controls.Add(movie_d19);
+            boitesBoxes.Controls.Add(movie_d18);
+            boitesBoxes.Controls.Add(movie_d17);
+            boitesBoxes.Controls.Add(movie_d16);
+            boitesBoxes.Controls.Add(movie_d15);
+            boitesBoxes.Controls.Add(movie_d14);
+            boitesBoxes.Controls.Add(movie_d13);
+            boitesBoxes.Controls.Add(movie_d12);
+            boitesBoxes.Controls.Add(movie_d11);
+            boitesBoxes.Controls.Add(movie_d10);
+            boitesBoxes.Controls.Add(movie_d9);
+            boitesBoxes.Controls.Add(movie_d8);
+            boitesBoxes.Controls.Add(movie_d7);
+            boitesBoxes.Controls.Add(movie_d6);
+            boitesBoxes.Controls.Add(movie_d5);
+            boitesBoxes.Controls.Add(movie_d4);
+            boitesBoxes.Controls.Add(movie_d3);
             boitesBoxes.Controls.Add(movie_d2);
             boitesBoxes.Controls.Add(movie_d1);
             boitesBoxes.Controls.Add(tv_d31);
@@ -4070,1028 +4070,1028 @@
             button577.TabIndex = 991;
             button577.UseVisualStyleBackColor = false;
             // 
-            // button578
-            // 
-            button578.BackColor = Color.White;
-            button578.BackgroundImageLayout = ImageLayout.None;
-            button578.FlatStyle = FlatStyle.Popup;
-            button578.Location = new Point(29, 941);
-            button578.Name = "button578";
-            button578.Size = new Size(23, 23);
-            button578.TabIndex = 990;
-            button578.UseVisualStyleBackColor = false;
-            // 
-            // button579
-            // 
-            button579.BackColor = Color.Yellow;
-            button579.BackgroundImageLayout = ImageLayout.None;
-            button579.FlatStyle = FlatStyle.Popup;
-            button579.Location = new Point(0, 941);
-            button579.Name = "button579";
-            button579.Size = new Size(23, 23);
-            button579.TabIndex = 989;
-            button579.UseVisualStyleBackColor = false;
-            // 
-            // button518
-            // 
-            button518.BackColor = Color.White;
-            button518.BackgroundImageLayout = ImageLayout.None;
-            button518.FlatStyle = FlatStyle.Popup;
-            button518.Location = new Point(870, 912);
-            button518.Name = "button518";
-            button518.Size = new Size(23, 23);
-            button518.TabIndex = 988;
-            button518.UseVisualStyleBackColor = false;
-            // 
-            // button519
-            // 
-            button519.BackColor = Color.White;
-            button519.BackgroundImageLayout = ImageLayout.None;
-            button519.FlatStyle = FlatStyle.Popup;
-            button519.Location = new Point(841, 912);
-            button519.Name = "button519";
-            button519.Size = new Size(23, 23);
-            button519.TabIndex = 987;
-            button519.UseVisualStyleBackColor = false;
-            // 
-            // button520
-            // 
-            button520.BackColor = Color.White;
-            button520.BackgroundImageLayout = ImageLayout.None;
-            button520.FlatStyle = FlatStyle.Popup;
-            button520.Location = new Point(812, 912);
-            button520.Name = "button520";
-            button520.Size = new Size(23, 23);
-            button520.TabIndex = 986;
-            button520.UseVisualStyleBackColor = false;
-            // 
-            // button521
-            // 
-            button521.BackColor = Color.White;
-            button521.BackgroundImageLayout = ImageLayout.None;
-            button521.FlatStyle = FlatStyle.Popup;
-            button521.Location = new Point(783, 912);
-            button521.Name = "button521";
-            button521.Size = new Size(23, 23);
-            button521.TabIndex = 985;
-            button521.UseVisualStyleBackColor = false;
-            // 
-            // button522
-            // 
-            button522.BackColor = Color.White;
-            button522.BackgroundImageLayout = ImageLayout.None;
-            button522.FlatStyle = FlatStyle.Popup;
-            button522.Location = new Point(754, 912);
-            button522.Name = "button522";
-            button522.Size = new Size(23, 23);
-            button522.TabIndex = 984;
-            button522.UseVisualStyleBackColor = false;
-            // 
-            // button523
-            // 
-            button523.BackColor = Color.White;
-            button523.BackgroundImageLayout = ImageLayout.None;
-            button523.FlatStyle = FlatStyle.Popup;
-            button523.Location = new Point(725, 912);
-            button523.Name = "button523";
-            button523.Size = new Size(23, 23);
-            button523.TabIndex = 983;
-            button523.UseVisualStyleBackColor = false;
-            // 
-            // button524
-            // 
-            button524.BackColor = Color.White;
-            button524.BackgroundImageLayout = ImageLayout.None;
-            button524.FlatStyle = FlatStyle.Popup;
-            button524.Location = new Point(696, 912);
-            button524.Name = "button524";
-            button524.Size = new Size(23, 23);
-            button524.TabIndex = 982;
-            button524.UseVisualStyleBackColor = false;
-            // 
-            // button525
-            // 
-            button525.BackColor = Color.White;
-            button525.BackgroundImageLayout = ImageLayout.None;
-            button525.FlatStyle = FlatStyle.Popup;
-            button525.Location = new Point(667, 912);
-            button525.Name = "button525";
-            button525.Size = new Size(23, 23);
-            button525.TabIndex = 981;
-            button525.UseVisualStyleBackColor = false;
-            // 
-            // button526
-            // 
-            button526.BackColor = Color.White;
-            button526.BackgroundImageLayout = ImageLayout.None;
-            button526.FlatStyle = FlatStyle.Popup;
-            button526.Location = new Point(638, 912);
-            button526.Name = "button526";
-            button526.Size = new Size(23, 23);
-            button526.TabIndex = 980;
-            button526.UseVisualStyleBackColor = false;
-            // 
-            // button527
-            // 
-            button527.BackColor = Color.White;
-            button527.BackgroundImageLayout = ImageLayout.None;
-            button527.FlatStyle = FlatStyle.Popup;
-            button527.Location = new Point(609, 912);
-            button527.Name = "button527";
-            button527.Size = new Size(23, 23);
-            button527.TabIndex = 979;
-            button527.UseVisualStyleBackColor = false;
-            // 
-            // button528
-            // 
-            button528.BackColor = Color.White;
-            button528.BackgroundImageLayout = ImageLayout.None;
-            button528.FlatStyle = FlatStyle.Popup;
-            button528.Location = new Point(580, 912);
-            button528.Name = "button528";
-            button528.Size = new Size(23, 23);
-            button528.TabIndex = 978;
-            button528.UseVisualStyleBackColor = false;
-            // 
-            // button529
-            // 
-            button529.BackColor = Color.White;
-            button529.BackgroundImageLayout = ImageLayout.None;
-            button529.FlatStyle = FlatStyle.Popup;
-            button529.Location = new Point(551, 912);
-            button529.Name = "button529";
-            button529.Size = new Size(23, 23);
-            button529.TabIndex = 977;
-            button529.UseVisualStyleBackColor = false;
-            // 
-            // button530
-            // 
-            button530.BackColor = Color.White;
-            button530.BackgroundImageLayout = ImageLayout.None;
-            button530.FlatStyle = FlatStyle.Popup;
-            button530.Location = new Point(522, 912);
-            button530.Name = "button530";
-            button530.Size = new Size(23, 23);
-            button530.TabIndex = 976;
-            button530.UseVisualStyleBackColor = false;
-            // 
-            // button531
-            // 
-            button531.BackColor = Color.White;
-            button531.BackgroundImageLayout = ImageLayout.None;
-            button531.FlatStyle = FlatStyle.Popup;
-            button531.Location = new Point(493, 912);
-            button531.Name = "button531";
-            button531.Size = new Size(23, 23);
-            button531.TabIndex = 975;
-            button531.UseVisualStyleBackColor = false;
-            // 
-            // button532
-            // 
-            button532.BackColor = Color.White;
-            button532.BackgroundImageLayout = ImageLayout.None;
-            button532.FlatStyle = FlatStyle.Popup;
-            button532.Location = new Point(464, 912);
-            button532.Name = "button532";
-            button532.Size = new Size(23, 23);
-            button532.TabIndex = 974;
-            button532.UseVisualStyleBackColor = false;
-            // 
-            // button533
-            // 
-            button533.BackColor = Color.White;
-            button533.BackgroundImageLayout = ImageLayout.None;
-            button533.FlatStyle = FlatStyle.Popup;
-            button533.Location = new Point(435, 912);
-            button533.Name = "button533";
-            button533.Size = new Size(23, 23);
-            button533.TabIndex = 973;
-            button533.UseVisualStyleBackColor = false;
-            // 
-            // button534
-            // 
-            button534.BackColor = Color.White;
-            button534.BackgroundImageLayout = ImageLayout.None;
-            button534.FlatStyle = FlatStyle.Popup;
-            button534.Location = new Point(406, 912);
-            button534.Name = "button534";
-            button534.Size = new Size(23, 23);
-            button534.TabIndex = 972;
-            button534.UseVisualStyleBackColor = false;
-            // 
-            // button535
-            // 
-            button535.BackColor = Color.White;
-            button535.BackgroundImageLayout = ImageLayout.None;
-            button535.FlatStyle = FlatStyle.Popup;
-            button535.Location = new Point(377, 912);
-            button535.Name = "button535";
-            button535.Size = new Size(23, 23);
-            button535.TabIndex = 971;
-            button535.UseVisualStyleBackColor = false;
-            // 
-            // button536
-            // 
-            button536.BackColor = Color.White;
-            button536.BackgroundImageLayout = ImageLayout.None;
-            button536.FlatStyle = FlatStyle.Popup;
-            button536.Location = new Point(348, 912);
-            button536.Name = "button536";
-            button536.Size = new Size(23, 23);
-            button536.TabIndex = 970;
-            button536.UseVisualStyleBackColor = false;
-            // 
-            // button537
-            // 
-            button537.BackColor = Color.White;
-            button537.BackgroundImageLayout = ImageLayout.None;
-            button537.FlatStyle = FlatStyle.Popup;
-            button537.Location = new Point(319, 912);
-            button537.Name = "button537";
-            button537.Size = new Size(23, 23);
-            button537.TabIndex = 969;
-            button537.UseVisualStyleBackColor = false;
-            // 
-            // button538
-            // 
-            button538.BackColor = Color.White;
-            button538.BackgroundImageLayout = ImageLayout.None;
-            button538.FlatStyle = FlatStyle.Popup;
-            button538.Location = new Point(290, 912);
-            button538.Name = "button538";
-            button538.Size = new Size(23, 23);
-            button538.TabIndex = 968;
-            button538.UseVisualStyleBackColor = false;
-            // 
-            // button539
-            // 
-            button539.BackColor = Color.White;
-            button539.BackgroundImageLayout = ImageLayout.None;
-            button539.FlatStyle = FlatStyle.Popup;
-            button539.Location = new Point(261, 912);
-            button539.Name = "button539";
-            button539.Size = new Size(23, 23);
-            button539.TabIndex = 967;
-            button539.UseVisualStyleBackColor = false;
-            // 
-            // button540
-            // 
-            button540.BackColor = Color.White;
-            button540.BackgroundImageLayout = ImageLayout.None;
-            button540.FlatStyle = FlatStyle.Popup;
-            button540.Location = new Point(232, 912);
-            button540.Name = "button540";
-            button540.Size = new Size(23, 23);
-            button540.TabIndex = 966;
-            button540.UseVisualStyleBackColor = false;
-            // 
-            // button541
-            // 
-            button541.BackColor = Color.White;
-            button541.BackgroundImageLayout = ImageLayout.None;
-            button541.FlatStyle = FlatStyle.Popup;
-            button541.Location = new Point(203, 912);
-            button541.Name = "button541";
-            button541.Size = new Size(23, 23);
-            button541.TabIndex = 965;
-            button541.UseVisualStyleBackColor = false;
-            // 
-            // button542
-            // 
-            button542.BackColor = Color.White;
-            button542.BackgroundImageLayout = ImageLayout.None;
-            button542.FlatStyle = FlatStyle.Popup;
-            button542.Location = new Point(174, 912);
-            button542.Name = "button542";
-            button542.Size = new Size(23, 23);
-            button542.TabIndex = 964;
-            button542.UseVisualStyleBackColor = false;
-            // 
-            // button543
-            // 
-            button543.BackColor = Color.White;
-            button543.BackgroundImageLayout = ImageLayout.None;
-            button543.FlatStyle = FlatStyle.Popup;
-            button543.Location = new Point(145, 912);
-            button543.Name = "button543";
-            button543.Size = new Size(23, 23);
-            button543.TabIndex = 963;
-            button543.UseVisualStyleBackColor = false;
-            // 
-            // button544
-            // 
-            button544.BackColor = Color.White;
-            button544.BackgroundImageLayout = ImageLayout.None;
-            button544.FlatStyle = FlatStyle.Popup;
-            button544.Location = new Point(116, 912);
-            button544.Name = "button544";
-            button544.Size = new Size(23, 23);
-            button544.TabIndex = 962;
-            button544.UseVisualStyleBackColor = false;
-            // 
-            // button545
-            // 
-            button545.BackColor = Color.White;
-            button545.BackgroundImageLayout = ImageLayout.None;
-            button545.FlatStyle = FlatStyle.Popup;
-            button545.Location = new Point(87, 912);
-            button545.Name = "button545";
-            button545.Size = new Size(23, 23);
-            button545.TabIndex = 961;
-            button545.UseVisualStyleBackColor = false;
-            // 
-            // button546
-            // 
-            button546.BackColor = Color.White;
-            button546.BackgroundImageLayout = ImageLayout.None;
-            button546.FlatStyle = FlatStyle.Popup;
-            button546.Location = new Point(58, 912);
-            button546.Name = "button546";
-            button546.Size = new Size(23, 23);
-            button546.TabIndex = 960;
-            button546.UseVisualStyleBackColor = false;
-            // 
-            // button547
-            // 
-            button547.BackColor = Color.White;
-            button547.BackgroundImageLayout = ImageLayout.None;
-            button547.FlatStyle = FlatStyle.Popup;
-            button547.Location = new Point(29, 912);
-            button547.Name = "button547";
-            button547.Size = new Size(23, 23);
-            button547.TabIndex = 959;
-            button547.UseVisualStyleBackColor = false;
-            // 
-            // button548
-            // 
-            button548.BackColor = Color.Red;
-            button548.BackgroundImageLayout = ImageLayout.None;
-            button548.FlatStyle = FlatStyle.Popup;
-            button548.Location = new Point(0, 912);
-            button548.Name = "button548";
-            button548.Size = new Size(23, 23);
-            button548.TabIndex = 958;
-            button548.UseVisualStyleBackColor = false;
-            // 
-            // button487
-            // 
-            button487.BackColor = Color.White;
-            button487.BackgroundImageLayout = ImageLayout.None;
-            button487.FlatStyle = FlatStyle.Popup;
-            button487.Location = new Point(870, 883);
-            button487.Name = "button487";
-            button487.Size = new Size(23, 23);
-            button487.TabIndex = 957;
-            button487.UseVisualStyleBackColor = false;
-            // 
-            // button488
-            // 
-            button488.BackColor = Color.White;
-            button488.BackgroundImageLayout = ImageLayout.None;
-            button488.FlatStyle = FlatStyle.Popup;
-            button488.Location = new Point(841, 883);
-            button488.Name = "button488";
-            button488.Size = new Size(23, 23);
-            button488.TabIndex = 956;
-            button488.UseVisualStyleBackColor = false;
-            // 
-            // button489
-            // 
-            button489.BackColor = Color.White;
-            button489.BackgroundImageLayout = ImageLayout.None;
-            button489.FlatStyle = FlatStyle.Popup;
-            button489.Location = new Point(812, 883);
-            button489.Name = "button489";
-            button489.Size = new Size(23, 23);
-            button489.TabIndex = 955;
-            button489.UseVisualStyleBackColor = false;
-            // 
-            // button490
-            // 
-            button490.BackColor = Color.White;
-            button490.BackgroundImageLayout = ImageLayout.None;
-            button490.FlatStyle = FlatStyle.Popup;
-            button490.Location = new Point(783, 883);
-            button490.Name = "button490";
-            button490.Size = new Size(23, 23);
-            button490.TabIndex = 954;
-            button490.UseVisualStyleBackColor = false;
-            // 
-            // button491
-            // 
-            button491.BackColor = Color.White;
-            button491.BackgroundImageLayout = ImageLayout.None;
-            button491.FlatStyle = FlatStyle.Popup;
-            button491.Location = new Point(754, 883);
-            button491.Name = "button491";
-            button491.Size = new Size(23, 23);
-            button491.TabIndex = 953;
-            button491.UseVisualStyleBackColor = false;
-            // 
-            // button492
-            // 
-            button492.BackColor = Color.White;
-            button492.BackgroundImageLayout = ImageLayout.None;
-            button492.FlatStyle = FlatStyle.Popup;
-            button492.Location = new Point(725, 883);
-            button492.Name = "button492";
-            button492.Size = new Size(23, 23);
-            button492.TabIndex = 952;
-            button492.UseVisualStyleBackColor = false;
-            // 
-            // button493
-            // 
-            button493.BackColor = Color.White;
-            button493.BackgroundImageLayout = ImageLayout.None;
-            button493.FlatStyle = FlatStyle.Popup;
-            button493.Location = new Point(696, 883);
-            button493.Name = "button493";
-            button493.Size = new Size(23, 23);
-            button493.TabIndex = 951;
-            button493.UseVisualStyleBackColor = false;
-            // 
-            // button494
-            // 
-            button494.BackColor = Color.White;
-            button494.BackgroundImageLayout = ImageLayout.None;
-            button494.FlatStyle = FlatStyle.Popup;
-            button494.Location = new Point(667, 883);
-            button494.Name = "button494";
-            button494.Size = new Size(23, 23);
-            button494.TabIndex = 950;
-            button494.UseVisualStyleBackColor = false;
-            // 
-            // button495
-            // 
-            button495.BackColor = Color.White;
-            button495.BackgroundImageLayout = ImageLayout.None;
-            button495.FlatStyle = FlatStyle.Popup;
-            button495.Location = new Point(638, 883);
-            button495.Name = "button495";
-            button495.Size = new Size(23, 23);
-            button495.TabIndex = 949;
-            button495.UseVisualStyleBackColor = false;
-            // 
-            // button496
-            // 
-            button496.BackColor = Color.White;
-            button496.BackgroundImageLayout = ImageLayout.None;
-            button496.FlatStyle = FlatStyle.Popup;
-            button496.Location = new Point(609, 883);
-            button496.Name = "button496";
-            button496.Size = new Size(23, 23);
-            button496.TabIndex = 948;
-            button496.UseVisualStyleBackColor = false;
-            // 
-            // button497
-            // 
-            button497.BackColor = Color.White;
-            button497.BackgroundImageLayout = ImageLayout.None;
-            button497.FlatStyle = FlatStyle.Popup;
-            button497.Location = new Point(580, 883);
-            button497.Name = "button497";
-            button497.Size = new Size(23, 23);
-            button497.TabIndex = 947;
-            button497.UseVisualStyleBackColor = false;
-            // 
-            // button498
-            // 
-            button498.BackColor = Color.White;
-            button498.BackgroundImageLayout = ImageLayout.None;
-            button498.FlatStyle = FlatStyle.Popup;
-            button498.Location = new Point(551, 883);
-            button498.Name = "button498";
-            button498.Size = new Size(23, 23);
-            button498.TabIndex = 946;
-            button498.UseVisualStyleBackColor = false;
-            // 
-            // button499
-            // 
-            button499.BackColor = Color.White;
-            button499.BackgroundImageLayout = ImageLayout.None;
-            button499.FlatStyle = FlatStyle.Popup;
-            button499.Location = new Point(522, 883);
-            button499.Name = "button499";
-            button499.Size = new Size(23, 23);
-            button499.TabIndex = 945;
-            button499.UseVisualStyleBackColor = false;
-            // 
-            // button500
-            // 
-            button500.BackColor = Color.White;
-            button500.BackgroundImageLayout = ImageLayout.None;
-            button500.FlatStyle = FlatStyle.Popup;
-            button500.Location = new Point(493, 883);
-            button500.Name = "button500";
-            button500.Size = new Size(23, 23);
-            button500.TabIndex = 944;
-            button500.UseVisualStyleBackColor = false;
-            // 
-            // button501
-            // 
-            button501.BackColor = Color.White;
-            button501.BackgroundImageLayout = ImageLayout.None;
-            button501.FlatStyle = FlatStyle.Popup;
-            button501.Location = new Point(464, 883);
-            button501.Name = "button501";
-            button501.Size = new Size(23, 23);
-            button501.TabIndex = 943;
-            button501.UseVisualStyleBackColor = false;
-            // 
-            // button502
-            // 
-            button502.BackColor = Color.White;
-            button502.BackgroundImageLayout = ImageLayout.None;
-            button502.FlatStyle = FlatStyle.Popup;
-            button502.Location = new Point(435, 883);
-            button502.Name = "button502";
-            button502.Size = new Size(23, 23);
-            button502.TabIndex = 942;
-            button502.UseVisualStyleBackColor = false;
-            // 
-            // button503
-            // 
-            button503.BackColor = Color.White;
-            button503.BackgroundImageLayout = ImageLayout.None;
-            button503.FlatStyle = FlatStyle.Popup;
-            button503.Location = new Point(406, 883);
-            button503.Name = "button503";
-            button503.Size = new Size(23, 23);
-            button503.TabIndex = 941;
-            button503.UseVisualStyleBackColor = false;
-            // 
-            // button504
-            // 
-            button504.BackColor = Color.White;
-            button504.BackgroundImageLayout = ImageLayout.None;
-            button504.FlatStyle = FlatStyle.Popup;
-            button504.Location = new Point(377, 883);
-            button504.Name = "button504";
-            button504.Size = new Size(23, 23);
-            button504.TabIndex = 940;
-            button504.UseVisualStyleBackColor = false;
-            // 
-            // button505
-            // 
-            button505.BackColor = Color.White;
-            button505.BackgroundImageLayout = ImageLayout.None;
-            button505.FlatStyle = FlatStyle.Popup;
-            button505.Location = new Point(348, 883);
-            button505.Name = "button505";
-            button505.Size = new Size(23, 23);
-            button505.TabIndex = 939;
-            button505.UseVisualStyleBackColor = false;
-            // 
-            // button506
-            // 
-            button506.BackColor = Color.White;
-            button506.BackgroundImageLayout = ImageLayout.None;
-            button506.FlatStyle = FlatStyle.Popup;
-            button506.Location = new Point(319, 883);
-            button506.Name = "button506";
-            button506.Size = new Size(23, 23);
-            button506.TabIndex = 938;
-            button506.UseVisualStyleBackColor = false;
-            // 
-            // button507
-            // 
-            button507.BackColor = Color.White;
-            button507.BackgroundImageLayout = ImageLayout.None;
-            button507.FlatStyle = FlatStyle.Popup;
-            button507.Location = new Point(290, 883);
-            button507.Name = "button507";
-            button507.Size = new Size(23, 23);
-            button507.TabIndex = 937;
-            button507.UseVisualStyleBackColor = false;
-            // 
-            // button508
-            // 
-            button508.BackColor = Color.White;
-            button508.BackgroundImageLayout = ImageLayout.None;
-            button508.FlatStyle = FlatStyle.Popup;
-            button508.Location = new Point(261, 883);
-            button508.Name = "button508";
-            button508.Size = new Size(23, 23);
-            button508.TabIndex = 936;
-            button508.UseVisualStyleBackColor = false;
-            // 
-            // button509
-            // 
-            button509.BackColor = Color.White;
-            button509.BackgroundImageLayout = ImageLayout.None;
-            button509.FlatStyle = FlatStyle.Popup;
-            button509.Location = new Point(232, 883);
-            button509.Name = "button509";
-            button509.Size = new Size(23, 23);
-            button509.TabIndex = 935;
-            button509.UseVisualStyleBackColor = false;
-            // 
-            // button510
-            // 
-            button510.BackColor = Color.White;
-            button510.BackgroundImageLayout = ImageLayout.None;
-            button510.FlatStyle = FlatStyle.Popup;
-            button510.Location = new Point(203, 883);
-            button510.Name = "button510";
-            button510.Size = new Size(23, 23);
-            button510.TabIndex = 934;
-            button510.UseVisualStyleBackColor = false;
-            // 
-            // button511
-            // 
-            button511.BackColor = Color.White;
-            button511.BackgroundImageLayout = ImageLayout.None;
-            button511.FlatStyle = FlatStyle.Popup;
-            button511.Location = new Point(174, 883);
-            button511.Name = "button511";
-            button511.Size = new Size(23, 23);
-            button511.TabIndex = 933;
-            button511.UseVisualStyleBackColor = false;
-            // 
-            // button512
-            // 
-            button512.BackColor = Color.White;
-            button512.BackgroundImageLayout = ImageLayout.None;
-            button512.FlatStyle = FlatStyle.Popup;
-            button512.Location = new Point(145, 883);
-            button512.Name = "button512";
-            button512.Size = new Size(23, 23);
-            button512.TabIndex = 932;
-            button512.UseVisualStyleBackColor = false;
-            // 
-            // button513
-            // 
-            button513.BackColor = Color.White;
-            button513.BackgroundImageLayout = ImageLayout.None;
-            button513.FlatStyle = FlatStyle.Popup;
-            button513.Location = new Point(116, 883);
-            button513.Name = "button513";
-            button513.Size = new Size(23, 23);
-            button513.TabIndex = 929;
-            button513.UseVisualStyleBackColor = false;
-            // 
-            // button514
-            // 
-            button514.BackColor = Color.White;
-            button514.BackgroundImageLayout = ImageLayout.None;
-            button514.FlatStyle = FlatStyle.Popup;
-            button514.Location = new Point(87, 883);
-            button514.Name = "button514";
-            button514.Size = new Size(23, 23);
-            button514.TabIndex = 928;
-            button514.UseVisualStyleBackColor = false;
-            // 
-            // button515
-            // 
-            button515.BackColor = Color.White;
-            button515.BackgroundImageLayout = ImageLayout.None;
-            button515.FlatStyle = FlatStyle.Popup;
-            button515.Location = new Point(58, 883);
-            button515.Name = "button515";
-            button515.Size = new Size(23, 23);
-            button515.TabIndex = 931;
-            button515.UseVisualStyleBackColor = false;
-            // 
-            // button516
-            // 
-            button516.BackColor = Color.White;
-            button516.BackgroundImageLayout = ImageLayout.None;
-            button516.FlatStyle = FlatStyle.Popup;
-            button516.Location = new Point(29, 883);
-            button516.Name = "button516";
-            button516.Size = new Size(23, 23);
-            button516.TabIndex = 930;
-            button516.UseVisualStyleBackColor = false;
-            // 
-            // button517
-            // 
-            button517.BackColor = Color.DarkViolet;
-            button517.BackgroundImageLayout = ImageLayout.None;
-            button517.FlatStyle = FlatStyle.Popup;
-            button517.Location = new Point(0, 883);
-            button517.Name = "button517";
-            button517.Size = new Size(23, 23);
-            button517.TabIndex = 927;
-            button517.UseVisualStyleBackColor = false;
-            // 
-            // button456
-            // 
-            button456.BackColor = Color.White;
-            button456.BackgroundImageLayout = ImageLayout.None;
-            button456.FlatStyle = FlatStyle.Popup;
-            button456.Location = new Point(870, 854);
-            button456.Name = "button456";
-            button456.Size = new Size(23, 23);
-            button456.TabIndex = 926;
-            button456.UseVisualStyleBackColor = false;
-            // 
-            // button457
-            // 
-            button457.BackColor = Color.White;
-            button457.BackgroundImageLayout = ImageLayout.None;
-            button457.FlatStyle = FlatStyle.Popup;
-            button457.Location = new Point(841, 854);
-            button457.Name = "button457";
-            button457.Size = new Size(23, 23);
-            button457.TabIndex = 925;
-            button457.UseVisualStyleBackColor = false;
-            // 
-            // button458
-            // 
-            button458.BackColor = Color.White;
-            button458.BackgroundImageLayout = ImageLayout.None;
-            button458.FlatStyle = FlatStyle.Popup;
-            button458.Location = new Point(812, 854);
-            button458.Name = "button458";
-            button458.Size = new Size(23, 23);
-            button458.TabIndex = 924;
-            button458.UseVisualStyleBackColor = false;
-            // 
-            // button459
-            // 
-            button459.BackColor = Color.White;
-            button459.BackgroundImageLayout = ImageLayout.None;
-            button459.FlatStyle = FlatStyle.Popup;
-            button459.Location = new Point(783, 854);
-            button459.Name = "button459";
-            button459.Size = new Size(23, 23);
-            button459.TabIndex = 923;
-            button459.UseVisualStyleBackColor = false;
-            // 
-            // button460
-            // 
-            button460.BackColor = Color.White;
-            button460.BackgroundImageLayout = ImageLayout.None;
-            button460.FlatStyle = FlatStyle.Popup;
-            button460.Location = new Point(754, 854);
-            button460.Name = "button460";
-            button460.Size = new Size(23, 23);
-            button460.TabIndex = 922;
-            button460.UseVisualStyleBackColor = false;
-            // 
-            // button461
-            // 
-            button461.BackColor = Color.White;
-            button461.BackgroundImageLayout = ImageLayout.None;
-            button461.FlatStyle = FlatStyle.Popup;
-            button461.Location = new Point(725, 854);
-            button461.Name = "button461";
-            button461.Size = new Size(23, 23);
-            button461.TabIndex = 921;
-            button461.UseVisualStyleBackColor = false;
-            // 
-            // button462
-            // 
-            button462.BackColor = Color.White;
-            button462.BackgroundImageLayout = ImageLayout.None;
-            button462.FlatStyle = FlatStyle.Popup;
-            button462.Location = new Point(696, 854);
-            button462.Name = "button462";
-            button462.Size = new Size(23, 23);
-            button462.TabIndex = 920;
-            button462.UseVisualStyleBackColor = false;
-            // 
-            // button463
-            // 
-            button463.BackColor = Color.White;
-            button463.BackgroundImageLayout = ImageLayout.None;
-            button463.FlatStyle = FlatStyle.Popup;
-            button463.Location = new Point(667, 854);
-            button463.Name = "button463";
-            button463.Size = new Size(23, 23);
-            button463.TabIndex = 919;
-            button463.UseVisualStyleBackColor = false;
-            // 
-            // button464
-            // 
-            button464.BackColor = Color.White;
-            button464.BackgroundImageLayout = ImageLayout.None;
-            button464.FlatStyle = FlatStyle.Popup;
-            button464.Location = new Point(638, 854);
-            button464.Name = "button464";
-            button464.Size = new Size(23, 23);
-            button464.TabIndex = 918;
-            button464.UseVisualStyleBackColor = false;
-            // 
-            // button465
-            // 
-            button465.BackColor = Color.White;
-            button465.BackgroundImageLayout = ImageLayout.None;
-            button465.FlatStyle = FlatStyle.Popup;
-            button465.Location = new Point(609, 854);
-            button465.Name = "button465";
-            button465.Size = new Size(23, 23);
-            button465.TabIndex = 917;
-            button465.UseVisualStyleBackColor = false;
-            // 
-            // button466
-            // 
-            button466.BackColor = Color.White;
-            button466.BackgroundImageLayout = ImageLayout.None;
-            button466.FlatStyle = FlatStyle.Popup;
-            button466.Location = new Point(580, 854);
-            button466.Name = "button466";
-            button466.Size = new Size(23, 23);
-            button466.TabIndex = 916;
-            button466.UseVisualStyleBackColor = false;
-            // 
-            // button467
-            // 
-            button467.BackColor = Color.White;
-            button467.BackgroundImageLayout = ImageLayout.None;
-            button467.FlatStyle = FlatStyle.Popup;
-            button467.Location = new Point(551, 854);
-            button467.Name = "button467";
-            button467.Size = new Size(23, 23);
-            button467.TabIndex = 915;
-            button467.UseVisualStyleBackColor = false;
-            // 
-            // button468
-            // 
-            button468.BackColor = Color.White;
-            button468.BackgroundImageLayout = ImageLayout.None;
-            button468.FlatStyle = FlatStyle.Popup;
-            button468.Location = new Point(522, 854);
-            button468.Name = "button468";
-            button468.Size = new Size(23, 23);
-            button468.TabIndex = 914;
-            button468.UseVisualStyleBackColor = false;
-            // 
-            // button469
-            // 
-            button469.BackColor = Color.White;
-            button469.BackgroundImageLayout = ImageLayout.None;
-            button469.FlatStyle = FlatStyle.Popup;
-            button469.Location = new Point(493, 854);
-            button469.Name = "button469";
-            button469.Size = new Size(23, 23);
-            button469.TabIndex = 913;
-            button469.UseVisualStyleBackColor = false;
-            // 
-            // button470
-            // 
-            button470.BackColor = Color.White;
-            button470.BackgroundImageLayout = ImageLayout.None;
-            button470.FlatStyle = FlatStyle.Popup;
-            button470.Location = new Point(464, 854);
-            button470.Name = "button470";
-            button470.Size = new Size(23, 23);
-            button470.TabIndex = 912;
-            button470.UseVisualStyleBackColor = false;
-            // 
-            // button471
-            // 
-            button471.BackColor = Color.White;
-            button471.BackgroundImageLayout = ImageLayout.None;
-            button471.FlatStyle = FlatStyle.Popup;
-            button471.Location = new Point(435, 854);
-            button471.Name = "button471";
-            button471.Size = new Size(23, 23);
-            button471.TabIndex = 911;
-            button471.UseVisualStyleBackColor = false;
-            // 
-            // button472
-            // 
-            button472.BackColor = Color.White;
-            button472.BackgroundImageLayout = ImageLayout.None;
-            button472.FlatStyle = FlatStyle.Popup;
-            button472.Location = new Point(406, 854);
-            button472.Name = "button472";
-            button472.Size = new Size(23, 23);
-            button472.TabIndex = 910;
-            button472.UseVisualStyleBackColor = false;
-            // 
-            // button473
-            // 
-            button473.BackColor = Color.White;
-            button473.BackgroundImageLayout = ImageLayout.None;
-            button473.FlatStyle = FlatStyle.Popup;
-            button473.Location = new Point(377, 854);
-            button473.Name = "button473";
-            button473.Size = new Size(23, 23);
-            button473.TabIndex = 909;
-            button473.UseVisualStyleBackColor = false;
-            // 
-            // button474
-            // 
-            button474.BackColor = Color.White;
-            button474.BackgroundImageLayout = ImageLayout.None;
-            button474.FlatStyle = FlatStyle.Popup;
-            button474.Location = new Point(348, 854);
-            button474.Name = "button474";
-            button474.Size = new Size(23, 23);
-            button474.TabIndex = 908;
-            button474.UseVisualStyleBackColor = false;
-            // 
-            // button475
-            // 
-            button475.BackColor = Color.White;
-            button475.BackgroundImageLayout = ImageLayout.None;
-            button475.FlatStyle = FlatStyle.Popup;
-            button475.Location = new Point(319, 854);
-            button475.Name = "button475";
-            button475.Size = new Size(23, 23);
-            button475.TabIndex = 907;
-            button475.UseVisualStyleBackColor = false;
-            // 
-            // button476
-            // 
-            button476.BackColor = Color.White;
-            button476.BackgroundImageLayout = ImageLayout.None;
-            button476.FlatStyle = FlatStyle.Popup;
-            button476.Location = new Point(290, 854);
-            button476.Name = "button476";
-            button476.Size = new Size(23, 23);
-            button476.TabIndex = 906;
-            button476.UseVisualStyleBackColor = false;
-            // 
-            // button477
-            // 
-            button477.BackColor = Color.White;
-            button477.BackgroundImageLayout = ImageLayout.None;
-            button477.FlatStyle = FlatStyle.Popup;
-            button477.Location = new Point(261, 854);
-            button477.Name = "button477";
-            button477.Size = new Size(23, 23);
-            button477.TabIndex = 905;
-            button477.UseVisualStyleBackColor = false;
-            // 
-            // button478
-            // 
-            button478.BackColor = Color.White;
-            button478.BackgroundImageLayout = ImageLayout.None;
-            button478.FlatStyle = FlatStyle.Popup;
-            button478.Location = new Point(232, 854);
-            button478.Name = "button478";
-            button478.Size = new Size(23, 23);
-            button478.TabIndex = 904;
-            button478.UseVisualStyleBackColor = false;
-            // 
-            // button479
-            // 
-            button479.BackColor = Color.White;
-            button479.BackgroundImageLayout = ImageLayout.None;
-            button479.FlatStyle = FlatStyle.Popup;
-            button479.Location = new Point(203, 854);
-            button479.Name = "button479";
-            button479.Size = new Size(23, 23);
-            button479.TabIndex = 903;
-            button479.UseVisualStyleBackColor = false;
-            // 
-            // button480
-            // 
-            button480.BackColor = Color.White;
-            button480.BackgroundImageLayout = ImageLayout.None;
-            button480.FlatStyle = FlatStyle.Popup;
-            button480.Location = new Point(174, 854);
-            button480.Name = "button480";
-            button480.Size = new Size(23, 23);
-            button480.TabIndex = 902;
-            button480.UseVisualStyleBackColor = false;
-            // 
-            // button481
-            // 
-            button481.BackColor = Color.White;
-            button481.BackgroundImageLayout = ImageLayout.None;
-            button481.FlatStyle = FlatStyle.Popup;
-            button481.Location = new Point(145, 854);
-            button481.Name = "button481";
-            button481.Size = new Size(23, 23);
-            button481.TabIndex = 901;
-            button481.UseVisualStyleBackColor = false;
-            // 
-            // button482
-            // 
-            button482.BackColor = Color.White;
-            button482.BackgroundImageLayout = ImageLayout.None;
-            button482.FlatStyle = FlatStyle.Popup;
-            button482.Location = new Point(116, 854);
-            button482.Name = "button482";
-            button482.Size = new Size(23, 23);
-            button482.TabIndex = 898;
-            button482.UseVisualStyleBackColor = false;
-            // 
-            // button483
-            // 
-            button483.BackColor = Color.White;
-            button483.BackgroundImageLayout = ImageLayout.None;
-            button483.FlatStyle = FlatStyle.Popup;
-            button483.Location = new Point(87, 854);
-            button483.Name = "button483";
-            button483.Size = new Size(23, 23);
-            button483.TabIndex = 897;
-            button483.UseVisualStyleBackColor = false;
-            // 
-            // button484
-            // 
-            button484.BackColor = Color.White;
-            button484.BackgroundImageLayout = ImageLayout.None;
-            button484.FlatStyle = FlatStyle.Popup;
-            button484.Location = new Point(58, 854);
-            button484.Name = "button484";
-            button484.Size = new Size(23, 23);
-            button484.TabIndex = 900;
-            button484.UseVisualStyleBackColor = false;
+            // videoGame_d2
+            // 
+            videoGame_d2.BackColor = Color.White;
+            videoGame_d2.BackgroundImageLayout = ImageLayout.None;
+            videoGame_d2.FlatStyle = FlatStyle.Popup;
+            videoGame_d2.Location = new Point(29, 941);
+            videoGame_d2.Name = "videoGame_d2";
+            videoGame_d2.Size = new Size(23, 23);
+            videoGame_d2.TabIndex = 990;
+            videoGame_d2.UseVisualStyleBackColor = false;
+            // 
+            // videoGame_d1
+            // 
+            videoGame_d1.BackColor = Color.Yellow;
+            videoGame_d1.BackgroundImageLayout = ImageLayout.None;
+            videoGame_d1.FlatStyle = FlatStyle.Popup;
+            videoGame_d1.Location = new Point(0, 941);
+            videoGame_d1.Name = "videoGame_d1";
+            videoGame_d1.Size = new Size(23, 23);
+            videoGame_d1.TabIndex = 989;
+            videoGame_d1.UseVisualStyleBackColor = false;
+            // 
+            // book_d31
+            // 
+            book_d31.BackColor = Color.White;
+            book_d31.BackgroundImageLayout = ImageLayout.None;
+            book_d31.FlatStyle = FlatStyle.Popup;
+            book_d31.Location = new Point(870, 912);
+            book_d31.Name = "book_d31";
+            book_d31.Size = new Size(23, 23);
+            book_d31.TabIndex = 988;
+            book_d31.UseVisualStyleBackColor = false;
+            // 
+            // book_d30
+            // 
+            book_d30.BackColor = Color.White;
+            book_d30.BackgroundImageLayout = ImageLayout.None;
+            book_d30.FlatStyle = FlatStyle.Popup;
+            book_d30.Location = new Point(841, 912);
+            book_d30.Name = "book_d30";
+            book_d30.Size = new Size(23, 23);
+            book_d30.TabIndex = 987;
+            book_d30.UseVisualStyleBackColor = false;
+            // 
+            // book_d29
+            // 
+            book_d29.BackColor = Color.White;
+            book_d29.BackgroundImageLayout = ImageLayout.None;
+            book_d29.FlatStyle = FlatStyle.Popup;
+            book_d29.Location = new Point(812, 912);
+            book_d29.Name = "book_d29";
+            book_d29.Size = new Size(23, 23);
+            book_d29.TabIndex = 986;
+            book_d29.UseVisualStyleBackColor = false;
+            // 
+            // book_d28
+            // 
+            book_d28.BackColor = Color.White;
+            book_d28.BackgroundImageLayout = ImageLayout.None;
+            book_d28.FlatStyle = FlatStyle.Popup;
+            book_d28.Location = new Point(783, 912);
+            book_d28.Name = "book_d28";
+            book_d28.Size = new Size(23, 23);
+            book_d28.TabIndex = 985;
+            book_d28.UseVisualStyleBackColor = false;
+            // 
+            // book_d27
+            // 
+            book_d27.BackColor = Color.White;
+            book_d27.BackgroundImageLayout = ImageLayout.None;
+            book_d27.FlatStyle = FlatStyle.Popup;
+            book_d27.Location = new Point(754, 912);
+            book_d27.Name = "book_d27";
+            book_d27.Size = new Size(23, 23);
+            book_d27.TabIndex = 984;
+            book_d27.UseVisualStyleBackColor = false;
+            // 
+            // book_d26
+            // 
+            book_d26.BackColor = Color.White;
+            book_d26.BackgroundImageLayout = ImageLayout.None;
+            book_d26.FlatStyle = FlatStyle.Popup;
+            book_d26.Location = new Point(725, 912);
+            book_d26.Name = "book_d26";
+            book_d26.Size = new Size(23, 23);
+            book_d26.TabIndex = 983;
+            book_d26.UseVisualStyleBackColor = false;
+            // 
+            // book_d25
+            // 
+            book_d25.BackColor = Color.White;
+            book_d25.BackgroundImageLayout = ImageLayout.None;
+            book_d25.FlatStyle = FlatStyle.Popup;
+            book_d25.Location = new Point(696, 912);
+            book_d25.Name = "book_d25";
+            book_d25.Size = new Size(23, 23);
+            book_d25.TabIndex = 982;
+            book_d25.UseVisualStyleBackColor = false;
+            // 
+            // book_d24
+            // 
+            book_d24.BackColor = Color.White;
+            book_d24.BackgroundImageLayout = ImageLayout.None;
+            book_d24.FlatStyle = FlatStyle.Popup;
+            book_d24.Location = new Point(667, 912);
+            book_d24.Name = "book_d24";
+            book_d24.Size = new Size(23, 23);
+            book_d24.TabIndex = 981;
+            book_d24.UseVisualStyleBackColor = false;
+            // 
+            // book_d23
+            // 
+            book_d23.BackColor = Color.White;
+            book_d23.BackgroundImageLayout = ImageLayout.None;
+            book_d23.FlatStyle = FlatStyle.Popup;
+            book_d23.Location = new Point(638, 912);
+            book_d23.Name = "book_d23";
+            book_d23.Size = new Size(23, 23);
+            book_d23.TabIndex = 980;
+            book_d23.UseVisualStyleBackColor = false;
+            // 
+            // book_d22
+            // 
+            book_d22.BackColor = Color.White;
+            book_d22.BackgroundImageLayout = ImageLayout.None;
+            book_d22.FlatStyle = FlatStyle.Popup;
+            book_d22.Location = new Point(609, 912);
+            book_d22.Name = "book_d22";
+            book_d22.Size = new Size(23, 23);
+            book_d22.TabIndex = 979;
+            book_d22.UseVisualStyleBackColor = false;
+            // 
+            // book_d21
+            // 
+            book_d21.BackColor = Color.White;
+            book_d21.BackgroundImageLayout = ImageLayout.None;
+            book_d21.FlatStyle = FlatStyle.Popup;
+            book_d21.Location = new Point(580, 912);
+            book_d21.Name = "book_d21";
+            book_d21.Size = new Size(23, 23);
+            book_d21.TabIndex = 978;
+            book_d21.UseVisualStyleBackColor = false;
+            // 
+            // book_d20
+            // 
+            book_d20.BackColor = Color.White;
+            book_d20.BackgroundImageLayout = ImageLayout.None;
+            book_d20.FlatStyle = FlatStyle.Popup;
+            book_d20.Location = new Point(551, 912);
+            book_d20.Name = "book_d20";
+            book_d20.Size = new Size(23, 23);
+            book_d20.TabIndex = 977;
+            book_d20.UseVisualStyleBackColor = false;
+            // 
+            // book_d19
+            // 
+            book_d19.BackColor = Color.White;
+            book_d19.BackgroundImageLayout = ImageLayout.None;
+            book_d19.FlatStyle = FlatStyle.Popup;
+            book_d19.Location = new Point(522, 912);
+            book_d19.Name = "book_d19";
+            book_d19.Size = new Size(23, 23);
+            book_d19.TabIndex = 976;
+            book_d19.UseVisualStyleBackColor = false;
+            // 
+            // book_d18
+            // 
+            book_d18.BackColor = Color.White;
+            book_d18.BackgroundImageLayout = ImageLayout.None;
+            book_d18.FlatStyle = FlatStyle.Popup;
+            book_d18.Location = new Point(493, 912);
+            book_d18.Name = "book_d18";
+            book_d18.Size = new Size(23, 23);
+            book_d18.TabIndex = 975;
+            book_d18.UseVisualStyleBackColor = false;
+            // 
+            // book_d17
+            // 
+            book_d17.BackColor = Color.White;
+            book_d17.BackgroundImageLayout = ImageLayout.None;
+            book_d17.FlatStyle = FlatStyle.Popup;
+            book_d17.Location = new Point(464, 912);
+            book_d17.Name = "book_d17";
+            book_d17.Size = new Size(23, 23);
+            book_d17.TabIndex = 974;
+            book_d17.UseVisualStyleBackColor = false;
+            // 
+            // book_d16
+            // 
+            book_d16.BackColor = Color.White;
+            book_d16.BackgroundImageLayout = ImageLayout.None;
+            book_d16.FlatStyle = FlatStyle.Popup;
+            book_d16.Location = new Point(435, 912);
+            book_d16.Name = "book_d16";
+            book_d16.Size = new Size(23, 23);
+            book_d16.TabIndex = 973;
+            book_d16.UseVisualStyleBackColor = false;
+            // 
+            // book_d15
+            // 
+            book_d15.BackColor = Color.White;
+            book_d15.BackgroundImageLayout = ImageLayout.None;
+            book_d15.FlatStyle = FlatStyle.Popup;
+            book_d15.Location = new Point(406, 912);
+            book_d15.Name = "book_d15";
+            book_d15.Size = new Size(23, 23);
+            book_d15.TabIndex = 972;
+            book_d15.UseVisualStyleBackColor = false;
+            // 
+            // book_d14
+            // 
+            book_d14.BackColor = Color.White;
+            book_d14.BackgroundImageLayout = ImageLayout.None;
+            book_d14.FlatStyle = FlatStyle.Popup;
+            book_d14.Location = new Point(377, 912);
+            book_d14.Name = "book_d14";
+            book_d14.Size = new Size(23, 23);
+            book_d14.TabIndex = 971;
+            book_d14.UseVisualStyleBackColor = false;
+            // 
+            // book_d13
+            // 
+            book_d13.BackColor = Color.White;
+            book_d13.BackgroundImageLayout = ImageLayout.None;
+            book_d13.FlatStyle = FlatStyle.Popup;
+            book_d13.Location = new Point(348, 912);
+            book_d13.Name = "book_d13";
+            book_d13.Size = new Size(23, 23);
+            book_d13.TabIndex = 970;
+            book_d13.UseVisualStyleBackColor = false;
+            // 
+            // book_d12
+            // 
+            book_d12.BackColor = Color.White;
+            book_d12.BackgroundImageLayout = ImageLayout.None;
+            book_d12.FlatStyle = FlatStyle.Popup;
+            book_d12.Location = new Point(319, 912);
+            book_d12.Name = "book_d12";
+            book_d12.Size = new Size(23, 23);
+            book_d12.TabIndex = 969;
+            book_d12.UseVisualStyleBackColor = false;
+            // 
+            // book_d11
+            // 
+            book_d11.BackColor = Color.White;
+            book_d11.BackgroundImageLayout = ImageLayout.None;
+            book_d11.FlatStyle = FlatStyle.Popup;
+            book_d11.Location = new Point(290, 912);
+            book_d11.Name = "book_d11";
+            book_d11.Size = new Size(23, 23);
+            book_d11.TabIndex = 968;
+            book_d11.UseVisualStyleBackColor = false;
+            // 
+            // book_d10
+            // 
+            book_d10.BackColor = Color.White;
+            book_d10.BackgroundImageLayout = ImageLayout.None;
+            book_d10.FlatStyle = FlatStyle.Popup;
+            book_d10.Location = new Point(261, 912);
+            book_d10.Name = "book_d10";
+            book_d10.Size = new Size(23, 23);
+            book_d10.TabIndex = 967;
+            book_d10.UseVisualStyleBackColor = false;
+            // 
+            // book_d9
+            // 
+            book_d9.BackColor = Color.White;
+            book_d9.BackgroundImageLayout = ImageLayout.None;
+            book_d9.FlatStyle = FlatStyle.Popup;
+            book_d9.Location = new Point(232, 912);
+            book_d9.Name = "book_d9";
+            book_d9.Size = new Size(23, 23);
+            book_d9.TabIndex = 966;
+            book_d9.UseVisualStyleBackColor = false;
+            // 
+            // book_d8
+            // 
+            book_d8.BackColor = Color.White;
+            book_d8.BackgroundImageLayout = ImageLayout.None;
+            book_d8.FlatStyle = FlatStyle.Popup;
+            book_d8.Location = new Point(203, 912);
+            book_d8.Name = "book_d8";
+            book_d8.Size = new Size(23, 23);
+            book_d8.TabIndex = 965;
+            book_d8.UseVisualStyleBackColor = false;
+            // 
+            // book_d7
+            // 
+            book_d7.BackColor = Color.White;
+            book_d7.BackgroundImageLayout = ImageLayout.None;
+            book_d7.FlatStyle = FlatStyle.Popup;
+            book_d7.Location = new Point(174, 912);
+            book_d7.Name = "book_d7";
+            book_d7.Size = new Size(23, 23);
+            book_d7.TabIndex = 964;
+            book_d7.UseVisualStyleBackColor = false;
+            // 
+            // book_d6
+            // 
+            book_d6.BackColor = Color.White;
+            book_d6.BackgroundImageLayout = ImageLayout.None;
+            book_d6.FlatStyle = FlatStyle.Popup;
+            book_d6.Location = new Point(145, 912);
+            book_d6.Name = "book_d6";
+            book_d6.Size = new Size(23, 23);
+            book_d6.TabIndex = 963;
+            book_d6.UseVisualStyleBackColor = false;
+            // 
+            // book_d5
+            // 
+            book_d5.BackColor = Color.White;
+            book_d5.BackgroundImageLayout = ImageLayout.None;
+            book_d5.FlatStyle = FlatStyle.Popup;
+            book_d5.Location = new Point(116, 912);
+            book_d5.Name = "book_d5";
+            book_d5.Size = new Size(23, 23);
+            book_d5.TabIndex = 962;
+            book_d5.UseVisualStyleBackColor = false;
+            // 
+            // book_d4
+            // 
+            book_d4.BackColor = Color.White;
+            book_d4.BackgroundImageLayout = ImageLayout.None;
+            book_d4.FlatStyle = FlatStyle.Popup;
+            book_d4.Location = new Point(87, 912);
+            book_d4.Name = "book_d4";
+            book_d4.Size = new Size(23, 23);
+            book_d4.TabIndex = 961;
+            book_d4.UseVisualStyleBackColor = false;
+            // 
+            // book_d3
+            // 
+            book_d3.BackColor = Color.White;
+            book_d3.BackgroundImageLayout = ImageLayout.None;
+            book_d3.FlatStyle = FlatStyle.Popup;
+            book_d3.Location = new Point(58, 912);
+            book_d3.Name = "book_d3";
+            book_d3.Size = new Size(23, 23);
+            book_d3.TabIndex = 960;
+            book_d3.UseVisualStyleBackColor = false;
+            // 
+            // book_d2
+            // 
+            book_d2.BackColor = Color.White;
+            book_d2.BackgroundImageLayout = ImageLayout.None;
+            book_d2.FlatStyle = FlatStyle.Popup;
+            book_d2.Location = new Point(29, 912);
+            book_d2.Name = "book_d2";
+            book_d2.Size = new Size(23, 23);
+            book_d2.TabIndex = 959;
+            book_d2.UseVisualStyleBackColor = false;
+            // 
+            // book_d1
+            // 
+            book_d1.BackColor = Color.Red;
+            book_d1.BackgroundImageLayout = ImageLayout.None;
+            book_d1.FlatStyle = FlatStyle.Popup;
+            book_d1.Location = new Point(0, 912);
+            book_d1.Name = "book_d1";
+            book_d1.Size = new Size(23, 23);
+            book_d1.TabIndex = 958;
+            book_d1.UseVisualStyleBackColor = false;
+            // 
+            // music_d31
+            // 
+            music_d31.BackColor = Color.White;
+            music_d31.BackgroundImageLayout = ImageLayout.None;
+            music_d31.FlatStyle = FlatStyle.Popup;
+            music_d31.Location = new Point(870, 883);
+            music_d31.Name = "music_d31";
+            music_d31.Size = new Size(23, 23);
+            music_d31.TabIndex = 957;
+            music_d31.UseVisualStyleBackColor = false;
+            // 
+            // music_d30
+            // 
+            music_d30.BackColor = Color.White;
+            music_d30.BackgroundImageLayout = ImageLayout.None;
+            music_d30.FlatStyle = FlatStyle.Popup;
+            music_d30.Location = new Point(841, 883);
+            music_d30.Name = "music_d30";
+            music_d30.Size = new Size(23, 23);
+            music_d30.TabIndex = 956;
+            music_d30.UseVisualStyleBackColor = false;
+            // 
+            // music_d29
+            // 
+            music_d29.BackColor = Color.White;
+            music_d29.BackgroundImageLayout = ImageLayout.None;
+            music_d29.FlatStyle = FlatStyle.Popup;
+            music_d29.Location = new Point(812, 883);
+            music_d29.Name = "music_d29";
+            music_d29.Size = new Size(23, 23);
+            music_d29.TabIndex = 955;
+            music_d29.UseVisualStyleBackColor = false;
+            // 
+            // music_d28
+            // 
+            music_d28.BackColor = Color.White;
+            music_d28.BackgroundImageLayout = ImageLayout.None;
+            music_d28.FlatStyle = FlatStyle.Popup;
+            music_d28.Location = new Point(783, 883);
+            music_d28.Name = "music_d28";
+            music_d28.Size = new Size(23, 23);
+            music_d28.TabIndex = 954;
+            music_d28.UseVisualStyleBackColor = false;
+            // 
+            // music_d27
+            // 
+            music_d27.BackColor = Color.White;
+            music_d27.BackgroundImageLayout = ImageLayout.None;
+            music_d27.FlatStyle = FlatStyle.Popup;
+            music_d27.Location = new Point(754, 883);
+            music_d27.Name = "music_d27";
+            music_d27.Size = new Size(23, 23);
+            music_d27.TabIndex = 953;
+            music_d27.UseVisualStyleBackColor = false;
+            // 
+            // music_d26
+            // 
+            music_d26.BackColor = Color.White;
+            music_d26.BackgroundImageLayout = ImageLayout.None;
+            music_d26.FlatStyle = FlatStyle.Popup;
+            music_d26.Location = new Point(725, 883);
+            music_d26.Name = "music_d26";
+            music_d26.Size = new Size(23, 23);
+            music_d26.TabIndex = 952;
+            music_d26.UseVisualStyleBackColor = false;
+            // 
+            // music_d25
+            // 
+            music_d25.BackColor = Color.White;
+            music_d25.BackgroundImageLayout = ImageLayout.None;
+            music_d25.FlatStyle = FlatStyle.Popup;
+            music_d25.Location = new Point(696, 883);
+            music_d25.Name = "music_d25";
+            music_d25.Size = new Size(23, 23);
+            music_d25.TabIndex = 951;
+            music_d25.UseVisualStyleBackColor = false;
+            // 
+            // music_d24
+            // 
+            music_d24.BackColor = Color.White;
+            music_d24.BackgroundImageLayout = ImageLayout.None;
+            music_d24.FlatStyle = FlatStyle.Popup;
+            music_d24.Location = new Point(667, 883);
+            music_d24.Name = "music_d24";
+            music_d24.Size = new Size(23, 23);
+            music_d24.TabIndex = 950;
+            music_d24.UseVisualStyleBackColor = false;
+            // 
+            // music_d23
+            // 
+            music_d23.BackColor = Color.White;
+            music_d23.BackgroundImageLayout = ImageLayout.None;
+            music_d23.FlatStyle = FlatStyle.Popup;
+            music_d23.Location = new Point(638, 883);
+            music_d23.Name = "music_d23";
+            music_d23.Size = new Size(23, 23);
+            music_d23.TabIndex = 949;
+            music_d23.UseVisualStyleBackColor = false;
+            // 
+            // music_d22
+            // 
+            music_d22.BackColor = Color.White;
+            music_d22.BackgroundImageLayout = ImageLayout.None;
+            music_d22.FlatStyle = FlatStyle.Popup;
+            music_d22.Location = new Point(609, 883);
+            music_d22.Name = "music_d22";
+            music_d22.Size = new Size(23, 23);
+            music_d22.TabIndex = 948;
+            music_d22.UseVisualStyleBackColor = false;
+            // 
+            // music_d21
+            // 
+            music_d21.BackColor = Color.White;
+            music_d21.BackgroundImageLayout = ImageLayout.None;
+            music_d21.FlatStyle = FlatStyle.Popup;
+            music_d21.Location = new Point(580, 883);
+            music_d21.Name = "music_d21";
+            music_d21.Size = new Size(23, 23);
+            music_d21.TabIndex = 947;
+            music_d21.UseVisualStyleBackColor = false;
+            // 
+            // music_d20
+            // 
+            music_d20.BackColor = Color.White;
+            music_d20.BackgroundImageLayout = ImageLayout.None;
+            music_d20.FlatStyle = FlatStyle.Popup;
+            music_d20.Location = new Point(551, 883);
+            music_d20.Name = "music_d20";
+            music_d20.Size = new Size(23, 23);
+            music_d20.TabIndex = 946;
+            music_d20.UseVisualStyleBackColor = false;
+            // 
+            // music_d19
+            // 
+            music_d19.BackColor = Color.White;
+            music_d19.BackgroundImageLayout = ImageLayout.None;
+            music_d19.FlatStyle = FlatStyle.Popup;
+            music_d19.Location = new Point(522, 883);
+            music_d19.Name = "music_d19";
+            music_d19.Size = new Size(23, 23);
+            music_d19.TabIndex = 945;
+            music_d19.UseVisualStyleBackColor = false;
+            // 
+            // music_d18
+            // 
+            music_d18.BackColor = Color.White;
+            music_d18.BackgroundImageLayout = ImageLayout.None;
+            music_d18.FlatStyle = FlatStyle.Popup;
+            music_d18.Location = new Point(493, 883);
+            music_d18.Name = "music_d18";
+            music_d18.Size = new Size(23, 23);
+            music_d18.TabIndex = 944;
+            music_d18.UseVisualStyleBackColor = false;
+            // 
+            // music_d17
+            // 
+            music_d17.BackColor = Color.White;
+            music_d17.BackgroundImageLayout = ImageLayout.None;
+            music_d17.FlatStyle = FlatStyle.Popup;
+            music_d17.Location = new Point(464, 883);
+            music_d17.Name = "music_d17";
+            music_d17.Size = new Size(23, 23);
+            music_d17.TabIndex = 943;
+            music_d17.UseVisualStyleBackColor = false;
+            // 
+            // music_d16
+            // 
+            music_d16.BackColor = Color.White;
+            music_d16.BackgroundImageLayout = ImageLayout.None;
+            music_d16.FlatStyle = FlatStyle.Popup;
+            music_d16.Location = new Point(435, 883);
+            music_d16.Name = "music_d16";
+            music_d16.Size = new Size(23, 23);
+            music_d16.TabIndex = 942;
+            music_d16.UseVisualStyleBackColor = false;
+            // 
+            // music_d15
+            // 
+            music_d15.BackColor = Color.White;
+            music_d15.BackgroundImageLayout = ImageLayout.None;
+            music_d15.FlatStyle = FlatStyle.Popup;
+            music_d15.Location = new Point(406, 883);
+            music_d15.Name = "music_d15";
+            music_d15.Size = new Size(23, 23);
+            music_d15.TabIndex = 941;
+            music_d15.UseVisualStyleBackColor = false;
+            // 
+            // music_d14
+            // 
+            music_d14.BackColor = Color.White;
+            music_d14.BackgroundImageLayout = ImageLayout.None;
+            music_d14.FlatStyle = FlatStyle.Popup;
+            music_d14.Location = new Point(377, 883);
+            music_d14.Name = "music_d14";
+            music_d14.Size = new Size(23, 23);
+            music_d14.TabIndex = 940;
+            music_d14.UseVisualStyleBackColor = false;
+            // 
+            // music_d13
+            // 
+            music_d13.BackColor = Color.White;
+            music_d13.BackgroundImageLayout = ImageLayout.None;
+            music_d13.FlatStyle = FlatStyle.Popup;
+            music_d13.Location = new Point(348, 883);
+            music_d13.Name = "music_d13";
+            music_d13.Size = new Size(23, 23);
+            music_d13.TabIndex = 939;
+            music_d13.UseVisualStyleBackColor = false;
+            // 
+            // music_d12
+            // 
+            music_d12.BackColor = Color.White;
+            music_d12.BackgroundImageLayout = ImageLayout.None;
+            music_d12.FlatStyle = FlatStyle.Popup;
+            music_d12.Location = new Point(319, 883);
+            music_d12.Name = "music_d12";
+            music_d12.Size = new Size(23, 23);
+            music_d12.TabIndex = 938;
+            music_d12.UseVisualStyleBackColor = false;
+            // 
+            // music_d11
+            // 
+            music_d11.BackColor = Color.White;
+            music_d11.BackgroundImageLayout = ImageLayout.None;
+            music_d11.FlatStyle = FlatStyle.Popup;
+            music_d11.Location = new Point(290, 883);
+            music_d11.Name = "music_d11";
+            music_d11.Size = new Size(23, 23);
+            music_d11.TabIndex = 937;
+            music_d11.UseVisualStyleBackColor = false;
+            // 
+            // music_d10
+            // 
+            music_d10.BackColor = Color.White;
+            music_d10.BackgroundImageLayout = ImageLayout.None;
+            music_d10.FlatStyle = FlatStyle.Popup;
+            music_d10.Location = new Point(261, 883);
+            music_d10.Name = "music_d10";
+            music_d10.Size = new Size(23, 23);
+            music_d10.TabIndex = 936;
+            music_d10.UseVisualStyleBackColor = false;
+            // 
+            // music_d9
+            // 
+            music_d9.BackColor = Color.White;
+            music_d9.BackgroundImageLayout = ImageLayout.None;
+            music_d9.FlatStyle = FlatStyle.Popup;
+            music_d9.Location = new Point(232, 883);
+            music_d9.Name = "music_d9";
+            music_d9.Size = new Size(23, 23);
+            music_d9.TabIndex = 935;
+            music_d9.UseVisualStyleBackColor = false;
+            // 
+            // music_d8
+            // 
+            music_d8.BackColor = Color.White;
+            music_d8.BackgroundImageLayout = ImageLayout.None;
+            music_d8.FlatStyle = FlatStyle.Popup;
+            music_d8.Location = new Point(203, 883);
+            music_d8.Name = "music_d8";
+            music_d8.Size = new Size(23, 23);
+            music_d8.TabIndex = 934;
+            music_d8.UseVisualStyleBackColor = false;
+            // 
+            // music_d7
+            // 
+            music_d7.BackColor = Color.White;
+            music_d7.BackgroundImageLayout = ImageLayout.None;
+            music_d7.FlatStyle = FlatStyle.Popup;
+            music_d7.Location = new Point(174, 883);
+            music_d7.Name = "music_d7";
+            music_d7.Size = new Size(23, 23);
+            music_d7.TabIndex = 933;
+            music_d7.UseVisualStyleBackColor = false;
+            // 
+            // music_d6
+            // 
+            music_d6.BackColor = Color.White;
+            music_d6.BackgroundImageLayout = ImageLayout.None;
+            music_d6.FlatStyle = FlatStyle.Popup;
+            music_d6.Location = new Point(145, 883);
+            music_d6.Name = "music_d6";
+            music_d6.Size = new Size(23, 23);
+            music_d6.TabIndex = 932;
+            music_d6.UseVisualStyleBackColor = false;
+            // 
+            // music_d5
+            // 
+            music_d5.BackColor = Color.White;
+            music_d5.BackgroundImageLayout = ImageLayout.None;
+            music_d5.FlatStyle = FlatStyle.Popup;
+            music_d5.Location = new Point(116, 883);
+            music_d5.Name = "music_d5";
+            music_d5.Size = new Size(23, 23);
+            music_d5.TabIndex = 929;
+            music_d5.UseVisualStyleBackColor = false;
+            // 
+            // music_d4
+            // 
+            music_d4.BackColor = Color.White;
+            music_d4.BackgroundImageLayout = ImageLayout.None;
+            music_d4.FlatStyle = FlatStyle.Popup;
+            music_d4.Location = new Point(87, 883);
+            music_d4.Name = "music_d4";
+            music_d4.Size = new Size(23, 23);
+            music_d4.TabIndex = 928;
+            music_d4.UseVisualStyleBackColor = false;
+            // 
+            // music_d3
+            // 
+            music_d3.BackColor = Color.White;
+            music_d3.BackgroundImageLayout = ImageLayout.None;
+            music_d3.FlatStyle = FlatStyle.Popup;
+            music_d3.Location = new Point(58, 883);
+            music_d3.Name = "music_d3";
+            music_d3.Size = new Size(23, 23);
+            music_d3.TabIndex = 931;
+            music_d3.UseVisualStyleBackColor = false;
+            // 
+            // music_d2
+            // 
+            music_d2.BackColor = Color.White;
+            music_d2.BackgroundImageLayout = ImageLayout.None;
+            music_d2.FlatStyle = FlatStyle.Popup;
+            music_d2.Location = new Point(29, 883);
+            music_d2.Name = "music_d2";
+            music_d2.Size = new Size(23, 23);
+            music_d2.TabIndex = 930;
+            music_d2.UseVisualStyleBackColor = false;
+            // 
+            // music_d1
+            // 
+            music_d1.BackColor = Color.DarkViolet;
+            music_d1.BackgroundImageLayout = ImageLayout.None;
+            music_d1.FlatStyle = FlatStyle.Popup;
+            music_d1.Location = new Point(0, 883);
+            music_d1.Name = "music_d1";
+            music_d1.Size = new Size(23, 23);
+            music_d1.TabIndex = 927;
+            music_d1.UseVisualStyleBackColor = false;
+            // 
+            // movie_d31
+            // 
+            movie_d31.BackColor = Color.White;
+            movie_d31.BackgroundImageLayout = ImageLayout.None;
+            movie_d31.FlatStyle = FlatStyle.Popup;
+            movie_d31.Location = new Point(870, 854);
+            movie_d31.Name = "movie_d31";
+            movie_d31.Size = new Size(23, 23);
+            movie_d31.TabIndex = 926;
+            movie_d31.UseVisualStyleBackColor = false;
+            // 
+            // movie_d30
+            // 
+            movie_d30.BackColor = Color.White;
+            movie_d30.BackgroundImageLayout = ImageLayout.None;
+            movie_d30.FlatStyle = FlatStyle.Popup;
+            movie_d30.Location = new Point(841, 854);
+            movie_d30.Name = "movie_d30";
+            movie_d30.Size = new Size(23, 23);
+            movie_d30.TabIndex = 925;
+            movie_d30.UseVisualStyleBackColor = false;
+            // 
+            // movie_d29
+            // 
+            movie_d29.BackColor = Color.White;
+            movie_d29.BackgroundImageLayout = ImageLayout.None;
+            movie_d29.FlatStyle = FlatStyle.Popup;
+            movie_d29.Location = new Point(812, 854);
+            movie_d29.Name = "movie_d29";
+            movie_d29.Size = new Size(23, 23);
+            movie_d29.TabIndex = 924;
+            movie_d29.UseVisualStyleBackColor = false;
+            // 
+            // movie_d28
+            // 
+            movie_d28.BackColor = Color.White;
+            movie_d28.BackgroundImageLayout = ImageLayout.None;
+            movie_d28.FlatStyle = FlatStyle.Popup;
+            movie_d28.Location = new Point(783, 854);
+            movie_d28.Name = "movie_d28";
+            movie_d28.Size = new Size(23, 23);
+            movie_d28.TabIndex = 923;
+            movie_d28.UseVisualStyleBackColor = false;
+            // 
+            // movie_d27
+            // 
+            movie_d27.BackColor = Color.White;
+            movie_d27.BackgroundImageLayout = ImageLayout.None;
+            movie_d27.FlatStyle = FlatStyle.Popup;
+            movie_d27.Location = new Point(754, 854);
+            movie_d27.Name = "movie_d27";
+            movie_d27.Size = new Size(23, 23);
+            movie_d27.TabIndex = 922;
+            movie_d27.UseVisualStyleBackColor = false;
+            // 
+            // movie_d26
+            // 
+            movie_d26.BackColor = Color.White;
+            movie_d26.BackgroundImageLayout = ImageLayout.None;
+            movie_d26.FlatStyle = FlatStyle.Popup;
+            movie_d26.Location = new Point(725, 854);
+            movie_d26.Name = "movie_d26";
+            movie_d26.Size = new Size(23, 23);
+            movie_d26.TabIndex = 921;
+            movie_d26.UseVisualStyleBackColor = false;
+            // 
+            // movie_d25
+            // 
+            movie_d25.BackColor = Color.White;
+            movie_d25.BackgroundImageLayout = ImageLayout.None;
+            movie_d25.FlatStyle = FlatStyle.Popup;
+            movie_d25.Location = new Point(696, 854);
+            movie_d25.Name = "movie_d25";
+            movie_d25.Size = new Size(23, 23);
+            movie_d25.TabIndex = 920;
+            movie_d25.UseVisualStyleBackColor = false;
+            // 
+            // movie_d24
+            // 
+            movie_d24.BackColor = Color.White;
+            movie_d24.BackgroundImageLayout = ImageLayout.None;
+            movie_d24.FlatStyle = FlatStyle.Popup;
+            movie_d24.Location = new Point(667, 854);
+            movie_d24.Name = "movie_d24";
+            movie_d24.Size = new Size(23, 23);
+            movie_d24.TabIndex = 919;
+            movie_d24.UseVisualStyleBackColor = false;
+            // 
+            // movie_d23
+            // 
+            movie_d23.BackColor = Color.White;
+            movie_d23.BackgroundImageLayout = ImageLayout.None;
+            movie_d23.FlatStyle = FlatStyle.Popup;
+            movie_d23.Location = new Point(638, 854);
+            movie_d23.Name = "movie_d23";
+            movie_d23.Size = new Size(23, 23);
+            movie_d23.TabIndex = 918;
+            movie_d23.UseVisualStyleBackColor = false;
+            // 
+            // movie_d22
+            // 
+            movie_d22.BackColor = Color.White;
+            movie_d22.BackgroundImageLayout = ImageLayout.None;
+            movie_d22.FlatStyle = FlatStyle.Popup;
+            movie_d22.Location = new Point(609, 854);
+            movie_d22.Name = "movie_d22";
+            movie_d22.Size = new Size(23, 23);
+            movie_d22.TabIndex = 917;
+            movie_d22.UseVisualStyleBackColor = false;
+            // 
+            // movie_d21
+            // 
+            movie_d21.BackColor = Color.White;
+            movie_d21.BackgroundImageLayout = ImageLayout.None;
+            movie_d21.FlatStyle = FlatStyle.Popup;
+            movie_d21.Location = new Point(580, 854);
+            movie_d21.Name = "movie_d21";
+            movie_d21.Size = new Size(23, 23);
+            movie_d21.TabIndex = 916;
+            movie_d21.UseVisualStyleBackColor = false;
+            // 
+            // movie_d20
+            // 
+            movie_d20.BackColor = Color.White;
+            movie_d20.BackgroundImageLayout = ImageLayout.None;
+            movie_d20.FlatStyle = FlatStyle.Popup;
+            movie_d20.Location = new Point(551, 854);
+            movie_d20.Name = "movie_d20";
+            movie_d20.Size = new Size(23, 23);
+            movie_d20.TabIndex = 915;
+            movie_d20.UseVisualStyleBackColor = false;
+            // 
+            // movie_d19
+            // 
+            movie_d19.BackColor = Color.White;
+            movie_d19.BackgroundImageLayout = ImageLayout.None;
+            movie_d19.FlatStyle = FlatStyle.Popup;
+            movie_d19.Location = new Point(522, 854);
+            movie_d19.Name = "movie_d19";
+            movie_d19.Size = new Size(23, 23);
+            movie_d19.TabIndex = 914;
+            movie_d19.UseVisualStyleBackColor = false;
+            // 
+            // movie_d18
+            // 
+            movie_d18.BackColor = Color.White;
+            movie_d18.BackgroundImageLayout = ImageLayout.None;
+            movie_d18.FlatStyle = FlatStyle.Popup;
+            movie_d18.Location = new Point(493, 854);
+            movie_d18.Name = "movie_d18";
+            movie_d18.Size = new Size(23, 23);
+            movie_d18.TabIndex = 913;
+            movie_d18.UseVisualStyleBackColor = false;
+            // 
+            // movie_d17
+            // 
+            movie_d17.BackColor = Color.White;
+            movie_d17.BackgroundImageLayout = ImageLayout.None;
+            movie_d17.FlatStyle = FlatStyle.Popup;
+            movie_d17.Location = new Point(464, 854);
+            movie_d17.Name = "movie_d17";
+            movie_d17.Size = new Size(23, 23);
+            movie_d17.TabIndex = 912;
+            movie_d17.UseVisualStyleBackColor = false;
+            // 
+            // movie_d16
+            // 
+            movie_d16.BackColor = Color.White;
+            movie_d16.BackgroundImageLayout = ImageLayout.None;
+            movie_d16.FlatStyle = FlatStyle.Popup;
+            movie_d16.Location = new Point(435, 854);
+            movie_d16.Name = "movie_d16";
+            movie_d16.Size = new Size(23, 23);
+            movie_d16.TabIndex = 911;
+            movie_d16.UseVisualStyleBackColor = false;
+            // 
+            // movie_d15
+            // 
+            movie_d15.BackColor = Color.White;
+            movie_d15.BackgroundImageLayout = ImageLayout.None;
+            movie_d15.FlatStyle = FlatStyle.Popup;
+            movie_d15.Location = new Point(406, 854);
+            movie_d15.Name = "movie_d15";
+            movie_d15.Size = new Size(23, 23);
+            movie_d15.TabIndex = 910;
+            movie_d15.UseVisualStyleBackColor = false;
+            // 
+            // movie_d14
+            // 
+            movie_d14.BackColor = Color.White;
+            movie_d14.BackgroundImageLayout = ImageLayout.None;
+            movie_d14.FlatStyle = FlatStyle.Popup;
+            movie_d14.Location = new Point(377, 854);
+            movie_d14.Name = "movie_d14";
+            movie_d14.Size = new Size(23, 23);
+            movie_d14.TabIndex = 909;
+            movie_d14.UseVisualStyleBackColor = false;
+            // 
+            // movie_d13
+            // 
+            movie_d13.BackColor = Color.White;
+            movie_d13.BackgroundImageLayout = ImageLayout.None;
+            movie_d13.FlatStyle = FlatStyle.Popup;
+            movie_d13.Location = new Point(348, 854);
+            movie_d13.Name = "movie_d13";
+            movie_d13.Size = new Size(23, 23);
+            movie_d13.TabIndex = 908;
+            movie_d13.UseVisualStyleBackColor = false;
+            // 
+            // movie_d12
+            // 
+            movie_d12.BackColor = Color.White;
+            movie_d12.BackgroundImageLayout = ImageLayout.None;
+            movie_d12.FlatStyle = FlatStyle.Popup;
+            movie_d12.Location = new Point(319, 854);
+            movie_d12.Name = "movie_d12";
+            movie_d12.Size = new Size(23, 23);
+            movie_d12.TabIndex = 907;
+            movie_d12.UseVisualStyleBackColor = false;
+            // 
+            // movie_d11
+            // 
+            movie_d11.BackColor = Color.White;
+            movie_d11.BackgroundImageLayout = ImageLayout.None;
+            movie_d11.FlatStyle = FlatStyle.Popup;
+            movie_d11.Location = new Point(290, 854);
+            movie_d11.Name = "movie_d11";
+            movie_d11.Size = new Size(23, 23);
+            movie_d11.TabIndex = 906;
+            movie_d11.UseVisualStyleBackColor = false;
+            // 
+            // movie_d10
+            // 
+            movie_d10.BackColor = Color.White;
+            movie_d10.BackgroundImageLayout = ImageLayout.None;
+            movie_d10.FlatStyle = FlatStyle.Popup;
+            movie_d10.Location = new Point(261, 854);
+            movie_d10.Name = "movie_d10";
+            movie_d10.Size = new Size(23, 23);
+            movie_d10.TabIndex = 905;
+            movie_d10.UseVisualStyleBackColor = false;
+            // 
+            // movie_d9
+            // 
+            movie_d9.BackColor = Color.White;
+            movie_d9.BackgroundImageLayout = ImageLayout.None;
+            movie_d9.FlatStyle = FlatStyle.Popup;
+            movie_d9.Location = new Point(232, 854);
+            movie_d9.Name = "movie_d9";
+            movie_d9.Size = new Size(23, 23);
+            movie_d9.TabIndex = 904;
+            movie_d9.UseVisualStyleBackColor = false;
+            // 
+            // movie_d8
+            // 
+            movie_d8.BackColor = Color.White;
+            movie_d8.BackgroundImageLayout = ImageLayout.None;
+            movie_d8.FlatStyle = FlatStyle.Popup;
+            movie_d8.Location = new Point(203, 854);
+            movie_d8.Name = "movie_d8";
+            movie_d8.Size = new Size(23, 23);
+            movie_d8.TabIndex = 903;
+            movie_d8.UseVisualStyleBackColor = false;
+            // 
+            // movie_d7
+            // 
+            movie_d7.BackColor = Color.White;
+            movie_d7.BackgroundImageLayout = ImageLayout.None;
+            movie_d7.FlatStyle = FlatStyle.Popup;
+            movie_d7.Location = new Point(174, 854);
+            movie_d7.Name = "movie_d7";
+            movie_d7.Size = new Size(23, 23);
+            movie_d7.TabIndex = 902;
+            movie_d7.UseVisualStyleBackColor = false;
+            // 
+            // movie_d6
+            // 
+            movie_d6.BackColor = Color.White;
+            movie_d6.BackgroundImageLayout = ImageLayout.None;
+            movie_d6.FlatStyle = FlatStyle.Popup;
+            movie_d6.Location = new Point(145, 854);
+            movie_d6.Name = "movie_d6";
+            movie_d6.Size = new Size(23, 23);
+            movie_d6.TabIndex = 901;
+            movie_d6.UseVisualStyleBackColor = false;
+            // 
+            // movie_d5
+            // 
+            movie_d5.BackColor = Color.White;
+            movie_d5.BackgroundImageLayout = ImageLayout.None;
+            movie_d5.FlatStyle = FlatStyle.Popup;
+            movie_d5.Location = new Point(116, 854);
+            movie_d5.Name = "movie_d5";
+            movie_d5.Size = new Size(23, 23);
+            movie_d5.TabIndex = 898;
+            movie_d5.UseVisualStyleBackColor = false;
+            // 
+            // movie_d4
+            // 
+            movie_d4.BackColor = Color.White;
+            movie_d4.BackgroundImageLayout = ImageLayout.None;
+            movie_d4.FlatStyle = FlatStyle.Popup;
+            movie_d4.Location = new Point(87, 854);
+            movie_d4.Name = "movie_d4";
+            movie_d4.Size = new Size(23, 23);
+            movie_d4.TabIndex = 897;
+            movie_d4.UseVisualStyleBackColor = false;
+            // 
+            // movie_d3
+            // 
+            movie_d3.BackColor = Color.White;
+            movie_d3.BackgroundImageLayout = ImageLayout.None;
+            movie_d3.FlatStyle = FlatStyle.Popup;
+            movie_d3.Location = new Point(58, 854);
+            movie_d3.Name = "movie_d3";
+            movie_d3.Size = new Size(23, 23);
+            movie_d3.TabIndex = 900;
+            movie_d3.UseVisualStyleBackColor = false;
             // 
             // movie_d2
             // 
@@ -16473,35 +16473,35 @@
         private LinkLabel piano;
         private LinkLabel guitar;
         private LinkLabel vocals;
-        private Button button456;
-        private Button button457;
-        private Button button458;
-        private Button button459;
-        private Button button460;
-        private Button button461;
-        private Button button462;
-        private Button button463;
-        private Button button464;
-        private Button button465;
-        private Button button466;
-        private Button button467;
-        private Button button468;
-        private Button button469;
-        private Button button470;
-        private Button button471;
-        private Button button472;
-        private Button button473;
-        private Button button474;
-        private Button button475;
-        private Button button476;
-        private Button button477;
-        private Button button478;
-        private Button button479;
-        private Button button480;
-        private Button button481;
-        private Button button482;
-        private Button button483;
-        private Button button484;
+        private Button movie_d31;
+        private Button movie_d30;
+        private Button movie_d29;
+        private Button movie_d28;
+        private Button movie_d27;
+        private Button movie_d26;
+        private Button movie_d25;
+        private Button movie_d24;
+        private Button movie_d23;
+        private Button movie_d22;
+        private Button movie_d21;
+        private Button movie_d20;
+        private Button movie_d19;
+        private Button movie_d18;
+        private Button movie_d17;
+        private Button movie_d16;
+        private Button movie_d15;
+        private Button movie_d14;
+        private Button movie_d13;
+        private Button movie_d12;
+        private Button movie_d11;
+        private Button movie_d10;
+        private Button movie_d9;
+        private Button movie_d8;
+        private Button movie_d7;
+        private Button movie_d6;
+        private Button movie_d5;
+        private Button movie_d4;
+        private Button movie_d3;
         private Button movie_d2;
         private Button movie_d1;
         private Button tv_d31;
@@ -16750,70 +16750,70 @@
         private Button button575;
         private Button button576;
         private Button button577;
-        private Button button578;
-        private Button button579;
-        private Button button518;
-        private Button button519;
-        private Button button520;
-        private Button button521;
-        private Button button522;
-        private Button button523;
-        private Button button524;
-        private Button button525;
-        private Button button526;
-        private Button button527;
-        private Button button528;
-        private Button button529;
-        private Button button530;
-        private Button button531;
-        private Button button532;
-        private Button button533;
-        private Button button534;
-        private Button button535;
-        private Button button536;
-        private Button button537;
-        private Button button538;
-        private Button button539;
-        private Button button540;
-        private Button button541;
-        private Button button542;
-        private Button button543;
-        private Button button544;
-        private Button button545;
-        private Button button546;
-        private Button button547;
-        private Button button548;
-        private Button button487;
-        private Button button488;
-        private Button button489;
-        private Button button490;
-        private Button button491;
-        private Button button492;
-        private Button button493;
-        private Button button494;
-        private Button button495;
-        private Button button496;
-        private Button button497;
-        private Button button498;
-        private Button button499;
-        private Button button500;
-        private Button button501;
-        private Button button502;
-        private Button button503;
-        private Button button504;
-        private Button button505;
-        private Button button506;
-        private Button button507;
-        private Button button508;
-        private Button button509;
-        private Button button510;
-        private Button button511;
-        private Button button512;
-        private Button button513;
-        private Button button514;
-        private Button button515;
-        private Button button516;
-        private Button button517;
+        private Button videoGame_d2;
+        private Button videoGame_d1;
+        private Button book_d31;
+        private Button book_d30;
+        private Button book_d29;
+        private Button book_d28;
+        private Button book_d27;
+        private Button book_d26;
+        private Button book_d25;
+        private Button book_d24;
+        private Button book_d23;
+        private Button book_d22;
+        private Button book_d21;
+        private Button book_d20;
+        private Button book_d19;
+        private Button book_d18;
+        private Button book_d17;
+        private Button book_d16;
+        private Button book_d15;
+        private Button book_d14;
+        private Button book_d13;
+        private Button book_d12;
+        private Button book_d11;
+        private Button book_d10;
+        private Button book_d9;
+        private Button book_d8;
+        private Button book_d7;
+        private Button book_d6;
+        private Button book_d5;
+        private Button book_d4;
+        private Button book_d3;
+        private Button book_d2;
+        private Button book_d1;
+        private Button music_d31;
+        private Button music_d30;
+        private Button music_d29;
+        private Button music_d28;
+        private Button music_d27;
+        private Button music_d26;
+        private Button music_d25;
+        private Button music_d24;
+        private Button music_d23;
+        private Button music_d22;
+        private Button music_d21;
+        private Button music_d20;
+        private Button music_d19;
+        private Button music_d18;
+        private Button music_d17;
+        private Button music_d16;
+        private Button music_d15;
+        private Button music_d14;
+        private Button music_d13;
+        private Button music_d12;
+        private Button music_d11;
+        private Button music_d10;
+        private Button music_d9;
+        private Button music_d8;
+        private Button music_d7;
+        private Button music_d6;
+        private Button music_d5;
+        private Button music_d4;
+        private Button music_d3;
+        private Button music_d2;
+        private Button music_d1;
         private LinkLabel biggs;
         private Button button673;
         private Button button674;

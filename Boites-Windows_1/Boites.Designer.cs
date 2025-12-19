@@ -126,129 +126,129 @@
             button277 = new Button();
             button278 = new Button();
             vocals_d1 = new Button();
-            button218 = new Button();
-            button219 = new Button();
-            button220 = new Button();
-            button221 = new Button();
-            button222 = new Button();
-            button223 = new Button();
-            button224 = new Button();
-            button225 = new Button();
-            button226 = new Button();
-            button227 = new Button();
-            button228 = new Button();
-            button229 = new Button();
-            button230 = new Button();
-            button231 = new Button();
-            button232 = new Button();
-            button233 = new Button();
-            button234 = new Button();
-            button235 = new Button();
-            button236 = new Button();
-            button237 = new Button();
-            button238 = new Button();
-            button239 = new Button();
-            button240 = new Button();
-            button241 = new Button();
-            button242 = new Button();
-            button243 = new Button();
-            button244 = new Button();
-            button245 = new Button();
-            button246 = new Button();
-            button247 = new Button();
+            compose_d31 = new Button();
+            compose_d30 = new Button();
+            compose_d29 = new Button();
+            compose_d28 = new Button();
+            compose_d27 = new Button();
+            compose_d26 = new Button();
+            compose_d25 = new Button();
+            compose_d24 = new Button();
+            compose_d23 = new Button();
+            compose_d22 = new Button();
+            compose_d21 = new Button();
+            compose_d20 = new Button();
+            compose_d19 = new Button();
+            compose_d18 = new Button();
+            compose_d17 = new Button();
+            compose_d16 = new Button();
+            compose_d15 = new Button();
+            compose_d14 = new Button();
+            compose_d13 = new Button();
+            compose_d12 = new Button();
+            compose_d11 = new Button();
+            compose_d10 = new Button();
+            compose_d9 = new Button();
+            compose_d8 = new Button();
+            compose_d7 = new Button();
+            compose_d6 = new Button();
+            compose_d5 = new Button();
+            compose_d4 = new Button();
+            compose_d3 = new Button();
+            compose_d2 = new Button();
             compose_d1 = new Button();
-            button63 = new Button();
-            button64 = new Button();
-            button65 = new Button();
-            button66 = new Button();
-            button67 = new Button();
-            button68 = new Button();
-            button69 = new Button();
-            button70 = new Button();
-            button71 = new Button();
-            button72 = new Button();
-            button73 = new Button();
-            button74 = new Button();
-            button75 = new Button();
-            button76 = new Button();
-            button77 = new Button();
-            button78 = new Button();
-            button79 = new Button();
-            button80 = new Button();
-            button81 = new Button();
-            button82 = new Button();
-            button83 = new Button();
-            button84 = new Button();
-            button85 = new Button();
-            button86 = new Button();
-            button87 = new Button();
-            button88 = new Button();
-            button89 = new Button();
-            button90 = new Button();
-            button91 = new Button();
-            button92 = new Button();
+            piano_d31 = new Button();
+            piano_d30 = new Button();
+            piano_d29 = new Button();
+            piano_d28 = new Button();
+            piano_d27 = new Button();
+            piano_d26 = new Button();
+            piano_d25 = new Button();
+            piano_d24 = new Button();
+            piano_d23 = new Button();
+            piano_d22 = new Button();
+            piano_d21 = new Button();
+            piano_d20 = new Button();
+            piano_d19 = new Button();
+            piano_d18 = new Button();
+            piano_d17 = new Button();
+            piano_d16 = new Button();
+            piano_d15 = new Button();
+            piano_d14 = new Button();
+            piano_d13 = new Button();
+            piano_d12 = new Button();
+            piano_d11 = new Button();
+            piano_d10 = new Button();
+            piano_d9 = new Button();
+            piano_d8 = new Button();
+            piano_d7 = new Button();
+            piano_d6 = new Button();
+            piano_d5 = new Button();
+            piano_d4 = new Button();
+            piano_d3 = new Button();
+            piano_d2 = new Button();
             piano_d1 = new Button();
-            button32 = new Button();
-            button33 = new Button();
-            button34 = new Button();
-            button35 = new Button();
-            button36 = new Button();
-            button37 = new Button();
-            button38 = new Button();
-            button39 = new Button();
-            button40 = new Button();
-            button41 = new Button();
-            button42 = new Button();
-            button43 = new Button();
-            button44 = new Button();
-            button45 = new Button();
-            button46 = new Button();
-            button47 = new Button();
-            button48 = new Button();
-            button49 = new Button();
-            button50 = new Button();
-            button51 = new Button();
-            button52 = new Button();
-            button53 = new Button();
-            button54 = new Button();
-            button55 = new Button();
-            button56 = new Button();
-            button57 = new Button();
-            button58 = new Button();
-            button59 = new Button();
-            button60 = new Button();
-            button61 = new Button();
+            pads_d31 = new Button();
+            pads_d30 = new Button();
+            pads_d29 = new Button();
+            pads_d28 = new Button();
+            pads_d27 = new Button();
+            pads_d26 = new Button();
+            pads_d25 = new Button();
+            pads_d24 = new Button();
+            pads_d23 = new Button();
+            pads_d22 = new Button();
+            pads_d21 = new Button();
+            pads_d20 = new Button();
+            pads_d19 = new Button();
+            pads_d18 = new Button();
+            pads_d17 = new Button();
+            pads_d16 = new Button();
+            pads_d15 = new Button();
+            pads_d14 = new Button();
+            pads_d13 = new Button();
+            pads_d12 = new Button();
+            pads_d11 = new Button();
+            pads_d10 = new Button();
+            pads_d9 = new Button();
+            pads_d8 = new Button();
+            pads_d7 = new Button();
+            pads_d6 = new Button();
+            pads_d5 = new Button();
+            pads_d4 = new Button();
+            pads_d3 = new Button();
+            pads_d2 = new Button();
             pads_d1 = new Button();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            button4 = new Button();
-            button5 = new Button();
-            button6 = new Button();
-            button7 = new Button();
-            button8 = new Button();
-            button9 = new Button();
-            button10 = new Button();
-            button11 = new Button();
-            button12 = new Button();
-            button13 = new Button();
-            button14 = new Button();
-            button15 = new Button();
-            button16 = new Button();
-            button17 = new Button();
-            button18 = new Button();
-            button19 = new Button();
-            button20 = new Button();
-            button21 = new Button();
-            button22 = new Button();
-            button23 = new Button();
-            button24 = new Button();
-            button25 = new Button();
-            button26 = new Button();
-            button27 = new Button();
-            button28 = new Button();
-            button29 = new Button();
-            button30 = new Button();
+            drums_d31 = new Button();
+            drums_d30 = new Button();
+            drums_d29 = new Button();
+            drums_d28 = new Button();
+            drums_d27 = new Button();
+            drums_d26 = new Button();
+            drums_d25 = new Button();
+            drums_d24 = new Button();
+            drums_d23 = new Button();
+            drums_d22 = new Button();
+            drums_d21 = new Button();
+            drums_d20 = new Button();
+            drums_d19 = new Button();
+            drums_d18 = new Button();
+            drums_d17 = new Button();
+            drums_d16 = new Button();
+            drums_d15 = new Button();
+            drums_d14 = new Button();
+            drums_d13 = new Button();
+            drums_d12 = new Button();
+            drums_d11 = new Button();
+            drums_d10 = new Button();
+            drums_d9 = new Button();
+            drums_d8 = new Button();
+            drums_d7 = new Button();
+            drums_d6 = new Button();
+            drums_d5 = new Button();
+            drums_d4 = new Button();
+            drums_d3 = new Button();
+            drums_d2 = new Button();
             drums_d1 = new Button();
             bass_d31 = new Button();
             bass_d30 = new Button();
@@ -1698,129 +1698,129 @@
             boitesBoxes.Controls.Add(button277);
             boitesBoxes.Controls.Add(button278);
             boitesBoxes.Controls.Add(vocals_d1);
-            boitesBoxes.Controls.Add(button218);
-            boitesBoxes.Controls.Add(button219);
-            boitesBoxes.Controls.Add(button220);
-            boitesBoxes.Controls.Add(button221);
-            boitesBoxes.Controls.Add(button222);
-            boitesBoxes.Controls.Add(button223);
-            boitesBoxes.Controls.Add(button224);
-            boitesBoxes.Controls.Add(button225);
-            boitesBoxes.Controls.Add(button226);
-            boitesBoxes.Controls.Add(button227);
-            boitesBoxes.Controls.Add(button228);
-            boitesBoxes.Controls.Add(button229);
-            boitesBoxes.Controls.Add(button230);
-            boitesBoxes.Controls.Add(button231);
-            boitesBoxes.Controls.Add(button232);
-            boitesBoxes.Controls.Add(button233);
-            boitesBoxes.Controls.Add(button234);
-            boitesBoxes.Controls.Add(button235);
-            boitesBoxes.Controls.Add(button236);
-            boitesBoxes.Controls.Add(button237);
-            boitesBoxes.Controls.Add(button238);
-            boitesBoxes.Controls.Add(button239);
-            boitesBoxes.Controls.Add(button240);
-            boitesBoxes.Controls.Add(button241);
-            boitesBoxes.Controls.Add(button242);
-            boitesBoxes.Controls.Add(button243);
-            boitesBoxes.Controls.Add(button244);
-            boitesBoxes.Controls.Add(button245);
-            boitesBoxes.Controls.Add(button246);
-            boitesBoxes.Controls.Add(button247);
+            boitesBoxes.Controls.Add(compose_d31);
+            boitesBoxes.Controls.Add(compose_d30);
+            boitesBoxes.Controls.Add(compose_d29);
+            boitesBoxes.Controls.Add(compose_d28);
+            boitesBoxes.Controls.Add(compose_d27);
+            boitesBoxes.Controls.Add(compose_d26);
+            boitesBoxes.Controls.Add(compose_d25);
+            boitesBoxes.Controls.Add(compose_d24);
+            boitesBoxes.Controls.Add(compose_d23);
+            boitesBoxes.Controls.Add(compose_d22);
+            boitesBoxes.Controls.Add(compose_d21);
+            boitesBoxes.Controls.Add(compose_d20);
+            boitesBoxes.Controls.Add(compose_d19);
+            boitesBoxes.Controls.Add(compose_d18);
+            boitesBoxes.Controls.Add(compose_d17);
+            boitesBoxes.Controls.Add(compose_d16);
+            boitesBoxes.Controls.Add(compose_d15);
+            boitesBoxes.Controls.Add(compose_d14);
+            boitesBoxes.Controls.Add(compose_d13);
+            boitesBoxes.Controls.Add(compose_d12);
+            boitesBoxes.Controls.Add(compose_d11);
+            boitesBoxes.Controls.Add(compose_d10);
+            boitesBoxes.Controls.Add(compose_d9);
+            boitesBoxes.Controls.Add(compose_d8);
+            boitesBoxes.Controls.Add(compose_d7);
+            boitesBoxes.Controls.Add(compose_d6);
+            boitesBoxes.Controls.Add(compose_d5);
+            boitesBoxes.Controls.Add(compose_d4);
+            boitesBoxes.Controls.Add(compose_d3);
+            boitesBoxes.Controls.Add(compose_d2);
             boitesBoxes.Controls.Add(compose_d1);
-            boitesBoxes.Controls.Add(button63);
-            boitesBoxes.Controls.Add(button64);
-            boitesBoxes.Controls.Add(button65);
-            boitesBoxes.Controls.Add(button66);
-            boitesBoxes.Controls.Add(button67);
-            boitesBoxes.Controls.Add(button68);
-            boitesBoxes.Controls.Add(button69);
-            boitesBoxes.Controls.Add(button70);
-            boitesBoxes.Controls.Add(button71);
-            boitesBoxes.Controls.Add(button72);
-            boitesBoxes.Controls.Add(button73);
-            boitesBoxes.Controls.Add(button74);
-            boitesBoxes.Controls.Add(button75);
-            boitesBoxes.Controls.Add(button76);
-            boitesBoxes.Controls.Add(button77);
-            boitesBoxes.Controls.Add(button78);
-            boitesBoxes.Controls.Add(button79);
-            boitesBoxes.Controls.Add(button80);
-            boitesBoxes.Controls.Add(button81);
-            boitesBoxes.Controls.Add(button82);
-            boitesBoxes.Controls.Add(button83);
-            boitesBoxes.Controls.Add(button84);
-            boitesBoxes.Controls.Add(button85);
-            boitesBoxes.Controls.Add(button86);
-            boitesBoxes.Controls.Add(button87);
-            boitesBoxes.Controls.Add(button88);
-            boitesBoxes.Controls.Add(button89);
-            boitesBoxes.Controls.Add(button90);
-            boitesBoxes.Controls.Add(button91);
-            boitesBoxes.Controls.Add(button92);
+            boitesBoxes.Controls.Add(piano_d31);
+            boitesBoxes.Controls.Add(piano_d30);
+            boitesBoxes.Controls.Add(piano_d29);
+            boitesBoxes.Controls.Add(piano_d28);
+            boitesBoxes.Controls.Add(piano_d27);
+            boitesBoxes.Controls.Add(piano_d26);
+            boitesBoxes.Controls.Add(piano_d25);
+            boitesBoxes.Controls.Add(piano_d24);
+            boitesBoxes.Controls.Add(piano_d23);
+            boitesBoxes.Controls.Add(piano_d22);
+            boitesBoxes.Controls.Add(piano_d21);
+            boitesBoxes.Controls.Add(piano_d20);
+            boitesBoxes.Controls.Add(piano_d19);
+            boitesBoxes.Controls.Add(piano_d18);
+            boitesBoxes.Controls.Add(piano_d17);
+            boitesBoxes.Controls.Add(piano_d16);
+            boitesBoxes.Controls.Add(piano_d15);
+            boitesBoxes.Controls.Add(piano_d14);
+            boitesBoxes.Controls.Add(piano_d13);
+            boitesBoxes.Controls.Add(piano_d12);
+            boitesBoxes.Controls.Add(piano_d11);
+            boitesBoxes.Controls.Add(piano_d10);
+            boitesBoxes.Controls.Add(piano_d9);
+            boitesBoxes.Controls.Add(piano_d8);
+            boitesBoxes.Controls.Add(piano_d7);
+            boitesBoxes.Controls.Add(piano_d6);
+            boitesBoxes.Controls.Add(piano_d5);
+            boitesBoxes.Controls.Add(piano_d4);
+            boitesBoxes.Controls.Add(piano_d3);
+            boitesBoxes.Controls.Add(piano_d2);
             boitesBoxes.Controls.Add(piano_d1);
-            boitesBoxes.Controls.Add(button32);
-            boitesBoxes.Controls.Add(button33);
-            boitesBoxes.Controls.Add(button34);
-            boitesBoxes.Controls.Add(button35);
-            boitesBoxes.Controls.Add(button36);
-            boitesBoxes.Controls.Add(button37);
-            boitesBoxes.Controls.Add(button38);
-            boitesBoxes.Controls.Add(button39);
-            boitesBoxes.Controls.Add(button40);
-            boitesBoxes.Controls.Add(button41);
-            boitesBoxes.Controls.Add(button42);
-            boitesBoxes.Controls.Add(button43);
-            boitesBoxes.Controls.Add(button44);
-            boitesBoxes.Controls.Add(button45);
-            boitesBoxes.Controls.Add(button46);
-            boitesBoxes.Controls.Add(button47);
-            boitesBoxes.Controls.Add(button48);
-            boitesBoxes.Controls.Add(button49);
-            boitesBoxes.Controls.Add(button50);
-            boitesBoxes.Controls.Add(button51);
-            boitesBoxes.Controls.Add(button52);
-            boitesBoxes.Controls.Add(button53);
-            boitesBoxes.Controls.Add(button54);
-            boitesBoxes.Controls.Add(button55);
-            boitesBoxes.Controls.Add(button56);
-            boitesBoxes.Controls.Add(button57);
-            boitesBoxes.Controls.Add(button58);
-            boitesBoxes.Controls.Add(button59);
-            boitesBoxes.Controls.Add(button60);
-            boitesBoxes.Controls.Add(button61);
+            boitesBoxes.Controls.Add(pads_d31);
+            boitesBoxes.Controls.Add(pads_d30);
+            boitesBoxes.Controls.Add(pads_d29);
+            boitesBoxes.Controls.Add(pads_d28);
+            boitesBoxes.Controls.Add(pads_d27);
+            boitesBoxes.Controls.Add(pads_d26);
+            boitesBoxes.Controls.Add(pads_d25);
+            boitesBoxes.Controls.Add(pads_d24);
+            boitesBoxes.Controls.Add(pads_d23);
+            boitesBoxes.Controls.Add(pads_d22);
+            boitesBoxes.Controls.Add(pads_d21);
+            boitesBoxes.Controls.Add(pads_d20);
+            boitesBoxes.Controls.Add(pads_d19);
+            boitesBoxes.Controls.Add(pads_d18);
+            boitesBoxes.Controls.Add(pads_d17);
+            boitesBoxes.Controls.Add(pads_d16);
+            boitesBoxes.Controls.Add(pads_d15);
+            boitesBoxes.Controls.Add(pads_d14);
+            boitesBoxes.Controls.Add(pads_d13);
+            boitesBoxes.Controls.Add(pads_d12);
+            boitesBoxes.Controls.Add(pads_d11);
+            boitesBoxes.Controls.Add(pads_d10);
+            boitesBoxes.Controls.Add(pads_d9);
+            boitesBoxes.Controls.Add(pads_d8);
+            boitesBoxes.Controls.Add(pads_d7);
+            boitesBoxes.Controls.Add(pads_d6);
+            boitesBoxes.Controls.Add(pads_d5);
+            boitesBoxes.Controls.Add(pads_d4);
+            boitesBoxes.Controls.Add(pads_d3);
+            boitesBoxes.Controls.Add(pads_d2);
             boitesBoxes.Controls.Add(pads_d1);
-            boitesBoxes.Controls.Add(button1);
-            boitesBoxes.Controls.Add(button2);
-            boitesBoxes.Controls.Add(button3);
-            boitesBoxes.Controls.Add(button4);
-            boitesBoxes.Controls.Add(button5);
-            boitesBoxes.Controls.Add(button6);
-            boitesBoxes.Controls.Add(button7);
-            boitesBoxes.Controls.Add(button8);
-            boitesBoxes.Controls.Add(button9);
-            boitesBoxes.Controls.Add(button10);
-            boitesBoxes.Controls.Add(button11);
-            boitesBoxes.Controls.Add(button12);
-            boitesBoxes.Controls.Add(button13);
-            boitesBoxes.Controls.Add(button14);
-            boitesBoxes.Controls.Add(button15);
-            boitesBoxes.Controls.Add(button16);
-            boitesBoxes.Controls.Add(button17);
-            boitesBoxes.Controls.Add(button18);
-            boitesBoxes.Controls.Add(button19);
-            boitesBoxes.Controls.Add(button20);
-            boitesBoxes.Controls.Add(button21);
-            boitesBoxes.Controls.Add(button22);
-            boitesBoxes.Controls.Add(button23);
-            boitesBoxes.Controls.Add(button24);
-            boitesBoxes.Controls.Add(button25);
-            boitesBoxes.Controls.Add(button26);
-            boitesBoxes.Controls.Add(button27);
-            boitesBoxes.Controls.Add(button28);
-            boitesBoxes.Controls.Add(button29);
-            boitesBoxes.Controls.Add(button30);
+            boitesBoxes.Controls.Add(drums_d31);
+            boitesBoxes.Controls.Add(drums_d30);
+            boitesBoxes.Controls.Add(drums_d29);
+            boitesBoxes.Controls.Add(drums_d28);
+            boitesBoxes.Controls.Add(drums_d27);
+            boitesBoxes.Controls.Add(drums_d26);
+            boitesBoxes.Controls.Add(drums_d25);
+            boitesBoxes.Controls.Add(drums_d24);
+            boitesBoxes.Controls.Add(drums_d23);
+            boitesBoxes.Controls.Add(drums_d22);
+            boitesBoxes.Controls.Add(drums_d21);
+            boitesBoxes.Controls.Add(drums_d20);
+            boitesBoxes.Controls.Add(drums_d19);
+            boitesBoxes.Controls.Add(drums_d18);
+            boitesBoxes.Controls.Add(drums_d17);
+            boitesBoxes.Controls.Add(drums_d16);
+            boitesBoxes.Controls.Add(drums_d15);
+            boitesBoxes.Controls.Add(drums_d14);
+            boitesBoxes.Controls.Add(drums_d13);
+            boitesBoxes.Controls.Add(drums_d12);
+            boitesBoxes.Controls.Add(drums_d11);
+            boitesBoxes.Controls.Add(drums_d10);
+            boitesBoxes.Controls.Add(drums_d9);
+            boitesBoxes.Controls.Add(drums_d8);
+            boitesBoxes.Controls.Add(drums_d7);
+            boitesBoxes.Controls.Add(drums_d6);
+            boitesBoxes.Controls.Add(drums_d5);
+            boitesBoxes.Controls.Add(drums_d4);
+            boitesBoxes.Controls.Add(drums_d3);
+            boitesBoxes.Controls.Add(drums_d2);
             boitesBoxes.Controls.Add(drums_d1);
             boitesBoxes.Controls.Add(bass_d31);
             boitesBoxes.Controls.Add(bass_d30);
@@ -3455,335 +3455,335 @@
             vocals_d1.TabIndex = 679;
             vocals_d1.UseVisualStyleBackColor = false;
             // 
-            // button218
+            // compose_d31
             // 
-            button218.BackColor = Color.White;
-            button218.BackgroundImageLayout = ImageLayout.None;
-            button218.FlatStyle = FlatStyle.Popup;
-            button218.Location = new Point(870, 622);
-            button218.Name = "button218";
-            button218.Size = new Size(23, 23);
-            button218.TabIndex = 678;
-            button218.UseVisualStyleBackColor = false;
+            compose_d31.BackColor = Color.White;
+            compose_d31.BackgroundImageLayout = ImageLayout.None;
+            compose_d31.FlatStyle = FlatStyle.Popup;
+            compose_d31.Location = new Point(870, 622);
+            compose_d31.Name = "compose_d31";
+            compose_d31.Size = new Size(23, 23);
+            compose_d31.TabIndex = 678;
+            compose_d31.UseVisualStyleBackColor = false;
             // 
-            // button219
+            // compose_d30
             // 
-            button219.BackColor = Color.White;
-            button219.BackgroundImageLayout = ImageLayout.None;
-            button219.FlatStyle = FlatStyle.Popup;
-            button219.Location = new Point(841, 622);
-            button219.Name = "button219";
-            button219.Size = new Size(23, 23);
-            button219.TabIndex = 677;
-            button219.UseVisualStyleBackColor = false;
+            compose_d30.BackColor = Color.White;
+            compose_d30.BackgroundImageLayout = ImageLayout.None;
+            compose_d30.FlatStyle = FlatStyle.Popup;
+            compose_d30.Location = new Point(841, 622);
+            compose_d30.Name = "compose_d30";
+            compose_d30.Size = new Size(23, 23);
+            compose_d30.TabIndex = 677;
+            compose_d30.UseVisualStyleBackColor = false;
             // 
-            // button220
+            // compose_d29
             // 
-            button220.BackColor = Color.White;
-            button220.BackgroundImageLayout = ImageLayout.None;
-            button220.FlatStyle = FlatStyle.Popup;
-            button220.Location = new Point(812, 622);
-            button220.Name = "button220";
-            button220.Size = new Size(23, 23);
-            button220.TabIndex = 676;
-            button220.UseVisualStyleBackColor = false;
+            compose_d29.BackColor = Color.White;
+            compose_d29.BackgroundImageLayout = ImageLayout.None;
+            compose_d29.FlatStyle = FlatStyle.Popup;
+            compose_d29.Location = new Point(812, 622);
+            compose_d29.Name = "compose_d29";
+            compose_d29.Size = new Size(23, 23);
+            compose_d29.TabIndex = 676;
+            compose_d29.UseVisualStyleBackColor = false;
             // 
-            // button221
+            // compose_d28
             // 
-            button221.BackColor = Color.White;
-            button221.BackgroundImageLayout = ImageLayout.None;
-            button221.FlatStyle = FlatStyle.Popup;
-            button221.Location = new Point(783, 622);
-            button221.Name = "button221";
-            button221.Size = new Size(23, 23);
-            button221.TabIndex = 675;
-            button221.UseVisualStyleBackColor = false;
+            compose_d28.BackColor = Color.White;
+            compose_d28.BackgroundImageLayout = ImageLayout.None;
+            compose_d28.FlatStyle = FlatStyle.Popup;
+            compose_d28.Location = new Point(783, 622);
+            compose_d28.Name = "compose_d28";
+            compose_d28.Size = new Size(23, 23);
+            compose_d28.TabIndex = 675;
+            compose_d28.UseVisualStyleBackColor = false;
             // 
-            // button222
+            // compose_d27
             // 
-            button222.BackColor = Color.White;
-            button222.BackgroundImageLayout = ImageLayout.None;
-            button222.FlatStyle = FlatStyle.Popup;
-            button222.Location = new Point(754, 622);
-            button222.Name = "button222";
-            button222.Size = new Size(23, 23);
-            button222.TabIndex = 674;
-            button222.UseVisualStyleBackColor = false;
+            compose_d27.BackColor = Color.White;
+            compose_d27.BackgroundImageLayout = ImageLayout.None;
+            compose_d27.FlatStyle = FlatStyle.Popup;
+            compose_d27.Location = new Point(754, 622);
+            compose_d27.Name = "compose_d27";
+            compose_d27.Size = new Size(23, 23);
+            compose_d27.TabIndex = 674;
+            compose_d27.UseVisualStyleBackColor = false;
             // 
-            // button223
+            // compose_d26
             // 
-            button223.BackColor = Color.White;
-            button223.BackgroundImageLayout = ImageLayout.None;
-            button223.FlatStyle = FlatStyle.Popup;
-            button223.Location = new Point(725, 622);
-            button223.Name = "button223";
-            button223.Size = new Size(23, 23);
-            button223.TabIndex = 673;
-            button223.UseVisualStyleBackColor = false;
+            compose_d26.BackColor = Color.White;
+            compose_d26.BackgroundImageLayout = ImageLayout.None;
+            compose_d26.FlatStyle = FlatStyle.Popup;
+            compose_d26.Location = new Point(725, 622);
+            compose_d26.Name = "compose_d26";
+            compose_d26.Size = new Size(23, 23);
+            compose_d26.TabIndex = 673;
+            compose_d26.UseVisualStyleBackColor = false;
             // 
-            // button224
+            // compose_d25
             // 
-            button224.BackColor = Color.White;
-            button224.BackgroundImageLayout = ImageLayout.None;
-            button224.FlatStyle = FlatStyle.Popup;
-            button224.Location = new Point(696, 622);
-            button224.Name = "button224";
-            button224.Size = new Size(23, 23);
-            button224.TabIndex = 672;
-            button224.UseVisualStyleBackColor = false;
+            compose_d25.BackColor = Color.White;
+            compose_d25.BackgroundImageLayout = ImageLayout.None;
+            compose_d25.FlatStyle = FlatStyle.Popup;
+            compose_d25.Location = new Point(696, 622);
+            compose_d25.Name = "compose_d25";
+            compose_d25.Size = new Size(23, 23);
+            compose_d25.TabIndex = 672;
+            compose_d25.UseVisualStyleBackColor = false;
             // 
-            // button225
+            // compose_d24
             // 
-            button225.BackColor = Color.White;
-            button225.BackgroundImageLayout = ImageLayout.None;
-            button225.FlatStyle = FlatStyle.Popup;
-            button225.Location = new Point(667, 622);
-            button225.Name = "button225";
-            button225.Size = new Size(23, 23);
-            button225.TabIndex = 671;
-            button225.UseVisualStyleBackColor = false;
+            compose_d24.BackColor = Color.White;
+            compose_d24.BackgroundImageLayout = ImageLayout.None;
+            compose_d24.FlatStyle = FlatStyle.Popup;
+            compose_d24.Location = new Point(667, 622);
+            compose_d24.Name = "compose_d24";
+            compose_d24.Size = new Size(23, 23);
+            compose_d24.TabIndex = 671;
+            compose_d24.UseVisualStyleBackColor = false;
             // 
-            // button226
+            // compose_d23
             // 
-            button226.BackColor = Color.White;
-            button226.BackgroundImageLayout = ImageLayout.None;
-            button226.FlatStyle = FlatStyle.Popup;
-            button226.Location = new Point(638, 622);
-            button226.Name = "button226";
-            button226.Size = new Size(23, 23);
-            button226.TabIndex = 670;
-            button226.UseVisualStyleBackColor = false;
+            compose_d23.BackColor = Color.White;
+            compose_d23.BackgroundImageLayout = ImageLayout.None;
+            compose_d23.FlatStyle = FlatStyle.Popup;
+            compose_d23.Location = new Point(638, 622);
+            compose_d23.Name = "compose_d23";
+            compose_d23.Size = new Size(23, 23);
+            compose_d23.TabIndex = 670;
+            compose_d23.UseVisualStyleBackColor = false;
             // 
-            // button227
+            // compose_d22
             // 
-            button227.BackColor = Color.White;
-            button227.BackgroundImageLayout = ImageLayout.None;
-            button227.FlatStyle = FlatStyle.Popup;
-            button227.Location = new Point(609, 622);
-            button227.Name = "button227";
-            button227.Size = new Size(23, 23);
-            button227.TabIndex = 669;
-            button227.UseVisualStyleBackColor = false;
+            compose_d22.BackColor = Color.White;
+            compose_d22.BackgroundImageLayout = ImageLayout.None;
+            compose_d22.FlatStyle = FlatStyle.Popup;
+            compose_d22.Location = new Point(609, 622);
+            compose_d22.Name = "compose_d22";
+            compose_d22.Size = new Size(23, 23);
+            compose_d22.TabIndex = 669;
+            compose_d22.UseVisualStyleBackColor = false;
             // 
-            // button228
+            // compose_d21
             // 
-            button228.BackColor = Color.White;
-            button228.BackgroundImageLayout = ImageLayout.None;
-            button228.FlatStyle = FlatStyle.Popup;
-            button228.Location = new Point(580, 622);
-            button228.Name = "button228";
-            button228.Size = new Size(23, 23);
-            button228.TabIndex = 668;
-            button228.UseVisualStyleBackColor = false;
+            compose_d21.BackColor = Color.White;
+            compose_d21.BackgroundImageLayout = ImageLayout.None;
+            compose_d21.FlatStyle = FlatStyle.Popup;
+            compose_d21.Location = new Point(580, 622);
+            compose_d21.Name = "compose_d21";
+            compose_d21.Size = new Size(23, 23);
+            compose_d21.TabIndex = 668;
+            compose_d21.UseVisualStyleBackColor = false;
             // 
-            // button229
+            // compose_d20
             // 
-            button229.BackColor = Color.White;
-            button229.BackgroundImageLayout = ImageLayout.None;
-            button229.FlatStyle = FlatStyle.Popup;
-            button229.Location = new Point(551, 622);
-            button229.Name = "button229";
-            button229.Size = new Size(23, 23);
-            button229.TabIndex = 667;
-            button229.UseVisualStyleBackColor = false;
+            compose_d20.BackColor = Color.White;
+            compose_d20.BackgroundImageLayout = ImageLayout.None;
+            compose_d20.FlatStyle = FlatStyle.Popup;
+            compose_d20.Location = new Point(551, 622);
+            compose_d20.Name = "compose_d20";
+            compose_d20.Size = new Size(23, 23);
+            compose_d20.TabIndex = 667;
+            compose_d20.UseVisualStyleBackColor = false;
             // 
-            // button230
+            // compose_d19
             // 
-            button230.BackColor = Color.White;
-            button230.BackgroundImageLayout = ImageLayout.None;
-            button230.FlatStyle = FlatStyle.Popup;
-            button230.Location = new Point(522, 622);
-            button230.Name = "button230";
-            button230.Size = new Size(23, 23);
-            button230.TabIndex = 666;
-            button230.UseVisualStyleBackColor = false;
+            compose_d19.BackColor = Color.White;
+            compose_d19.BackgroundImageLayout = ImageLayout.None;
+            compose_d19.FlatStyle = FlatStyle.Popup;
+            compose_d19.Location = new Point(522, 622);
+            compose_d19.Name = "compose_d19";
+            compose_d19.Size = new Size(23, 23);
+            compose_d19.TabIndex = 666;
+            compose_d19.UseVisualStyleBackColor = false;
             // 
-            // button231
+            // compose_d18
             // 
-            button231.BackColor = Color.White;
-            button231.BackgroundImageLayout = ImageLayout.None;
-            button231.FlatStyle = FlatStyle.Popup;
-            button231.Location = new Point(493, 622);
-            button231.Name = "button231";
-            button231.Size = new Size(23, 23);
-            button231.TabIndex = 665;
-            button231.UseVisualStyleBackColor = false;
+            compose_d18.BackColor = Color.White;
+            compose_d18.BackgroundImageLayout = ImageLayout.None;
+            compose_d18.FlatStyle = FlatStyle.Popup;
+            compose_d18.Location = new Point(493, 622);
+            compose_d18.Name = "compose_d18";
+            compose_d18.Size = new Size(23, 23);
+            compose_d18.TabIndex = 665;
+            compose_d18.UseVisualStyleBackColor = false;
             // 
-            // button232
+            // compose_d17
             // 
-            button232.BackColor = Color.White;
-            button232.BackgroundImageLayout = ImageLayout.None;
-            button232.FlatStyle = FlatStyle.Popup;
-            button232.Location = new Point(464, 622);
-            button232.Name = "button232";
-            button232.Size = new Size(23, 23);
-            button232.TabIndex = 664;
-            button232.UseVisualStyleBackColor = false;
+            compose_d17.BackColor = Color.White;
+            compose_d17.BackgroundImageLayout = ImageLayout.None;
+            compose_d17.FlatStyle = FlatStyle.Popup;
+            compose_d17.Location = new Point(464, 622);
+            compose_d17.Name = "compose_d17";
+            compose_d17.Size = new Size(23, 23);
+            compose_d17.TabIndex = 664;
+            compose_d17.UseVisualStyleBackColor = false;
             // 
-            // button233
+            // compose_d16
             // 
-            button233.BackColor = Color.White;
-            button233.BackgroundImageLayout = ImageLayout.None;
-            button233.FlatStyle = FlatStyle.Popup;
-            button233.Location = new Point(435, 622);
-            button233.Name = "button233";
-            button233.Size = new Size(23, 23);
-            button233.TabIndex = 663;
-            button233.UseVisualStyleBackColor = false;
+            compose_d16.BackColor = Color.White;
+            compose_d16.BackgroundImageLayout = ImageLayout.None;
+            compose_d16.FlatStyle = FlatStyle.Popup;
+            compose_d16.Location = new Point(435, 622);
+            compose_d16.Name = "compose_d16";
+            compose_d16.Size = new Size(23, 23);
+            compose_d16.TabIndex = 663;
+            compose_d16.UseVisualStyleBackColor = false;
             // 
-            // button234
+            // compose_d15
             // 
-            button234.BackColor = Color.White;
-            button234.BackgroundImageLayout = ImageLayout.None;
-            button234.FlatStyle = FlatStyle.Popup;
-            button234.Location = new Point(406, 622);
-            button234.Name = "button234";
-            button234.Size = new Size(23, 23);
-            button234.TabIndex = 662;
-            button234.UseVisualStyleBackColor = false;
+            compose_d15.BackColor = Color.White;
+            compose_d15.BackgroundImageLayout = ImageLayout.None;
+            compose_d15.FlatStyle = FlatStyle.Popup;
+            compose_d15.Location = new Point(406, 622);
+            compose_d15.Name = "compose_d15";
+            compose_d15.Size = new Size(23, 23);
+            compose_d15.TabIndex = 662;
+            compose_d15.UseVisualStyleBackColor = false;
             // 
-            // button235
+            // compose_d14
             // 
-            button235.BackColor = Color.White;
-            button235.BackgroundImageLayout = ImageLayout.None;
-            button235.FlatStyle = FlatStyle.Popup;
-            button235.Location = new Point(377, 622);
-            button235.Name = "button235";
-            button235.Size = new Size(23, 23);
-            button235.TabIndex = 661;
-            button235.UseVisualStyleBackColor = false;
+            compose_d14.BackColor = Color.White;
+            compose_d14.BackgroundImageLayout = ImageLayout.None;
+            compose_d14.FlatStyle = FlatStyle.Popup;
+            compose_d14.Location = new Point(377, 622);
+            compose_d14.Name = "compose_d14";
+            compose_d14.Size = new Size(23, 23);
+            compose_d14.TabIndex = 661;
+            compose_d14.UseVisualStyleBackColor = false;
             // 
-            // button236
+            // compose_d13
             // 
-            button236.BackColor = Color.White;
-            button236.BackgroundImageLayout = ImageLayout.None;
-            button236.FlatStyle = FlatStyle.Popup;
-            button236.Location = new Point(348, 622);
-            button236.Name = "button236";
-            button236.Size = new Size(23, 23);
-            button236.TabIndex = 660;
-            button236.UseVisualStyleBackColor = false;
+            compose_d13.BackColor = Color.White;
+            compose_d13.BackgroundImageLayout = ImageLayout.None;
+            compose_d13.FlatStyle = FlatStyle.Popup;
+            compose_d13.Location = new Point(348, 622);
+            compose_d13.Name = "compose_d13";
+            compose_d13.Size = new Size(23, 23);
+            compose_d13.TabIndex = 660;
+            compose_d13.UseVisualStyleBackColor = false;
             // 
-            // button237
+            // compose_d12
             // 
-            button237.BackColor = Color.White;
-            button237.BackgroundImageLayout = ImageLayout.None;
-            button237.FlatStyle = FlatStyle.Popup;
-            button237.Location = new Point(319, 622);
-            button237.Name = "button237";
-            button237.Size = new Size(23, 23);
-            button237.TabIndex = 659;
-            button237.UseVisualStyleBackColor = false;
+            compose_d12.BackColor = Color.White;
+            compose_d12.BackgroundImageLayout = ImageLayout.None;
+            compose_d12.FlatStyle = FlatStyle.Popup;
+            compose_d12.Location = new Point(319, 622);
+            compose_d12.Name = "compose_d12";
+            compose_d12.Size = new Size(23, 23);
+            compose_d12.TabIndex = 659;
+            compose_d12.UseVisualStyleBackColor = false;
             // 
-            // button238
+            // compose_d11
             // 
-            button238.BackColor = Color.White;
-            button238.BackgroundImageLayout = ImageLayout.None;
-            button238.FlatStyle = FlatStyle.Popup;
-            button238.Location = new Point(290, 622);
-            button238.Name = "button238";
-            button238.Size = new Size(23, 23);
-            button238.TabIndex = 658;
-            button238.UseVisualStyleBackColor = false;
+            compose_d11.BackColor = Color.White;
+            compose_d11.BackgroundImageLayout = ImageLayout.None;
+            compose_d11.FlatStyle = FlatStyle.Popup;
+            compose_d11.Location = new Point(290, 622);
+            compose_d11.Name = "compose_d11";
+            compose_d11.Size = new Size(23, 23);
+            compose_d11.TabIndex = 658;
+            compose_d11.UseVisualStyleBackColor = false;
             // 
-            // button239
+            // compose_d10
             // 
-            button239.BackColor = Color.White;
-            button239.BackgroundImageLayout = ImageLayout.None;
-            button239.FlatStyle = FlatStyle.Popup;
-            button239.Location = new Point(261, 622);
-            button239.Name = "button239";
-            button239.Size = new Size(23, 23);
-            button239.TabIndex = 657;
-            button239.UseVisualStyleBackColor = false;
+            compose_d10.BackColor = Color.White;
+            compose_d10.BackgroundImageLayout = ImageLayout.None;
+            compose_d10.FlatStyle = FlatStyle.Popup;
+            compose_d10.Location = new Point(261, 622);
+            compose_d10.Name = "compose_d10";
+            compose_d10.Size = new Size(23, 23);
+            compose_d10.TabIndex = 657;
+            compose_d10.UseVisualStyleBackColor = false;
             // 
-            // button240
+            // compose_d9
             // 
-            button240.BackColor = Color.White;
-            button240.BackgroundImageLayout = ImageLayout.None;
-            button240.FlatStyle = FlatStyle.Popup;
-            button240.Location = new Point(232, 622);
-            button240.Name = "button240";
-            button240.Size = new Size(23, 23);
-            button240.TabIndex = 656;
-            button240.UseVisualStyleBackColor = false;
+            compose_d9.BackColor = Color.White;
+            compose_d9.BackgroundImageLayout = ImageLayout.None;
+            compose_d9.FlatStyle = FlatStyle.Popup;
+            compose_d9.Location = new Point(232, 622);
+            compose_d9.Name = "compose_d9";
+            compose_d9.Size = new Size(23, 23);
+            compose_d9.TabIndex = 656;
+            compose_d9.UseVisualStyleBackColor = false;
             // 
-            // button241
+            // compose_d8
             // 
-            button241.BackColor = Color.White;
-            button241.BackgroundImageLayout = ImageLayout.None;
-            button241.FlatStyle = FlatStyle.Popup;
-            button241.Location = new Point(203, 622);
-            button241.Name = "button241";
-            button241.Size = new Size(23, 23);
-            button241.TabIndex = 655;
-            button241.UseVisualStyleBackColor = false;
+            compose_d8.BackColor = Color.White;
+            compose_d8.BackgroundImageLayout = ImageLayout.None;
+            compose_d8.FlatStyle = FlatStyle.Popup;
+            compose_d8.Location = new Point(203, 622);
+            compose_d8.Name = "compose_d8";
+            compose_d8.Size = new Size(23, 23);
+            compose_d8.TabIndex = 655;
+            compose_d8.UseVisualStyleBackColor = false;
             // 
-            // button242
+            // compose_d7
             // 
-            button242.BackColor = Color.White;
-            button242.BackgroundImageLayout = ImageLayout.None;
-            button242.FlatStyle = FlatStyle.Popup;
-            button242.Location = new Point(174, 622);
-            button242.Name = "button242";
-            button242.Size = new Size(23, 23);
-            button242.TabIndex = 654;
-            button242.UseVisualStyleBackColor = false;
+            compose_d7.BackColor = Color.White;
+            compose_d7.BackgroundImageLayout = ImageLayout.None;
+            compose_d7.FlatStyle = FlatStyle.Popup;
+            compose_d7.Location = new Point(174, 622);
+            compose_d7.Name = "compose_d7";
+            compose_d7.Size = new Size(23, 23);
+            compose_d7.TabIndex = 654;
+            compose_d7.UseVisualStyleBackColor = false;
             // 
-            // button243
+            // compose_d6
             // 
-            button243.BackColor = Color.White;
-            button243.BackgroundImageLayout = ImageLayout.None;
-            button243.FlatStyle = FlatStyle.Popup;
-            button243.Location = new Point(145, 622);
-            button243.Name = "button243";
-            button243.Size = new Size(23, 23);
-            button243.TabIndex = 653;
-            button243.UseVisualStyleBackColor = false;
+            compose_d6.BackColor = Color.White;
+            compose_d6.BackgroundImageLayout = ImageLayout.None;
+            compose_d6.FlatStyle = FlatStyle.Popup;
+            compose_d6.Location = new Point(145, 622);
+            compose_d6.Name = "compose_d6";
+            compose_d6.Size = new Size(23, 23);
+            compose_d6.TabIndex = 653;
+            compose_d6.UseVisualStyleBackColor = false;
             // 
-            // button244
+            // compose_d5
             // 
-            button244.BackColor = Color.White;
-            button244.BackgroundImageLayout = ImageLayout.None;
-            button244.FlatStyle = FlatStyle.Popup;
-            button244.Location = new Point(116, 622);
-            button244.Name = "button244";
-            button244.Size = new Size(23, 23);
-            button244.TabIndex = 652;
-            button244.UseVisualStyleBackColor = false;
+            compose_d5.BackColor = Color.White;
+            compose_d5.BackgroundImageLayout = ImageLayout.None;
+            compose_d5.FlatStyle = FlatStyle.Popup;
+            compose_d5.Location = new Point(116, 622);
+            compose_d5.Name = "compose_d5";
+            compose_d5.Size = new Size(23, 23);
+            compose_d5.TabIndex = 652;
+            compose_d5.UseVisualStyleBackColor = false;
             // 
-            // button245
+            // compose_d4
             // 
-            button245.BackColor = Color.White;
-            button245.BackgroundImageLayout = ImageLayout.None;
-            button245.FlatStyle = FlatStyle.Popup;
-            button245.Location = new Point(87, 622);
-            button245.Name = "button245";
-            button245.Size = new Size(23, 23);
-            button245.TabIndex = 651;
-            button245.UseVisualStyleBackColor = false;
+            compose_d4.BackColor = Color.White;
+            compose_d4.BackgroundImageLayout = ImageLayout.None;
+            compose_d4.FlatStyle = FlatStyle.Popup;
+            compose_d4.Location = new Point(87, 622);
+            compose_d4.Name = "compose_d4";
+            compose_d4.Size = new Size(23, 23);
+            compose_d4.TabIndex = 651;
+            compose_d4.UseVisualStyleBackColor = false;
             // 
-            // button246
+            // compose_d3
             // 
-            button246.BackColor = Color.White;
-            button246.BackgroundImageLayout = ImageLayout.None;
-            button246.FlatStyle = FlatStyle.Popup;
-            button246.Location = new Point(58, 622);
-            button246.Name = "button246";
-            button246.Size = new Size(23, 23);
-            button246.TabIndex = 650;
-            button246.UseVisualStyleBackColor = false;
+            compose_d3.BackColor = Color.White;
+            compose_d3.BackgroundImageLayout = ImageLayout.None;
+            compose_d3.FlatStyle = FlatStyle.Popup;
+            compose_d3.Location = new Point(58, 622);
+            compose_d3.Name = "compose_d3";
+            compose_d3.Size = new Size(23, 23);
+            compose_d3.TabIndex = 650;
+            compose_d3.UseVisualStyleBackColor = false;
             // 
-            // button247
+            // compose_d2
             // 
-            button247.BackColor = Color.White;
-            button247.BackgroundImageLayout = ImageLayout.None;
-            button247.FlatStyle = FlatStyle.Popup;
-            button247.Location = new Point(29, 622);
-            button247.Name = "button247";
-            button247.Size = new Size(23, 23);
-            button247.TabIndex = 649;
-            button247.UseVisualStyleBackColor = false;
+            compose_d2.BackColor = Color.White;
+            compose_d2.BackgroundImageLayout = ImageLayout.None;
+            compose_d2.FlatStyle = FlatStyle.Popup;
+            compose_d2.Location = new Point(29, 622);
+            compose_d2.Name = "compose_d2";
+            compose_d2.Size = new Size(23, 23);
+            compose_d2.TabIndex = 649;
+            compose_d2.UseVisualStyleBackColor = false;
             // 
             // compose_d1
             // 
@@ -3796,335 +3796,335 @@
             compose_d1.TabIndex = 648;
             compose_d1.UseVisualStyleBackColor = false;
             // 
-            // button63
+            // piano_d31
             // 
-            button63.BackColor = Color.White;
-            button63.BackgroundImageLayout = ImageLayout.None;
-            button63.FlatStyle = FlatStyle.Popup;
-            button63.Location = new Point(870, 593);
-            button63.Name = "button63";
-            button63.Size = new Size(23, 23);
-            button63.TabIndex = 647;
-            button63.UseVisualStyleBackColor = false;
+            piano_d31.BackColor = Color.White;
+            piano_d31.BackgroundImageLayout = ImageLayout.None;
+            piano_d31.FlatStyle = FlatStyle.Popup;
+            piano_d31.Location = new Point(870, 593);
+            piano_d31.Name = "piano_d31";
+            piano_d31.Size = new Size(23, 23);
+            piano_d31.TabIndex = 647;
+            piano_d31.UseVisualStyleBackColor = false;
             // 
-            // button64
+            // piano_d30
             // 
-            button64.BackColor = Color.White;
-            button64.BackgroundImageLayout = ImageLayout.None;
-            button64.FlatStyle = FlatStyle.Popup;
-            button64.Location = new Point(841, 593);
-            button64.Name = "button64";
-            button64.Size = new Size(23, 23);
-            button64.TabIndex = 646;
-            button64.UseVisualStyleBackColor = false;
+            piano_d30.BackColor = Color.White;
+            piano_d30.BackgroundImageLayout = ImageLayout.None;
+            piano_d30.FlatStyle = FlatStyle.Popup;
+            piano_d30.Location = new Point(841, 593);
+            piano_d30.Name = "piano_d30";
+            piano_d30.Size = new Size(23, 23);
+            piano_d30.TabIndex = 646;
+            piano_d30.UseVisualStyleBackColor = false;
             // 
-            // button65
+            // piano_d29
             // 
-            button65.BackColor = Color.White;
-            button65.BackgroundImageLayout = ImageLayout.None;
-            button65.FlatStyle = FlatStyle.Popup;
-            button65.Location = new Point(812, 593);
-            button65.Name = "button65";
-            button65.Size = new Size(23, 23);
-            button65.TabIndex = 645;
-            button65.UseVisualStyleBackColor = false;
+            piano_d29.BackColor = Color.White;
+            piano_d29.BackgroundImageLayout = ImageLayout.None;
+            piano_d29.FlatStyle = FlatStyle.Popup;
+            piano_d29.Location = new Point(812, 593);
+            piano_d29.Name = "piano_d29";
+            piano_d29.Size = new Size(23, 23);
+            piano_d29.TabIndex = 645;
+            piano_d29.UseVisualStyleBackColor = false;
             // 
-            // button66
+            // piano_d28
             // 
-            button66.BackColor = Color.White;
-            button66.BackgroundImageLayout = ImageLayout.None;
-            button66.FlatStyle = FlatStyle.Popup;
-            button66.Location = new Point(783, 593);
-            button66.Name = "button66";
-            button66.Size = new Size(23, 23);
-            button66.TabIndex = 644;
-            button66.UseVisualStyleBackColor = false;
+            piano_d28.BackColor = Color.White;
+            piano_d28.BackgroundImageLayout = ImageLayout.None;
+            piano_d28.FlatStyle = FlatStyle.Popup;
+            piano_d28.Location = new Point(783, 593);
+            piano_d28.Name = "piano_d28";
+            piano_d28.Size = new Size(23, 23);
+            piano_d28.TabIndex = 644;
+            piano_d28.UseVisualStyleBackColor = false;
             // 
-            // button67
+            // piano_d27
             // 
-            button67.BackColor = Color.White;
-            button67.BackgroundImageLayout = ImageLayout.None;
-            button67.FlatStyle = FlatStyle.Popup;
-            button67.Location = new Point(754, 593);
-            button67.Name = "button67";
-            button67.Size = new Size(23, 23);
-            button67.TabIndex = 643;
-            button67.UseVisualStyleBackColor = false;
+            piano_d27.BackColor = Color.White;
+            piano_d27.BackgroundImageLayout = ImageLayout.None;
+            piano_d27.FlatStyle = FlatStyle.Popup;
+            piano_d27.Location = new Point(754, 593);
+            piano_d27.Name = "piano_d27";
+            piano_d27.Size = new Size(23, 23);
+            piano_d27.TabIndex = 643;
+            piano_d27.UseVisualStyleBackColor = false;
             // 
-            // button68
+            // piano_d26
             // 
-            button68.BackColor = Color.White;
-            button68.BackgroundImageLayout = ImageLayout.None;
-            button68.FlatStyle = FlatStyle.Popup;
-            button68.Location = new Point(725, 593);
-            button68.Name = "button68";
-            button68.Size = new Size(23, 23);
-            button68.TabIndex = 642;
-            button68.UseVisualStyleBackColor = false;
+            piano_d26.BackColor = Color.White;
+            piano_d26.BackgroundImageLayout = ImageLayout.None;
+            piano_d26.FlatStyle = FlatStyle.Popup;
+            piano_d26.Location = new Point(725, 593);
+            piano_d26.Name = "piano_d26";
+            piano_d26.Size = new Size(23, 23);
+            piano_d26.TabIndex = 642;
+            piano_d26.UseVisualStyleBackColor = false;
             // 
-            // button69
+            // piano_d25
             // 
-            button69.BackColor = Color.White;
-            button69.BackgroundImageLayout = ImageLayout.None;
-            button69.FlatStyle = FlatStyle.Popup;
-            button69.Location = new Point(696, 593);
-            button69.Name = "button69";
-            button69.Size = new Size(23, 23);
-            button69.TabIndex = 641;
-            button69.UseVisualStyleBackColor = false;
+            piano_d25.BackColor = Color.White;
+            piano_d25.BackgroundImageLayout = ImageLayout.None;
+            piano_d25.FlatStyle = FlatStyle.Popup;
+            piano_d25.Location = new Point(696, 593);
+            piano_d25.Name = "piano_d25";
+            piano_d25.Size = new Size(23, 23);
+            piano_d25.TabIndex = 641;
+            piano_d25.UseVisualStyleBackColor = false;
             // 
-            // button70
+            // piano_d24
             // 
-            button70.BackColor = Color.White;
-            button70.BackgroundImageLayout = ImageLayout.None;
-            button70.FlatStyle = FlatStyle.Popup;
-            button70.Location = new Point(667, 593);
-            button70.Name = "button70";
-            button70.Size = new Size(23, 23);
-            button70.TabIndex = 640;
-            button70.UseVisualStyleBackColor = false;
+            piano_d24.BackColor = Color.White;
+            piano_d24.BackgroundImageLayout = ImageLayout.None;
+            piano_d24.FlatStyle = FlatStyle.Popup;
+            piano_d24.Location = new Point(667, 593);
+            piano_d24.Name = "piano_d24";
+            piano_d24.Size = new Size(23, 23);
+            piano_d24.TabIndex = 640;
+            piano_d24.UseVisualStyleBackColor = false;
             // 
-            // button71
+            // piano_d23
             // 
-            button71.BackColor = Color.White;
-            button71.BackgroundImageLayout = ImageLayout.None;
-            button71.FlatStyle = FlatStyle.Popup;
-            button71.Location = new Point(638, 593);
-            button71.Name = "button71";
-            button71.Size = new Size(23, 23);
-            button71.TabIndex = 639;
-            button71.UseVisualStyleBackColor = false;
+            piano_d23.BackColor = Color.White;
+            piano_d23.BackgroundImageLayout = ImageLayout.None;
+            piano_d23.FlatStyle = FlatStyle.Popup;
+            piano_d23.Location = new Point(638, 593);
+            piano_d23.Name = "piano_d23";
+            piano_d23.Size = new Size(23, 23);
+            piano_d23.TabIndex = 639;
+            piano_d23.UseVisualStyleBackColor = false;
             // 
-            // button72
+            // piano_d22
             // 
-            button72.BackColor = Color.White;
-            button72.BackgroundImageLayout = ImageLayout.None;
-            button72.FlatStyle = FlatStyle.Popup;
-            button72.Location = new Point(609, 593);
-            button72.Name = "button72";
-            button72.Size = new Size(23, 23);
-            button72.TabIndex = 638;
-            button72.UseVisualStyleBackColor = false;
+            piano_d22.BackColor = Color.White;
+            piano_d22.BackgroundImageLayout = ImageLayout.None;
+            piano_d22.FlatStyle = FlatStyle.Popup;
+            piano_d22.Location = new Point(609, 593);
+            piano_d22.Name = "piano_d22";
+            piano_d22.Size = new Size(23, 23);
+            piano_d22.TabIndex = 638;
+            piano_d22.UseVisualStyleBackColor = false;
             // 
-            // button73
+            // piano_d21
             // 
-            button73.BackColor = Color.White;
-            button73.BackgroundImageLayout = ImageLayout.None;
-            button73.FlatStyle = FlatStyle.Popup;
-            button73.Location = new Point(580, 593);
-            button73.Name = "button73";
-            button73.Size = new Size(23, 23);
-            button73.TabIndex = 637;
-            button73.UseVisualStyleBackColor = false;
+            piano_d21.BackColor = Color.White;
+            piano_d21.BackgroundImageLayout = ImageLayout.None;
+            piano_d21.FlatStyle = FlatStyle.Popup;
+            piano_d21.Location = new Point(580, 593);
+            piano_d21.Name = "piano_d21";
+            piano_d21.Size = new Size(23, 23);
+            piano_d21.TabIndex = 637;
+            piano_d21.UseVisualStyleBackColor = false;
             // 
-            // button74
+            // piano_d20
             // 
-            button74.BackColor = Color.White;
-            button74.BackgroundImageLayout = ImageLayout.None;
-            button74.FlatStyle = FlatStyle.Popup;
-            button74.Location = new Point(551, 593);
-            button74.Name = "button74";
-            button74.Size = new Size(23, 23);
-            button74.TabIndex = 636;
-            button74.UseVisualStyleBackColor = false;
+            piano_d20.BackColor = Color.White;
+            piano_d20.BackgroundImageLayout = ImageLayout.None;
+            piano_d20.FlatStyle = FlatStyle.Popup;
+            piano_d20.Location = new Point(551, 593);
+            piano_d20.Name = "piano_d20";
+            piano_d20.Size = new Size(23, 23);
+            piano_d20.TabIndex = 636;
+            piano_d20.UseVisualStyleBackColor = false;
             // 
-            // button75
+            // piano_d19
             // 
-            button75.BackColor = Color.White;
-            button75.BackgroundImageLayout = ImageLayout.None;
-            button75.FlatStyle = FlatStyle.Popup;
-            button75.Location = new Point(522, 593);
-            button75.Name = "button75";
-            button75.Size = new Size(23, 23);
-            button75.TabIndex = 635;
-            button75.UseVisualStyleBackColor = false;
+            piano_d19.BackColor = Color.White;
+            piano_d19.BackgroundImageLayout = ImageLayout.None;
+            piano_d19.FlatStyle = FlatStyle.Popup;
+            piano_d19.Location = new Point(522, 593);
+            piano_d19.Name = "piano_d19";
+            piano_d19.Size = new Size(23, 23);
+            piano_d19.TabIndex = 635;
+            piano_d19.UseVisualStyleBackColor = false;
             // 
-            // button76
+            // piano_d18
             // 
-            button76.BackColor = Color.White;
-            button76.BackgroundImageLayout = ImageLayout.None;
-            button76.FlatStyle = FlatStyle.Popup;
-            button76.Location = new Point(493, 593);
-            button76.Name = "button76";
-            button76.Size = new Size(23, 23);
-            button76.TabIndex = 634;
-            button76.UseVisualStyleBackColor = false;
+            piano_d18.BackColor = Color.White;
+            piano_d18.BackgroundImageLayout = ImageLayout.None;
+            piano_d18.FlatStyle = FlatStyle.Popup;
+            piano_d18.Location = new Point(493, 593);
+            piano_d18.Name = "piano_d18";
+            piano_d18.Size = new Size(23, 23);
+            piano_d18.TabIndex = 634;
+            piano_d18.UseVisualStyleBackColor = false;
             // 
-            // button77
+            // piano_d17
             // 
-            button77.BackColor = Color.White;
-            button77.BackgroundImageLayout = ImageLayout.None;
-            button77.FlatStyle = FlatStyle.Popup;
-            button77.Location = new Point(464, 593);
-            button77.Name = "button77";
-            button77.Size = new Size(23, 23);
-            button77.TabIndex = 633;
-            button77.UseVisualStyleBackColor = false;
+            piano_d17.BackColor = Color.White;
+            piano_d17.BackgroundImageLayout = ImageLayout.None;
+            piano_d17.FlatStyle = FlatStyle.Popup;
+            piano_d17.Location = new Point(464, 593);
+            piano_d17.Name = "piano_d17";
+            piano_d17.Size = new Size(23, 23);
+            piano_d17.TabIndex = 633;
+            piano_d17.UseVisualStyleBackColor = false;
             // 
-            // button78
+            // piano_d16
             // 
-            button78.BackColor = Color.White;
-            button78.BackgroundImageLayout = ImageLayout.None;
-            button78.FlatStyle = FlatStyle.Popup;
-            button78.Location = new Point(435, 593);
-            button78.Name = "button78";
-            button78.Size = new Size(23, 23);
-            button78.TabIndex = 632;
-            button78.UseVisualStyleBackColor = false;
+            piano_d16.BackColor = Color.White;
+            piano_d16.BackgroundImageLayout = ImageLayout.None;
+            piano_d16.FlatStyle = FlatStyle.Popup;
+            piano_d16.Location = new Point(435, 593);
+            piano_d16.Name = "piano_d16";
+            piano_d16.Size = new Size(23, 23);
+            piano_d16.TabIndex = 632;
+            piano_d16.UseVisualStyleBackColor = false;
             // 
-            // button79
+            // piano_d15
             // 
-            button79.BackColor = Color.White;
-            button79.BackgroundImageLayout = ImageLayout.None;
-            button79.FlatStyle = FlatStyle.Popup;
-            button79.Location = new Point(406, 593);
-            button79.Name = "button79";
-            button79.Size = new Size(23, 23);
-            button79.TabIndex = 631;
-            button79.UseVisualStyleBackColor = false;
+            piano_d15.BackColor = Color.White;
+            piano_d15.BackgroundImageLayout = ImageLayout.None;
+            piano_d15.FlatStyle = FlatStyle.Popup;
+            piano_d15.Location = new Point(406, 593);
+            piano_d15.Name = "piano_d15";
+            piano_d15.Size = new Size(23, 23);
+            piano_d15.TabIndex = 631;
+            piano_d15.UseVisualStyleBackColor = false;
             // 
-            // button80
+            // piano_d14
             // 
-            button80.BackColor = Color.White;
-            button80.BackgroundImageLayout = ImageLayout.None;
-            button80.FlatStyle = FlatStyle.Popup;
-            button80.Location = new Point(377, 593);
-            button80.Name = "button80";
-            button80.Size = new Size(23, 23);
-            button80.TabIndex = 630;
-            button80.UseVisualStyleBackColor = false;
+            piano_d14.BackColor = Color.White;
+            piano_d14.BackgroundImageLayout = ImageLayout.None;
+            piano_d14.FlatStyle = FlatStyle.Popup;
+            piano_d14.Location = new Point(377, 593);
+            piano_d14.Name = "piano_d14";
+            piano_d14.Size = new Size(23, 23);
+            piano_d14.TabIndex = 630;
+            piano_d14.UseVisualStyleBackColor = false;
             // 
-            // button81
+            // piano_d13
             // 
-            button81.BackColor = Color.White;
-            button81.BackgroundImageLayout = ImageLayout.None;
-            button81.FlatStyle = FlatStyle.Popup;
-            button81.Location = new Point(348, 593);
-            button81.Name = "button81";
-            button81.Size = new Size(23, 23);
-            button81.TabIndex = 629;
-            button81.UseVisualStyleBackColor = false;
+            piano_d13.BackColor = Color.White;
+            piano_d13.BackgroundImageLayout = ImageLayout.None;
+            piano_d13.FlatStyle = FlatStyle.Popup;
+            piano_d13.Location = new Point(348, 593);
+            piano_d13.Name = "piano_d13";
+            piano_d13.Size = new Size(23, 23);
+            piano_d13.TabIndex = 629;
+            piano_d13.UseVisualStyleBackColor = false;
             // 
-            // button82
+            // piano_d12
             // 
-            button82.BackColor = Color.White;
-            button82.BackgroundImageLayout = ImageLayout.None;
-            button82.FlatStyle = FlatStyle.Popup;
-            button82.Location = new Point(319, 593);
-            button82.Name = "button82";
-            button82.Size = new Size(23, 23);
-            button82.TabIndex = 628;
-            button82.UseVisualStyleBackColor = false;
+            piano_d12.BackColor = Color.White;
+            piano_d12.BackgroundImageLayout = ImageLayout.None;
+            piano_d12.FlatStyle = FlatStyle.Popup;
+            piano_d12.Location = new Point(319, 593);
+            piano_d12.Name = "piano_d12";
+            piano_d12.Size = new Size(23, 23);
+            piano_d12.TabIndex = 628;
+            piano_d12.UseVisualStyleBackColor = false;
             // 
-            // button83
+            // piano_d11
             // 
-            button83.BackColor = Color.White;
-            button83.BackgroundImageLayout = ImageLayout.None;
-            button83.FlatStyle = FlatStyle.Popup;
-            button83.Location = new Point(290, 593);
-            button83.Name = "button83";
-            button83.Size = new Size(23, 23);
-            button83.TabIndex = 627;
-            button83.UseVisualStyleBackColor = false;
+            piano_d11.BackColor = Color.White;
+            piano_d11.BackgroundImageLayout = ImageLayout.None;
+            piano_d11.FlatStyle = FlatStyle.Popup;
+            piano_d11.Location = new Point(290, 593);
+            piano_d11.Name = "piano_d11";
+            piano_d11.Size = new Size(23, 23);
+            piano_d11.TabIndex = 627;
+            piano_d11.UseVisualStyleBackColor = false;
             // 
-            // button84
+            // piano_d10
             // 
-            button84.BackColor = Color.White;
-            button84.BackgroundImageLayout = ImageLayout.None;
-            button84.FlatStyle = FlatStyle.Popup;
-            button84.Location = new Point(261, 593);
-            button84.Name = "button84";
-            button84.Size = new Size(23, 23);
-            button84.TabIndex = 626;
-            button84.UseVisualStyleBackColor = false;
+            piano_d10.BackColor = Color.White;
+            piano_d10.BackgroundImageLayout = ImageLayout.None;
+            piano_d10.FlatStyle = FlatStyle.Popup;
+            piano_d10.Location = new Point(261, 593);
+            piano_d10.Name = "piano_d10";
+            piano_d10.Size = new Size(23, 23);
+            piano_d10.TabIndex = 626;
+            piano_d10.UseVisualStyleBackColor = false;
             // 
-            // button85
+            // piano_d9
             // 
-            button85.BackColor = Color.White;
-            button85.BackgroundImageLayout = ImageLayout.None;
-            button85.FlatStyle = FlatStyle.Popup;
-            button85.Location = new Point(232, 593);
-            button85.Name = "button85";
-            button85.Size = new Size(23, 23);
-            button85.TabIndex = 625;
-            button85.UseVisualStyleBackColor = false;
+            piano_d9.BackColor = Color.White;
+            piano_d9.BackgroundImageLayout = ImageLayout.None;
+            piano_d9.FlatStyle = FlatStyle.Popup;
+            piano_d9.Location = new Point(232, 593);
+            piano_d9.Name = "piano_d9";
+            piano_d9.Size = new Size(23, 23);
+            piano_d9.TabIndex = 625;
+            piano_d9.UseVisualStyleBackColor = false;
             // 
-            // button86
+            // piano_d8
             // 
-            button86.BackColor = Color.White;
-            button86.BackgroundImageLayout = ImageLayout.None;
-            button86.FlatStyle = FlatStyle.Popup;
-            button86.Location = new Point(203, 593);
-            button86.Name = "button86";
-            button86.Size = new Size(23, 23);
-            button86.TabIndex = 624;
-            button86.UseVisualStyleBackColor = false;
+            piano_d8.BackColor = Color.White;
+            piano_d8.BackgroundImageLayout = ImageLayout.None;
+            piano_d8.FlatStyle = FlatStyle.Popup;
+            piano_d8.Location = new Point(203, 593);
+            piano_d8.Name = "piano_d8";
+            piano_d8.Size = new Size(23, 23);
+            piano_d8.TabIndex = 624;
+            piano_d8.UseVisualStyleBackColor = false;
             // 
-            // button87
+            // piano_d7
             // 
-            button87.BackColor = Color.White;
-            button87.BackgroundImageLayout = ImageLayout.None;
-            button87.FlatStyle = FlatStyle.Popup;
-            button87.Location = new Point(174, 593);
-            button87.Name = "button87";
-            button87.Size = new Size(23, 23);
-            button87.TabIndex = 623;
-            button87.UseVisualStyleBackColor = false;
+            piano_d7.BackColor = Color.White;
+            piano_d7.BackgroundImageLayout = ImageLayout.None;
+            piano_d7.FlatStyle = FlatStyle.Popup;
+            piano_d7.Location = new Point(174, 593);
+            piano_d7.Name = "piano_d7";
+            piano_d7.Size = new Size(23, 23);
+            piano_d7.TabIndex = 623;
+            piano_d7.UseVisualStyleBackColor = false;
             // 
-            // button88
+            // piano_d6
             // 
-            button88.BackColor = Color.White;
-            button88.BackgroundImageLayout = ImageLayout.None;
-            button88.FlatStyle = FlatStyle.Popup;
-            button88.Location = new Point(145, 593);
-            button88.Name = "button88";
-            button88.Size = new Size(23, 23);
-            button88.TabIndex = 622;
-            button88.UseVisualStyleBackColor = false;
+            piano_d6.BackColor = Color.White;
+            piano_d6.BackgroundImageLayout = ImageLayout.None;
+            piano_d6.FlatStyle = FlatStyle.Popup;
+            piano_d6.Location = new Point(145, 593);
+            piano_d6.Name = "piano_d6";
+            piano_d6.Size = new Size(23, 23);
+            piano_d6.TabIndex = 622;
+            piano_d6.UseVisualStyleBackColor = false;
             // 
-            // button89
+            // piano_d5
             // 
-            button89.BackColor = Color.White;
-            button89.BackgroundImageLayout = ImageLayout.None;
-            button89.FlatStyle = FlatStyle.Popup;
-            button89.Location = new Point(116, 593);
-            button89.Name = "button89";
-            button89.Size = new Size(23, 23);
-            button89.TabIndex = 621;
-            button89.UseVisualStyleBackColor = false;
+            piano_d5.BackColor = Color.White;
+            piano_d5.BackgroundImageLayout = ImageLayout.None;
+            piano_d5.FlatStyle = FlatStyle.Popup;
+            piano_d5.Location = new Point(116, 593);
+            piano_d5.Name = "piano_d5";
+            piano_d5.Size = new Size(23, 23);
+            piano_d5.TabIndex = 621;
+            piano_d5.UseVisualStyleBackColor = false;
             // 
-            // button90
+            // piano_d4
             // 
-            button90.BackColor = Color.White;
-            button90.BackgroundImageLayout = ImageLayout.None;
-            button90.FlatStyle = FlatStyle.Popup;
-            button90.Location = new Point(87, 593);
-            button90.Name = "button90";
-            button90.Size = new Size(23, 23);
-            button90.TabIndex = 620;
-            button90.UseVisualStyleBackColor = false;
+            piano_d4.BackColor = Color.White;
+            piano_d4.BackgroundImageLayout = ImageLayout.None;
+            piano_d4.FlatStyle = FlatStyle.Popup;
+            piano_d4.Location = new Point(87, 593);
+            piano_d4.Name = "piano_d4";
+            piano_d4.Size = new Size(23, 23);
+            piano_d4.TabIndex = 620;
+            piano_d4.UseVisualStyleBackColor = false;
             // 
-            // button91
+            // piano_d3
             // 
-            button91.BackColor = Color.White;
-            button91.BackgroundImageLayout = ImageLayout.None;
-            button91.FlatStyle = FlatStyle.Popup;
-            button91.Location = new Point(58, 593);
-            button91.Name = "button91";
-            button91.Size = new Size(23, 23);
-            button91.TabIndex = 619;
-            button91.UseVisualStyleBackColor = false;
+            piano_d3.BackColor = Color.White;
+            piano_d3.BackgroundImageLayout = ImageLayout.None;
+            piano_d3.FlatStyle = FlatStyle.Popup;
+            piano_d3.Location = new Point(58, 593);
+            piano_d3.Name = "piano_d3";
+            piano_d3.Size = new Size(23, 23);
+            piano_d3.TabIndex = 619;
+            piano_d3.UseVisualStyleBackColor = false;
             // 
-            // button92
+            // piano_d2
             // 
-            button92.BackColor = Color.White;
-            button92.BackgroundImageLayout = ImageLayout.None;
-            button92.FlatStyle = FlatStyle.Popup;
-            button92.Location = new Point(29, 593);
-            button92.Name = "button92";
-            button92.Size = new Size(23, 23);
-            button92.TabIndex = 618;
-            button92.UseVisualStyleBackColor = false;
+            piano_d2.BackColor = Color.White;
+            piano_d2.BackgroundImageLayout = ImageLayout.None;
+            piano_d2.FlatStyle = FlatStyle.Popup;
+            piano_d2.Location = new Point(29, 593);
+            piano_d2.Name = "piano_d2";
+            piano_d2.Size = new Size(23, 23);
+            piano_d2.TabIndex = 618;
+            piano_d2.UseVisualStyleBackColor = false;
             // 
             // piano_d1
             // 
@@ -4137,335 +4137,335 @@
             piano_d1.TabIndex = 617;
             piano_d1.UseVisualStyleBackColor = false;
             // 
-            // button32
+            // pads_d31
             // 
-            button32.BackColor = Color.White;
-            button32.BackgroundImageLayout = ImageLayout.None;
-            button32.FlatStyle = FlatStyle.Popup;
-            button32.Location = new Point(870, 564);
-            button32.Name = "button32";
-            button32.Size = new Size(23, 23);
-            button32.TabIndex = 616;
-            button32.UseVisualStyleBackColor = false;
+            pads_d31.BackColor = Color.White;
+            pads_d31.BackgroundImageLayout = ImageLayout.None;
+            pads_d31.FlatStyle = FlatStyle.Popup;
+            pads_d31.Location = new Point(870, 564);
+            pads_d31.Name = "pads_d31";
+            pads_d31.Size = new Size(23, 23);
+            pads_d31.TabIndex = 616;
+            pads_d31.UseVisualStyleBackColor = false;
             // 
-            // button33
+            // pads_d30
             // 
-            button33.BackColor = Color.White;
-            button33.BackgroundImageLayout = ImageLayout.None;
-            button33.FlatStyle = FlatStyle.Popup;
-            button33.Location = new Point(841, 564);
-            button33.Name = "button33";
-            button33.Size = new Size(23, 23);
-            button33.TabIndex = 615;
-            button33.UseVisualStyleBackColor = false;
+            pads_d30.BackColor = Color.White;
+            pads_d30.BackgroundImageLayout = ImageLayout.None;
+            pads_d30.FlatStyle = FlatStyle.Popup;
+            pads_d30.Location = new Point(841, 564);
+            pads_d30.Name = "pads_d30";
+            pads_d30.Size = new Size(23, 23);
+            pads_d30.TabIndex = 615;
+            pads_d30.UseVisualStyleBackColor = false;
             // 
-            // button34
+            // pads_d29
             // 
-            button34.BackColor = Color.White;
-            button34.BackgroundImageLayout = ImageLayout.None;
-            button34.FlatStyle = FlatStyle.Popup;
-            button34.Location = new Point(812, 564);
-            button34.Name = "button34";
-            button34.Size = new Size(23, 23);
-            button34.TabIndex = 614;
-            button34.UseVisualStyleBackColor = false;
+            pads_d29.BackColor = Color.White;
+            pads_d29.BackgroundImageLayout = ImageLayout.None;
+            pads_d29.FlatStyle = FlatStyle.Popup;
+            pads_d29.Location = new Point(812, 564);
+            pads_d29.Name = "pads_d29";
+            pads_d29.Size = new Size(23, 23);
+            pads_d29.TabIndex = 614;
+            pads_d29.UseVisualStyleBackColor = false;
             // 
-            // button35
+            // pads_d28
             // 
-            button35.BackColor = Color.White;
-            button35.BackgroundImageLayout = ImageLayout.None;
-            button35.FlatStyle = FlatStyle.Popup;
-            button35.Location = new Point(783, 564);
-            button35.Name = "button35";
-            button35.Size = new Size(23, 23);
-            button35.TabIndex = 613;
-            button35.UseVisualStyleBackColor = false;
+            pads_d28.BackColor = Color.White;
+            pads_d28.BackgroundImageLayout = ImageLayout.None;
+            pads_d28.FlatStyle = FlatStyle.Popup;
+            pads_d28.Location = new Point(783, 564);
+            pads_d28.Name = "pads_d28";
+            pads_d28.Size = new Size(23, 23);
+            pads_d28.TabIndex = 613;
+            pads_d28.UseVisualStyleBackColor = false;
             // 
-            // button36
+            // pads_d27
             // 
-            button36.BackColor = Color.White;
-            button36.BackgroundImageLayout = ImageLayout.None;
-            button36.FlatStyle = FlatStyle.Popup;
-            button36.Location = new Point(754, 564);
-            button36.Name = "button36";
-            button36.Size = new Size(23, 23);
-            button36.TabIndex = 612;
-            button36.UseVisualStyleBackColor = false;
+            pads_d27.BackColor = Color.White;
+            pads_d27.BackgroundImageLayout = ImageLayout.None;
+            pads_d27.FlatStyle = FlatStyle.Popup;
+            pads_d27.Location = new Point(754, 564);
+            pads_d27.Name = "pads_d27";
+            pads_d27.Size = new Size(23, 23);
+            pads_d27.TabIndex = 612;
+            pads_d27.UseVisualStyleBackColor = false;
             // 
-            // button37
+            // pads_d26
             // 
-            button37.BackColor = Color.White;
-            button37.BackgroundImageLayout = ImageLayout.None;
-            button37.FlatStyle = FlatStyle.Popup;
-            button37.Location = new Point(725, 564);
-            button37.Name = "button37";
-            button37.Size = new Size(23, 23);
-            button37.TabIndex = 611;
-            button37.UseVisualStyleBackColor = false;
+            pads_d26.BackColor = Color.White;
+            pads_d26.BackgroundImageLayout = ImageLayout.None;
+            pads_d26.FlatStyle = FlatStyle.Popup;
+            pads_d26.Location = new Point(725, 564);
+            pads_d26.Name = "pads_d26";
+            pads_d26.Size = new Size(23, 23);
+            pads_d26.TabIndex = 611;
+            pads_d26.UseVisualStyleBackColor = false;
             // 
-            // button38
+            // pads_d25
             // 
-            button38.BackColor = Color.White;
-            button38.BackgroundImageLayout = ImageLayout.None;
-            button38.FlatStyle = FlatStyle.Popup;
-            button38.Location = new Point(696, 564);
-            button38.Name = "button38";
-            button38.Size = new Size(23, 23);
-            button38.TabIndex = 610;
-            button38.UseVisualStyleBackColor = false;
+            pads_d25.BackColor = Color.White;
+            pads_d25.BackgroundImageLayout = ImageLayout.None;
+            pads_d25.FlatStyle = FlatStyle.Popup;
+            pads_d25.Location = new Point(696, 564);
+            pads_d25.Name = "pads_d25";
+            pads_d25.Size = new Size(23, 23);
+            pads_d25.TabIndex = 610;
+            pads_d25.UseVisualStyleBackColor = false;
             // 
-            // button39
+            // pads_d24
             // 
-            button39.BackColor = Color.White;
-            button39.BackgroundImageLayout = ImageLayout.None;
-            button39.FlatStyle = FlatStyle.Popup;
-            button39.Location = new Point(667, 564);
-            button39.Name = "button39";
-            button39.Size = new Size(23, 23);
-            button39.TabIndex = 609;
-            button39.UseVisualStyleBackColor = false;
+            pads_d24.BackColor = Color.White;
+            pads_d24.BackgroundImageLayout = ImageLayout.None;
+            pads_d24.FlatStyle = FlatStyle.Popup;
+            pads_d24.Location = new Point(667, 564);
+            pads_d24.Name = "pads_d24";
+            pads_d24.Size = new Size(23, 23);
+            pads_d24.TabIndex = 609;
+            pads_d24.UseVisualStyleBackColor = false;
             // 
-            // button40
+            // pads_d23
             // 
-            button40.BackColor = Color.White;
-            button40.BackgroundImageLayout = ImageLayout.None;
-            button40.FlatStyle = FlatStyle.Popup;
-            button40.Location = new Point(638, 564);
-            button40.Name = "button40";
-            button40.Size = new Size(23, 23);
-            button40.TabIndex = 608;
-            button40.UseVisualStyleBackColor = false;
+            pads_d23.BackColor = Color.White;
+            pads_d23.BackgroundImageLayout = ImageLayout.None;
+            pads_d23.FlatStyle = FlatStyle.Popup;
+            pads_d23.Location = new Point(638, 564);
+            pads_d23.Name = "pads_d23";
+            pads_d23.Size = new Size(23, 23);
+            pads_d23.TabIndex = 608;
+            pads_d23.UseVisualStyleBackColor = false;
             // 
-            // button41
+            // pads_d22
             // 
-            button41.BackColor = Color.White;
-            button41.BackgroundImageLayout = ImageLayout.None;
-            button41.FlatStyle = FlatStyle.Popup;
-            button41.Location = new Point(609, 564);
-            button41.Name = "button41";
-            button41.Size = new Size(23, 23);
-            button41.TabIndex = 607;
-            button41.UseVisualStyleBackColor = false;
+            pads_d22.BackColor = Color.White;
+            pads_d22.BackgroundImageLayout = ImageLayout.None;
+            pads_d22.FlatStyle = FlatStyle.Popup;
+            pads_d22.Location = new Point(609, 564);
+            pads_d22.Name = "pads_d22";
+            pads_d22.Size = new Size(23, 23);
+            pads_d22.TabIndex = 607;
+            pads_d22.UseVisualStyleBackColor = false;
             // 
-            // button42
+            // pads_d21
             // 
-            button42.BackColor = Color.White;
-            button42.BackgroundImageLayout = ImageLayout.None;
-            button42.FlatStyle = FlatStyle.Popup;
-            button42.Location = new Point(580, 564);
-            button42.Name = "button42";
-            button42.Size = new Size(23, 23);
-            button42.TabIndex = 606;
-            button42.UseVisualStyleBackColor = false;
+            pads_d21.BackColor = Color.White;
+            pads_d21.BackgroundImageLayout = ImageLayout.None;
+            pads_d21.FlatStyle = FlatStyle.Popup;
+            pads_d21.Location = new Point(580, 564);
+            pads_d21.Name = "pads_d21";
+            pads_d21.Size = new Size(23, 23);
+            pads_d21.TabIndex = 606;
+            pads_d21.UseVisualStyleBackColor = false;
             // 
-            // button43
+            // pads_d20
             // 
-            button43.BackColor = Color.White;
-            button43.BackgroundImageLayout = ImageLayout.None;
-            button43.FlatStyle = FlatStyle.Popup;
-            button43.Location = new Point(551, 564);
-            button43.Name = "button43";
-            button43.Size = new Size(23, 23);
-            button43.TabIndex = 605;
-            button43.UseVisualStyleBackColor = false;
+            pads_d20.BackColor = Color.White;
+            pads_d20.BackgroundImageLayout = ImageLayout.None;
+            pads_d20.FlatStyle = FlatStyle.Popup;
+            pads_d20.Location = new Point(551, 564);
+            pads_d20.Name = "pads_d20";
+            pads_d20.Size = new Size(23, 23);
+            pads_d20.TabIndex = 605;
+            pads_d20.UseVisualStyleBackColor = false;
             // 
-            // button44
+            // pads_d19
             // 
-            button44.BackColor = Color.White;
-            button44.BackgroundImageLayout = ImageLayout.None;
-            button44.FlatStyle = FlatStyle.Popup;
-            button44.Location = new Point(522, 564);
-            button44.Name = "button44";
-            button44.Size = new Size(23, 23);
-            button44.TabIndex = 604;
-            button44.UseVisualStyleBackColor = false;
+            pads_d19.BackColor = Color.White;
+            pads_d19.BackgroundImageLayout = ImageLayout.None;
+            pads_d19.FlatStyle = FlatStyle.Popup;
+            pads_d19.Location = new Point(522, 564);
+            pads_d19.Name = "pads_d19";
+            pads_d19.Size = new Size(23, 23);
+            pads_d19.TabIndex = 604;
+            pads_d19.UseVisualStyleBackColor = false;
             // 
-            // button45
+            // pads_d18
             // 
-            button45.BackColor = Color.White;
-            button45.BackgroundImageLayout = ImageLayout.None;
-            button45.FlatStyle = FlatStyle.Popup;
-            button45.Location = new Point(493, 564);
-            button45.Name = "button45";
-            button45.Size = new Size(23, 23);
-            button45.TabIndex = 603;
-            button45.UseVisualStyleBackColor = false;
+            pads_d18.BackColor = Color.White;
+            pads_d18.BackgroundImageLayout = ImageLayout.None;
+            pads_d18.FlatStyle = FlatStyle.Popup;
+            pads_d18.Location = new Point(493, 564);
+            pads_d18.Name = "pads_d18";
+            pads_d18.Size = new Size(23, 23);
+            pads_d18.TabIndex = 603;
+            pads_d18.UseVisualStyleBackColor = false;
             // 
-            // button46
+            // pads_d17
             // 
-            button46.BackColor = Color.White;
-            button46.BackgroundImageLayout = ImageLayout.None;
-            button46.FlatStyle = FlatStyle.Popup;
-            button46.Location = new Point(464, 564);
-            button46.Name = "button46";
-            button46.Size = new Size(23, 23);
-            button46.TabIndex = 602;
-            button46.UseVisualStyleBackColor = false;
+            pads_d17.BackColor = Color.White;
+            pads_d17.BackgroundImageLayout = ImageLayout.None;
+            pads_d17.FlatStyle = FlatStyle.Popup;
+            pads_d17.Location = new Point(464, 564);
+            pads_d17.Name = "pads_d17";
+            pads_d17.Size = new Size(23, 23);
+            pads_d17.TabIndex = 602;
+            pads_d17.UseVisualStyleBackColor = false;
             // 
-            // button47
+            // pads_d16
             // 
-            button47.BackColor = Color.White;
-            button47.BackgroundImageLayout = ImageLayout.None;
-            button47.FlatStyle = FlatStyle.Popup;
-            button47.Location = new Point(435, 564);
-            button47.Name = "button47";
-            button47.Size = new Size(23, 23);
-            button47.TabIndex = 601;
-            button47.UseVisualStyleBackColor = false;
+            pads_d16.BackColor = Color.White;
+            pads_d16.BackgroundImageLayout = ImageLayout.None;
+            pads_d16.FlatStyle = FlatStyle.Popup;
+            pads_d16.Location = new Point(435, 564);
+            pads_d16.Name = "pads_d16";
+            pads_d16.Size = new Size(23, 23);
+            pads_d16.TabIndex = 601;
+            pads_d16.UseVisualStyleBackColor = false;
             // 
-            // button48
+            // pads_d15
             // 
-            button48.BackColor = Color.White;
-            button48.BackgroundImageLayout = ImageLayout.None;
-            button48.FlatStyle = FlatStyle.Popup;
-            button48.Location = new Point(406, 564);
-            button48.Name = "button48";
-            button48.Size = new Size(23, 23);
-            button48.TabIndex = 600;
-            button48.UseVisualStyleBackColor = false;
+            pads_d15.BackColor = Color.White;
+            pads_d15.BackgroundImageLayout = ImageLayout.None;
+            pads_d15.FlatStyle = FlatStyle.Popup;
+            pads_d15.Location = new Point(406, 564);
+            pads_d15.Name = "pads_d15";
+            pads_d15.Size = new Size(23, 23);
+            pads_d15.TabIndex = 600;
+            pads_d15.UseVisualStyleBackColor = false;
             // 
-            // button49
+            // pads_d14
             // 
-            button49.BackColor = Color.White;
-            button49.BackgroundImageLayout = ImageLayout.None;
-            button49.FlatStyle = FlatStyle.Popup;
-            button49.Location = new Point(377, 564);
-            button49.Name = "button49";
-            button49.Size = new Size(23, 23);
-            button49.TabIndex = 599;
-            button49.UseVisualStyleBackColor = false;
+            pads_d14.BackColor = Color.White;
+            pads_d14.BackgroundImageLayout = ImageLayout.None;
+            pads_d14.FlatStyle = FlatStyle.Popup;
+            pads_d14.Location = new Point(377, 564);
+            pads_d14.Name = "pads_d14";
+            pads_d14.Size = new Size(23, 23);
+            pads_d14.TabIndex = 599;
+            pads_d14.UseVisualStyleBackColor = false;
             // 
-            // button50
+            // pads_d13
             // 
-            button50.BackColor = Color.White;
-            button50.BackgroundImageLayout = ImageLayout.None;
-            button50.FlatStyle = FlatStyle.Popup;
-            button50.Location = new Point(348, 564);
-            button50.Name = "button50";
-            button50.Size = new Size(23, 23);
-            button50.TabIndex = 598;
-            button50.UseVisualStyleBackColor = false;
+            pads_d13.BackColor = Color.White;
+            pads_d13.BackgroundImageLayout = ImageLayout.None;
+            pads_d13.FlatStyle = FlatStyle.Popup;
+            pads_d13.Location = new Point(348, 564);
+            pads_d13.Name = "pads_d13";
+            pads_d13.Size = new Size(23, 23);
+            pads_d13.TabIndex = 598;
+            pads_d13.UseVisualStyleBackColor = false;
             // 
-            // button51
+            // pads_d12
             // 
-            button51.BackColor = Color.White;
-            button51.BackgroundImageLayout = ImageLayout.None;
-            button51.FlatStyle = FlatStyle.Popup;
-            button51.Location = new Point(319, 564);
-            button51.Name = "button51";
-            button51.Size = new Size(23, 23);
-            button51.TabIndex = 597;
-            button51.UseVisualStyleBackColor = false;
+            pads_d12.BackColor = Color.White;
+            pads_d12.BackgroundImageLayout = ImageLayout.None;
+            pads_d12.FlatStyle = FlatStyle.Popup;
+            pads_d12.Location = new Point(319, 564);
+            pads_d12.Name = "pads_d12";
+            pads_d12.Size = new Size(23, 23);
+            pads_d12.TabIndex = 597;
+            pads_d12.UseVisualStyleBackColor = false;
             // 
-            // button52
+            // pads_d11
             // 
-            button52.BackColor = Color.White;
-            button52.BackgroundImageLayout = ImageLayout.None;
-            button52.FlatStyle = FlatStyle.Popup;
-            button52.Location = new Point(290, 564);
-            button52.Name = "button52";
-            button52.Size = new Size(23, 23);
-            button52.TabIndex = 596;
-            button52.UseVisualStyleBackColor = false;
+            pads_d11.BackColor = Color.White;
+            pads_d11.BackgroundImageLayout = ImageLayout.None;
+            pads_d11.FlatStyle = FlatStyle.Popup;
+            pads_d11.Location = new Point(290, 564);
+            pads_d11.Name = "pads_d11";
+            pads_d11.Size = new Size(23, 23);
+            pads_d11.TabIndex = 596;
+            pads_d11.UseVisualStyleBackColor = false;
             // 
-            // button53
+            // pads_d10
             // 
-            button53.BackColor = Color.White;
-            button53.BackgroundImageLayout = ImageLayout.None;
-            button53.FlatStyle = FlatStyle.Popup;
-            button53.Location = new Point(261, 564);
-            button53.Name = "button53";
-            button53.Size = new Size(23, 23);
-            button53.TabIndex = 595;
-            button53.UseVisualStyleBackColor = false;
+            pads_d10.BackColor = Color.White;
+            pads_d10.BackgroundImageLayout = ImageLayout.None;
+            pads_d10.FlatStyle = FlatStyle.Popup;
+            pads_d10.Location = new Point(261, 564);
+            pads_d10.Name = "pads_d10";
+            pads_d10.Size = new Size(23, 23);
+            pads_d10.TabIndex = 595;
+            pads_d10.UseVisualStyleBackColor = false;
             // 
-            // button54
+            // pads_d9
             // 
-            button54.BackColor = Color.White;
-            button54.BackgroundImageLayout = ImageLayout.None;
-            button54.FlatStyle = FlatStyle.Popup;
-            button54.Location = new Point(232, 564);
-            button54.Name = "button54";
-            button54.Size = new Size(23, 23);
-            button54.TabIndex = 594;
-            button54.UseVisualStyleBackColor = false;
+            pads_d9.BackColor = Color.White;
+            pads_d9.BackgroundImageLayout = ImageLayout.None;
+            pads_d9.FlatStyle = FlatStyle.Popup;
+            pads_d9.Location = new Point(232, 564);
+            pads_d9.Name = "pads_d9";
+            pads_d9.Size = new Size(23, 23);
+            pads_d9.TabIndex = 594;
+            pads_d9.UseVisualStyleBackColor = false;
             // 
-            // button55
+            // pads_d8
             // 
-            button55.BackColor = Color.White;
-            button55.BackgroundImageLayout = ImageLayout.None;
-            button55.FlatStyle = FlatStyle.Popup;
-            button55.Location = new Point(203, 564);
-            button55.Name = "button55";
-            button55.Size = new Size(23, 23);
-            button55.TabIndex = 593;
-            button55.UseVisualStyleBackColor = false;
+            pads_d8.BackColor = Color.White;
+            pads_d8.BackgroundImageLayout = ImageLayout.None;
+            pads_d8.FlatStyle = FlatStyle.Popup;
+            pads_d8.Location = new Point(203, 564);
+            pads_d8.Name = "pads_d8";
+            pads_d8.Size = new Size(23, 23);
+            pads_d8.TabIndex = 593;
+            pads_d8.UseVisualStyleBackColor = false;
             // 
-            // button56
+            // pads_d7
             // 
-            button56.BackColor = Color.White;
-            button56.BackgroundImageLayout = ImageLayout.None;
-            button56.FlatStyle = FlatStyle.Popup;
-            button56.Location = new Point(174, 564);
-            button56.Name = "button56";
-            button56.Size = new Size(23, 23);
-            button56.TabIndex = 592;
-            button56.UseVisualStyleBackColor = false;
+            pads_d7.BackColor = Color.White;
+            pads_d7.BackgroundImageLayout = ImageLayout.None;
+            pads_d7.FlatStyle = FlatStyle.Popup;
+            pads_d7.Location = new Point(174, 564);
+            pads_d7.Name = "pads_d7";
+            pads_d7.Size = new Size(23, 23);
+            pads_d7.TabIndex = 592;
+            pads_d7.UseVisualStyleBackColor = false;
             // 
-            // button57
+            // pads_d6
             // 
-            button57.BackColor = Color.White;
-            button57.BackgroundImageLayout = ImageLayout.None;
-            button57.FlatStyle = FlatStyle.Popup;
-            button57.Location = new Point(145, 564);
-            button57.Name = "button57";
-            button57.Size = new Size(23, 23);
-            button57.TabIndex = 591;
-            button57.UseVisualStyleBackColor = false;
+            pads_d6.BackColor = Color.White;
+            pads_d6.BackgroundImageLayout = ImageLayout.None;
+            pads_d6.FlatStyle = FlatStyle.Popup;
+            pads_d6.Location = new Point(145, 564);
+            pads_d6.Name = "pads_d6";
+            pads_d6.Size = new Size(23, 23);
+            pads_d6.TabIndex = 591;
+            pads_d6.UseVisualStyleBackColor = false;
             // 
-            // button58
+            // pads_d5
             // 
-            button58.BackColor = Color.White;
-            button58.BackgroundImageLayout = ImageLayout.None;
-            button58.FlatStyle = FlatStyle.Popup;
-            button58.Location = new Point(116, 564);
-            button58.Name = "button58";
-            button58.Size = new Size(23, 23);
-            button58.TabIndex = 590;
-            button58.UseVisualStyleBackColor = false;
+            pads_d5.BackColor = Color.White;
+            pads_d5.BackgroundImageLayout = ImageLayout.None;
+            pads_d5.FlatStyle = FlatStyle.Popup;
+            pads_d5.Location = new Point(116, 564);
+            pads_d5.Name = "pads_d5";
+            pads_d5.Size = new Size(23, 23);
+            pads_d5.TabIndex = 590;
+            pads_d5.UseVisualStyleBackColor = false;
             // 
-            // button59
+            // pads_d4
             // 
-            button59.BackColor = Color.White;
-            button59.BackgroundImageLayout = ImageLayout.None;
-            button59.FlatStyle = FlatStyle.Popup;
-            button59.Location = new Point(87, 564);
-            button59.Name = "button59";
-            button59.Size = new Size(23, 23);
-            button59.TabIndex = 589;
-            button59.UseVisualStyleBackColor = false;
+            pads_d4.BackColor = Color.White;
+            pads_d4.BackgroundImageLayout = ImageLayout.None;
+            pads_d4.FlatStyle = FlatStyle.Popup;
+            pads_d4.Location = new Point(87, 564);
+            pads_d4.Name = "pads_d4";
+            pads_d4.Size = new Size(23, 23);
+            pads_d4.TabIndex = 589;
+            pads_d4.UseVisualStyleBackColor = false;
             // 
-            // button60
+            // pads_d3
             // 
-            button60.BackColor = Color.White;
-            button60.BackgroundImageLayout = ImageLayout.None;
-            button60.FlatStyle = FlatStyle.Popup;
-            button60.Location = new Point(58, 564);
-            button60.Name = "button60";
-            button60.Size = new Size(23, 23);
-            button60.TabIndex = 588;
-            button60.UseVisualStyleBackColor = false;
+            pads_d3.BackColor = Color.White;
+            pads_d3.BackgroundImageLayout = ImageLayout.None;
+            pads_d3.FlatStyle = FlatStyle.Popup;
+            pads_d3.Location = new Point(58, 564);
+            pads_d3.Name = "pads_d3";
+            pads_d3.Size = new Size(23, 23);
+            pads_d3.TabIndex = 588;
+            pads_d3.UseVisualStyleBackColor = false;
             // 
-            // button61
+            // pads_d2
             // 
-            button61.BackColor = Color.White;
-            button61.BackgroundImageLayout = ImageLayout.None;
-            button61.FlatStyle = FlatStyle.Popup;
-            button61.Location = new Point(29, 564);
-            button61.Name = "button61";
-            button61.Size = new Size(23, 23);
-            button61.TabIndex = 587;
-            button61.UseVisualStyleBackColor = false;
+            pads_d2.BackColor = Color.White;
+            pads_d2.BackgroundImageLayout = ImageLayout.None;
+            pads_d2.FlatStyle = FlatStyle.Popup;
+            pads_d2.Location = new Point(29, 564);
+            pads_d2.Name = "pads_d2";
+            pads_d2.Size = new Size(23, 23);
+            pads_d2.TabIndex = 587;
+            pads_d2.UseVisualStyleBackColor = false;
             // 
             // pads_d1
             // 
@@ -4478,335 +4478,335 @@
             pads_d1.TabIndex = 586;
             pads_d1.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // drums_d31
             // 
-            button1.BackColor = Color.White;
-            button1.BackgroundImageLayout = ImageLayout.None;
-            button1.FlatStyle = FlatStyle.Popup;
-            button1.Location = new Point(870, 535);
-            button1.Name = "button1";
-            button1.Size = new Size(23, 23);
-            button1.TabIndex = 585;
-            button1.UseVisualStyleBackColor = false;
+            drums_d31.BackColor = Color.White;
+            drums_d31.BackgroundImageLayout = ImageLayout.None;
+            drums_d31.FlatStyle = FlatStyle.Popup;
+            drums_d31.Location = new Point(870, 535);
+            drums_d31.Name = "drums_d31";
+            drums_d31.Size = new Size(23, 23);
+            drums_d31.TabIndex = 585;
+            drums_d31.UseVisualStyleBackColor = false;
             // 
-            // button2
+            // drums_d30
             // 
-            button2.BackColor = Color.White;
-            button2.BackgroundImageLayout = ImageLayout.None;
-            button2.FlatStyle = FlatStyle.Popup;
-            button2.Location = new Point(841, 535);
-            button2.Name = "button2";
-            button2.Size = new Size(23, 23);
-            button2.TabIndex = 584;
-            button2.UseVisualStyleBackColor = false;
+            drums_d30.BackColor = Color.White;
+            drums_d30.BackgroundImageLayout = ImageLayout.None;
+            drums_d30.FlatStyle = FlatStyle.Popup;
+            drums_d30.Location = new Point(841, 535);
+            drums_d30.Name = "drums_d30";
+            drums_d30.Size = new Size(23, 23);
+            drums_d30.TabIndex = 584;
+            drums_d30.UseVisualStyleBackColor = false;
             // 
-            // button3
+            // drums_d29
             // 
-            button3.BackColor = Color.White;
-            button3.BackgroundImageLayout = ImageLayout.None;
-            button3.FlatStyle = FlatStyle.Popup;
-            button3.Location = new Point(812, 535);
-            button3.Name = "button3";
-            button3.Size = new Size(23, 23);
-            button3.TabIndex = 583;
-            button3.UseVisualStyleBackColor = false;
+            drums_d29.BackColor = Color.White;
+            drums_d29.BackgroundImageLayout = ImageLayout.None;
+            drums_d29.FlatStyle = FlatStyle.Popup;
+            drums_d29.Location = new Point(812, 535);
+            drums_d29.Name = "drums_d29";
+            drums_d29.Size = new Size(23, 23);
+            drums_d29.TabIndex = 583;
+            drums_d29.UseVisualStyleBackColor = false;
             // 
-            // button4
+            // drums_d28
             // 
-            button4.BackColor = Color.White;
-            button4.BackgroundImageLayout = ImageLayout.None;
-            button4.FlatStyle = FlatStyle.Popup;
-            button4.Location = new Point(783, 535);
-            button4.Name = "button4";
-            button4.Size = new Size(23, 23);
-            button4.TabIndex = 582;
-            button4.UseVisualStyleBackColor = false;
+            drums_d28.BackColor = Color.White;
+            drums_d28.BackgroundImageLayout = ImageLayout.None;
+            drums_d28.FlatStyle = FlatStyle.Popup;
+            drums_d28.Location = new Point(783, 535);
+            drums_d28.Name = "drums_d28";
+            drums_d28.Size = new Size(23, 23);
+            drums_d28.TabIndex = 582;
+            drums_d28.UseVisualStyleBackColor = false;
             // 
-            // button5
+            // drums_d27
             // 
-            button5.BackColor = Color.White;
-            button5.BackgroundImageLayout = ImageLayout.None;
-            button5.FlatStyle = FlatStyle.Popup;
-            button5.Location = new Point(754, 535);
-            button5.Name = "button5";
-            button5.Size = new Size(23, 23);
-            button5.TabIndex = 581;
-            button5.UseVisualStyleBackColor = false;
+            drums_d27.BackColor = Color.White;
+            drums_d27.BackgroundImageLayout = ImageLayout.None;
+            drums_d27.FlatStyle = FlatStyle.Popup;
+            drums_d27.Location = new Point(754, 535);
+            drums_d27.Name = "drums_d27";
+            drums_d27.Size = new Size(23, 23);
+            drums_d27.TabIndex = 581;
+            drums_d27.UseVisualStyleBackColor = false;
             // 
-            // button6
+            // drums_d26
             // 
-            button6.BackColor = Color.White;
-            button6.BackgroundImageLayout = ImageLayout.None;
-            button6.FlatStyle = FlatStyle.Popup;
-            button6.Location = new Point(725, 535);
-            button6.Name = "button6";
-            button6.Size = new Size(23, 23);
-            button6.TabIndex = 580;
-            button6.UseVisualStyleBackColor = false;
+            drums_d26.BackColor = Color.White;
+            drums_d26.BackgroundImageLayout = ImageLayout.None;
+            drums_d26.FlatStyle = FlatStyle.Popup;
+            drums_d26.Location = new Point(725, 535);
+            drums_d26.Name = "drums_d26";
+            drums_d26.Size = new Size(23, 23);
+            drums_d26.TabIndex = 580;
+            drums_d26.UseVisualStyleBackColor = false;
             // 
-            // button7
+            // drums_d25
             // 
-            button7.BackColor = Color.White;
-            button7.BackgroundImageLayout = ImageLayout.None;
-            button7.FlatStyle = FlatStyle.Popup;
-            button7.Location = new Point(696, 535);
-            button7.Name = "button7";
-            button7.Size = new Size(23, 23);
-            button7.TabIndex = 579;
-            button7.UseVisualStyleBackColor = false;
+            drums_d25.BackColor = Color.White;
+            drums_d25.BackgroundImageLayout = ImageLayout.None;
+            drums_d25.FlatStyle = FlatStyle.Popup;
+            drums_d25.Location = new Point(696, 535);
+            drums_d25.Name = "drums_d25";
+            drums_d25.Size = new Size(23, 23);
+            drums_d25.TabIndex = 579;
+            drums_d25.UseVisualStyleBackColor = false;
             // 
-            // button8
+            // drums_d24
             // 
-            button8.BackColor = Color.White;
-            button8.BackgroundImageLayout = ImageLayout.None;
-            button8.FlatStyle = FlatStyle.Popup;
-            button8.Location = new Point(667, 535);
-            button8.Name = "button8";
-            button8.Size = new Size(23, 23);
-            button8.TabIndex = 578;
-            button8.UseVisualStyleBackColor = false;
+            drums_d24.BackColor = Color.White;
+            drums_d24.BackgroundImageLayout = ImageLayout.None;
+            drums_d24.FlatStyle = FlatStyle.Popup;
+            drums_d24.Location = new Point(667, 535);
+            drums_d24.Name = "drums_d24";
+            drums_d24.Size = new Size(23, 23);
+            drums_d24.TabIndex = 578;
+            drums_d24.UseVisualStyleBackColor = false;
             // 
-            // button9
+            // drums_d23
             // 
-            button9.BackColor = Color.White;
-            button9.BackgroundImageLayout = ImageLayout.None;
-            button9.FlatStyle = FlatStyle.Popup;
-            button9.Location = new Point(638, 535);
-            button9.Name = "button9";
-            button9.Size = new Size(23, 23);
-            button9.TabIndex = 577;
-            button9.UseVisualStyleBackColor = false;
+            drums_d23.BackColor = Color.White;
+            drums_d23.BackgroundImageLayout = ImageLayout.None;
+            drums_d23.FlatStyle = FlatStyle.Popup;
+            drums_d23.Location = new Point(638, 535);
+            drums_d23.Name = "drums_d23";
+            drums_d23.Size = new Size(23, 23);
+            drums_d23.TabIndex = 577;
+            drums_d23.UseVisualStyleBackColor = false;
             // 
-            // button10
+            // drums_d22
             // 
-            button10.BackColor = Color.White;
-            button10.BackgroundImageLayout = ImageLayout.None;
-            button10.FlatStyle = FlatStyle.Popup;
-            button10.Location = new Point(609, 535);
-            button10.Name = "button10";
-            button10.Size = new Size(23, 23);
-            button10.TabIndex = 576;
-            button10.UseVisualStyleBackColor = false;
+            drums_d22.BackColor = Color.White;
+            drums_d22.BackgroundImageLayout = ImageLayout.None;
+            drums_d22.FlatStyle = FlatStyle.Popup;
+            drums_d22.Location = new Point(609, 535);
+            drums_d22.Name = "drums_d22";
+            drums_d22.Size = new Size(23, 23);
+            drums_d22.TabIndex = 576;
+            drums_d22.UseVisualStyleBackColor = false;
             // 
-            // button11
+            // drums_d21
             // 
-            button11.BackColor = Color.White;
-            button11.BackgroundImageLayout = ImageLayout.None;
-            button11.FlatStyle = FlatStyle.Popup;
-            button11.Location = new Point(580, 535);
-            button11.Name = "button11";
-            button11.Size = new Size(23, 23);
-            button11.TabIndex = 575;
-            button11.UseVisualStyleBackColor = false;
+            drums_d21.BackColor = Color.White;
+            drums_d21.BackgroundImageLayout = ImageLayout.None;
+            drums_d21.FlatStyle = FlatStyle.Popup;
+            drums_d21.Location = new Point(580, 535);
+            drums_d21.Name = "drums_d21";
+            drums_d21.Size = new Size(23, 23);
+            drums_d21.TabIndex = 575;
+            drums_d21.UseVisualStyleBackColor = false;
             // 
-            // button12
+            // drums_d20
             // 
-            button12.BackColor = Color.White;
-            button12.BackgroundImageLayout = ImageLayout.None;
-            button12.FlatStyle = FlatStyle.Popup;
-            button12.Location = new Point(551, 535);
-            button12.Name = "button12";
-            button12.Size = new Size(23, 23);
-            button12.TabIndex = 574;
-            button12.UseVisualStyleBackColor = false;
+            drums_d20.BackColor = Color.White;
+            drums_d20.BackgroundImageLayout = ImageLayout.None;
+            drums_d20.FlatStyle = FlatStyle.Popup;
+            drums_d20.Location = new Point(551, 535);
+            drums_d20.Name = "drums_d20";
+            drums_d20.Size = new Size(23, 23);
+            drums_d20.TabIndex = 574;
+            drums_d20.UseVisualStyleBackColor = false;
             // 
-            // button13
+            // drums_d19
             // 
-            button13.BackColor = Color.White;
-            button13.BackgroundImageLayout = ImageLayout.None;
-            button13.FlatStyle = FlatStyle.Popup;
-            button13.Location = new Point(522, 535);
-            button13.Name = "button13";
-            button13.Size = new Size(23, 23);
-            button13.TabIndex = 573;
-            button13.UseVisualStyleBackColor = false;
+            drums_d19.BackColor = Color.White;
+            drums_d19.BackgroundImageLayout = ImageLayout.None;
+            drums_d19.FlatStyle = FlatStyle.Popup;
+            drums_d19.Location = new Point(522, 535);
+            drums_d19.Name = "drums_d19";
+            drums_d19.Size = new Size(23, 23);
+            drums_d19.TabIndex = 573;
+            drums_d19.UseVisualStyleBackColor = false;
             // 
-            // button14
+            // drums_d18
             // 
-            button14.BackColor = Color.White;
-            button14.BackgroundImageLayout = ImageLayout.None;
-            button14.FlatStyle = FlatStyle.Popup;
-            button14.Location = new Point(493, 535);
-            button14.Name = "button14";
-            button14.Size = new Size(23, 23);
-            button14.TabIndex = 572;
-            button14.UseVisualStyleBackColor = false;
+            drums_d18.BackColor = Color.White;
+            drums_d18.BackgroundImageLayout = ImageLayout.None;
+            drums_d18.FlatStyle = FlatStyle.Popup;
+            drums_d18.Location = new Point(493, 535);
+            drums_d18.Name = "drums_d18";
+            drums_d18.Size = new Size(23, 23);
+            drums_d18.TabIndex = 572;
+            drums_d18.UseVisualStyleBackColor = false;
             // 
-            // button15
+            // drums_d17
             // 
-            button15.BackColor = Color.White;
-            button15.BackgroundImageLayout = ImageLayout.None;
-            button15.FlatStyle = FlatStyle.Popup;
-            button15.Location = new Point(464, 535);
-            button15.Name = "button15";
-            button15.Size = new Size(23, 23);
-            button15.TabIndex = 571;
-            button15.UseVisualStyleBackColor = false;
+            drums_d17.BackColor = Color.White;
+            drums_d17.BackgroundImageLayout = ImageLayout.None;
+            drums_d17.FlatStyle = FlatStyle.Popup;
+            drums_d17.Location = new Point(464, 535);
+            drums_d17.Name = "drums_d17";
+            drums_d17.Size = new Size(23, 23);
+            drums_d17.TabIndex = 571;
+            drums_d17.UseVisualStyleBackColor = false;
             // 
-            // button16
+            // drums_d16
             // 
-            button16.BackColor = Color.White;
-            button16.BackgroundImageLayout = ImageLayout.None;
-            button16.FlatStyle = FlatStyle.Popup;
-            button16.Location = new Point(435, 535);
-            button16.Name = "button16";
-            button16.Size = new Size(23, 23);
-            button16.TabIndex = 570;
-            button16.UseVisualStyleBackColor = false;
+            drums_d16.BackColor = Color.White;
+            drums_d16.BackgroundImageLayout = ImageLayout.None;
+            drums_d16.FlatStyle = FlatStyle.Popup;
+            drums_d16.Location = new Point(435, 535);
+            drums_d16.Name = "drums_d16";
+            drums_d16.Size = new Size(23, 23);
+            drums_d16.TabIndex = 570;
+            drums_d16.UseVisualStyleBackColor = false;
             // 
-            // button17
+            // drums_d15
             // 
-            button17.BackColor = Color.White;
-            button17.BackgroundImageLayout = ImageLayout.None;
-            button17.FlatStyle = FlatStyle.Popup;
-            button17.Location = new Point(406, 535);
-            button17.Name = "button17";
-            button17.Size = new Size(23, 23);
-            button17.TabIndex = 569;
-            button17.UseVisualStyleBackColor = false;
+            drums_d15.BackColor = Color.White;
+            drums_d15.BackgroundImageLayout = ImageLayout.None;
+            drums_d15.FlatStyle = FlatStyle.Popup;
+            drums_d15.Location = new Point(406, 535);
+            drums_d15.Name = "drums_d15";
+            drums_d15.Size = new Size(23, 23);
+            drums_d15.TabIndex = 569;
+            drums_d15.UseVisualStyleBackColor = false;
             // 
-            // button18
+            // drums_d14
             // 
-            button18.BackColor = Color.White;
-            button18.BackgroundImageLayout = ImageLayout.None;
-            button18.FlatStyle = FlatStyle.Popup;
-            button18.Location = new Point(377, 535);
-            button18.Name = "button18";
-            button18.Size = new Size(23, 23);
-            button18.TabIndex = 568;
-            button18.UseVisualStyleBackColor = false;
+            drums_d14.BackColor = Color.White;
+            drums_d14.BackgroundImageLayout = ImageLayout.None;
+            drums_d14.FlatStyle = FlatStyle.Popup;
+            drums_d14.Location = new Point(377, 535);
+            drums_d14.Name = "drums_d14";
+            drums_d14.Size = new Size(23, 23);
+            drums_d14.TabIndex = 568;
+            drums_d14.UseVisualStyleBackColor = false;
             // 
-            // button19
+            // drums_d13
             // 
-            button19.BackColor = Color.White;
-            button19.BackgroundImageLayout = ImageLayout.None;
-            button19.FlatStyle = FlatStyle.Popup;
-            button19.Location = new Point(348, 535);
-            button19.Name = "button19";
-            button19.Size = new Size(23, 23);
-            button19.TabIndex = 567;
-            button19.UseVisualStyleBackColor = false;
+            drums_d13.BackColor = Color.White;
+            drums_d13.BackgroundImageLayout = ImageLayout.None;
+            drums_d13.FlatStyle = FlatStyle.Popup;
+            drums_d13.Location = new Point(348, 535);
+            drums_d13.Name = "drums_d13";
+            drums_d13.Size = new Size(23, 23);
+            drums_d13.TabIndex = 567;
+            drums_d13.UseVisualStyleBackColor = false;
             // 
-            // button20
+            // drums_d12
             // 
-            button20.BackColor = Color.White;
-            button20.BackgroundImageLayout = ImageLayout.None;
-            button20.FlatStyle = FlatStyle.Popup;
-            button20.Location = new Point(319, 535);
-            button20.Name = "button20";
-            button20.Size = new Size(23, 23);
-            button20.TabIndex = 566;
-            button20.UseVisualStyleBackColor = false;
+            drums_d12.BackColor = Color.White;
+            drums_d12.BackgroundImageLayout = ImageLayout.None;
+            drums_d12.FlatStyle = FlatStyle.Popup;
+            drums_d12.Location = new Point(319, 535);
+            drums_d12.Name = "drums_d12";
+            drums_d12.Size = new Size(23, 23);
+            drums_d12.TabIndex = 566;
+            drums_d12.UseVisualStyleBackColor = false;
             // 
-            // button21
+            // drums_d11
             // 
-            button21.BackColor = Color.White;
-            button21.BackgroundImageLayout = ImageLayout.None;
-            button21.FlatStyle = FlatStyle.Popup;
-            button21.Location = new Point(290, 535);
-            button21.Name = "button21";
-            button21.Size = new Size(23, 23);
-            button21.TabIndex = 565;
-            button21.UseVisualStyleBackColor = false;
+            drums_d11.BackColor = Color.White;
+            drums_d11.BackgroundImageLayout = ImageLayout.None;
+            drums_d11.FlatStyle = FlatStyle.Popup;
+            drums_d11.Location = new Point(290, 535);
+            drums_d11.Name = "drums_d11";
+            drums_d11.Size = new Size(23, 23);
+            drums_d11.TabIndex = 565;
+            drums_d11.UseVisualStyleBackColor = false;
             // 
-            // button22
+            // drums_d10
             // 
-            button22.BackColor = Color.White;
-            button22.BackgroundImageLayout = ImageLayout.None;
-            button22.FlatStyle = FlatStyle.Popup;
-            button22.Location = new Point(261, 535);
-            button22.Name = "button22";
-            button22.Size = new Size(23, 23);
-            button22.TabIndex = 564;
-            button22.UseVisualStyleBackColor = false;
+            drums_d10.BackColor = Color.White;
+            drums_d10.BackgroundImageLayout = ImageLayout.None;
+            drums_d10.FlatStyle = FlatStyle.Popup;
+            drums_d10.Location = new Point(261, 535);
+            drums_d10.Name = "drums_d10";
+            drums_d10.Size = new Size(23, 23);
+            drums_d10.TabIndex = 564;
+            drums_d10.UseVisualStyleBackColor = false;
             // 
-            // button23
+            // drums_d9
             // 
-            button23.BackColor = Color.White;
-            button23.BackgroundImageLayout = ImageLayout.None;
-            button23.FlatStyle = FlatStyle.Popup;
-            button23.Location = new Point(232, 535);
-            button23.Name = "button23";
-            button23.Size = new Size(23, 23);
-            button23.TabIndex = 563;
-            button23.UseVisualStyleBackColor = false;
+            drums_d9.BackColor = Color.White;
+            drums_d9.BackgroundImageLayout = ImageLayout.None;
+            drums_d9.FlatStyle = FlatStyle.Popup;
+            drums_d9.Location = new Point(232, 535);
+            drums_d9.Name = "drums_d9";
+            drums_d9.Size = new Size(23, 23);
+            drums_d9.TabIndex = 563;
+            drums_d9.UseVisualStyleBackColor = false;
             // 
-            // button24
+            // drums_d8
             // 
-            button24.BackColor = Color.White;
-            button24.BackgroundImageLayout = ImageLayout.None;
-            button24.FlatStyle = FlatStyle.Popup;
-            button24.Location = new Point(203, 535);
-            button24.Name = "button24";
-            button24.Size = new Size(23, 23);
-            button24.TabIndex = 562;
-            button24.UseVisualStyleBackColor = false;
+            drums_d8.BackColor = Color.White;
+            drums_d8.BackgroundImageLayout = ImageLayout.None;
+            drums_d8.FlatStyle = FlatStyle.Popup;
+            drums_d8.Location = new Point(203, 535);
+            drums_d8.Name = "drums_d8";
+            drums_d8.Size = new Size(23, 23);
+            drums_d8.TabIndex = 562;
+            drums_d8.UseVisualStyleBackColor = false;
             // 
-            // button25
+            // drums_d7
             // 
-            button25.BackColor = Color.White;
-            button25.BackgroundImageLayout = ImageLayout.None;
-            button25.FlatStyle = FlatStyle.Popup;
-            button25.Location = new Point(174, 535);
-            button25.Name = "button25";
-            button25.Size = new Size(23, 23);
-            button25.TabIndex = 561;
-            button25.UseVisualStyleBackColor = false;
+            drums_d7.BackColor = Color.White;
+            drums_d7.BackgroundImageLayout = ImageLayout.None;
+            drums_d7.FlatStyle = FlatStyle.Popup;
+            drums_d7.Location = new Point(174, 535);
+            drums_d7.Name = "drums_d7";
+            drums_d7.Size = new Size(23, 23);
+            drums_d7.TabIndex = 561;
+            drums_d7.UseVisualStyleBackColor = false;
             // 
-            // button26
+            // drums_d6
             // 
-            button26.BackColor = Color.White;
-            button26.BackgroundImageLayout = ImageLayout.None;
-            button26.FlatStyle = FlatStyle.Popup;
-            button26.Location = new Point(145, 535);
-            button26.Name = "button26";
-            button26.Size = new Size(23, 23);
-            button26.TabIndex = 560;
-            button26.UseVisualStyleBackColor = false;
+            drums_d6.BackColor = Color.White;
+            drums_d6.BackgroundImageLayout = ImageLayout.None;
+            drums_d6.FlatStyle = FlatStyle.Popup;
+            drums_d6.Location = new Point(145, 535);
+            drums_d6.Name = "drums_d6";
+            drums_d6.Size = new Size(23, 23);
+            drums_d6.TabIndex = 560;
+            drums_d6.UseVisualStyleBackColor = false;
             // 
-            // button27
+            // drums_d5
             // 
-            button27.BackColor = Color.White;
-            button27.BackgroundImageLayout = ImageLayout.None;
-            button27.FlatStyle = FlatStyle.Popup;
-            button27.Location = new Point(116, 535);
-            button27.Name = "button27";
-            button27.Size = new Size(23, 23);
-            button27.TabIndex = 559;
-            button27.UseVisualStyleBackColor = false;
+            drums_d5.BackColor = Color.White;
+            drums_d5.BackgroundImageLayout = ImageLayout.None;
+            drums_d5.FlatStyle = FlatStyle.Popup;
+            drums_d5.Location = new Point(116, 535);
+            drums_d5.Name = "drums_d5";
+            drums_d5.Size = new Size(23, 23);
+            drums_d5.TabIndex = 559;
+            drums_d5.UseVisualStyleBackColor = false;
             // 
-            // button28
+            // drums_d4
             // 
-            button28.BackColor = Color.White;
-            button28.BackgroundImageLayout = ImageLayout.None;
-            button28.FlatStyle = FlatStyle.Popup;
-            button28.Location = new Point(87, 535);
-            button28.Name = "button28";
-            button28.Size = new Size(23, 23);
-            button28.TabIndex = 558;
-            button28.UseVisualStyleBackColor = false;
+            drums_d4.BackColor = Color.White;
+            drums_d4.BackgroundImageLayout = ImageLayout.None;
+            drums_d4.FlatStyle = FlatStyle.Popup;
+            drums_d4.Location = new Point(87, 535);
+            drums_d4.Name = "drums_d4";
+            drums_d4.Size = new Size(23, 23);
+            drums_d4.TabIndex = 558;
+            drums_d4.UseVisualStyleBackColor = false;
             // 
-            // button29
+            // drums_d3
             // 
-            button29.BackColor = Color.White;
-            button29.BackgroundImageLayout = ImageLayout.None;
-            button29.FlatStyle = FlatStyle.Popup;
-            button29.Location = new Point(58, 535);
-            button29.Name = "button29";
-            button29.Size = new Size(23, 23);
-            button29.TabIndex = 557;
-            button29.UseVisualStyleBackColor = false;
+            drums_d3.BackColor = Color.White;
+            drums_d3.BackgroundImageLayout = ImageLayout.None;
+            drums_d3.FlatStyle = FlatStyle.Popup;
+            drums_d3.Location = new Point(58, 535);
+            drums_d3.Name = "drums_d3";
+            drums_d3.Size = new Size(23, 23);
+            drums_d3.TabIndex = 557;
+            drums_d3.UseVisualStyleBackColor = false;
             // 
-            // button30
+            // drums_d2
             // 
-            button30.BackColor = Color.White;
-            button30.BackgroundImageLayout = ImageLayout.None;
-            button30.FlatStyle = FlatStyle.Popup;
-            button30.Location = new Point(29, 535);
-            button30.Name = "button30";
-            button30.Size = new Size(23, 23);
-            button30.TabIndex = 556;
-            button30.UseVisualStyleBackColor = false;
+            drums_d2.BackColor = Color.White;
+            drums_d2.BackgroundImageLayout = ImageLayout.None;
+            drums_d2.FlatStyle = FlatStyle.Popup;
+            drums_d2.Location = new Point(29, 535);
+            drums_d2.Name = "drums_d2";
+            drums_d2.Size = new Size(23, 23);
+            drums_d2.TabIndex = 556;
+            drums_d2.UseVisualStyleBackColor = false;
             // 
             // drums_d1
             // 
@@ -16346,129 +16346,129 @@
         private Button button277;
         private Button button278;
         private Button vocals_d1;
-        private Button button218;
-        private Button button219;
-        private Button button220;
-        private Button button221;
-        private Button button222;
-        private Button button223;
-        private Button button224;
-        private Button button225;
-        private Button button226;
-        private Button button227;
-        private Button button228;
-        private Button button229;
-        private Button button230;
-        private Button button231;
-        private Button button232;
-        private Button button233;
-        private Button button234;
-        private Button button235;
-        private Button button236;
-        private Button button237;
-        private Button button238;
-        private Button button239;
-        private Button button240;
-        private Button button241;
-        private Button button242;
-        private Button button243;
-        private Button button244;
-        private Button button245;
-        private Button button246;
-        private Button button247;
+        private Button compose_d31;
+        private Button compose_d30;
+        private Button compose_d29;
+        private Button compose_d28;
+        private Button compose_d27;
+        private Button compose_d26;
+        private Button compose_d25;
+        private Button compose_d24;
+        private Button compose_d23;
+        private Button compose_d22;
+        private Button compose_d21;
+        private Button compose_d20;
+        private Button compose_d19;
+        private Button compose_d18;
+        private Button compose_d17;
+        private Button compose_d16;
+        private Button compose_d15;
+        private Button compose_d14;
+        private Button compose_d13;
+        private Button compose_d12;
+        private Button compose_d11;
+        private Button compose_d10;
+        private Button compose_d9;
+        private Button compose_d8;
+        private Button compose_d7;
+        private Button compose_d6;
+        private Button compose_d5;
+        private Button compose_d4;
+        private Button compose_d3;
+        private Button compose_d2;
         private Button compose_d1;
-        private Button button63;
-        private Button button64;
-        private Button button65;
-        private Button button66;
-        private Button button67;
-        private Button button68;
-        private Button button69;
-        private Button button70;
-        private Button button71;
-        private Button button72;
-        private Button button73;
-        private Button button74;
-        private Button button75;
-        private Button button76;
-        private Button button77;
-        private Button button78;
-        private Button button79;
-        private Button button80;
-        private Button button81;
-        private Button button82;
-        private Button button83;
-        private Button button84;
-        private Button button85;
-        private Button button86;
-        private Button button87;
-        private Button button88;
-        private Button button89;
-        private Button button90;
-        private Button button91;
-        private Button button92;
+        private Button piano_d31;
+        private Button piano_d30;
+        private Button piano_d29;
+        private Button piano_d28;
+        private Button piano_d27;
+        private Button piano_d26;
+        private Button piano_d25;
+        private Button piano_d24;
+        private Button piano_d23;
+        private Button piano_d22;
+        private Button piano_d21;
+        private Button piano_d20;
+        private Button piano_d19;
+        private Button piano_d18;
+        private Button piano_d17;
+        private Button piano_d16;
+        private Button piano_d15;
+        private Button piano_d14;
+        private Button piano_d13;
+        private Button piano_d12;
+        private Button piano_d11;
+        private Button piano_d10;
+        private Button piano_d9;
+        private Button piano_d8;
+        private Button piano_d7;
+        private Button piano_d6;
+        private Button piano_d5;
+        private Button piano_d4;
+        private Button piano_d3;
+        private Button piano_d2;
         private Button piano_d1;
-        private Button button32;
-        private Button button33;
-        private Button button34;
-        private Button button35;
-        private Button button36;
-        private Button button37;
-        private Button button38;
-        private Button button39;
-        private Button button40;
-        private Button button41;
-        private Button button42;
-        private Button button43;
-        private Button button44;
-        private Button button45;
-        private Button button46;
-        private Button button47;
-        private Button button48;
-        private Button button49;
-        private Button button50;
-        private Button button51;
-        private Button button52;
-        private Button button53;
-        private Button button54;
-        private Button button55;
-        private Button button56;
-        private Button button57;
-        private Button button58;
-        private Button button59;
-        private Button button60;
-        private Button button61;
+        private Button pads_d31;
+        private Button pads_d30;
+        private Button pads_d29;
+        private Button pads_d28;
+        private Button pads_d27;
+        private Button pads_d26;
+        private Button pads_d25;
+        private Button pads_d24;
+        private Button pads_d23;
+        private Button pads_d22;
+        private Button pads_d21;
+        private Button pads_d20;
+        private Button pads_d19;
+        private Button pads_d18;
+        private Button pads_d17;
+        private Button pads_d16;
+        private Button pads_d15;
+        private Button pads_d14;
+        private Button pads_d13;
+        private Button pads_d12;
+        private Button pads_d11;
+        private Button pads_d10;
+        private Button pads_d9;
+        private Button pads_d8;
+        private Button pads_d7;
+        private Button pads_d6;
+        private Button pads_d5;
+        private Button pads_d4;
+        private Button pads_d3;
+        private Button pads_d2;
         private Button pads_d1;
-        private Button button1;
-        private Button button2;
-        private Button button3;
-        private Button button4;
-        private Button button5;
-        private Button button6;
-        private Button button7;
-        private Button button8;
-        private Button button9;
-        private Button button10;
-        private Button button11;
-        private Button button12;
-        private Button button13;
-        private Button button14;
-        private Button button15;
-        private Button button16;
-        private Button button17;
-        private Button button18;
-        private Button button19;
-        private Button button20;
-        private Button button21;
-        private Button button22;
-        private Button button23;
-        private Button button24;
-        private Button button25;
-        private Button button26;
-        private Button button27;
-        private Button button28;
-        private Button button29;
-        private Button button30;
+        private Button drums_d31;
+        private Button drums_d30;
+        private Button drums_d29;
+        private Button drums_d28;
+        private Button drums_d27;
+        private Button drums_d26;
+        private Button drums_d25;
+        private Button drums_d24;
+        private Button drums_d23;
+        private Button drums_d22;
+        private Button drums_d21;
+        private Button drums_d20;
+        private Button drums_d19;
+        private Button drums_d18;
+        private Button drums_d17;
+        private Button drums_d16;
+        private Button drums_d15;
+        private Button drums_d14;
+        private Button drums_d13;
+        private Button drums_d12;
+        private Button drums_d11;
+        private Button drums_d10;
+        private Button drums_d9;
+        private Button drums_d8;
+        private Button drums_d7;
+        private Button drums_d6;
+        private Button drums_d5;
+        private Button drums_d4;
+        private Button drums_d3;
+        private Button drums_d2;
         private Button drums_d1;
         private LinkLabel piano;
         private LinkLabel guitar;

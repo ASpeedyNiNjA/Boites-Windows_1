@@ -7,6 +7,11 @@ namespace Boites_Windows_1
             InitializeComponent();
         }
 
-
+        private void teeth1_d1_Click(object sender, EventArgs e)
+        {
+            //Murach C# 8th Edition Book
+            Form teethModule = new Teeth();
+            teethModule.ShowDialog();
+        }
     }
 }

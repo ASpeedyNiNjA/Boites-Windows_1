@@ -11935,6 +11935,7 @@
             teeth1_d1.Size = new Size(23, 23);
             teeth1_d1.TabIndex = 276;
             teeth1_d1.UseVisualStyleBackColor = false;
+            teeth1_d1.Click += (this.teeth1_d1_Click);
             // 
             // shower1_d31
             // 

@@ -67,6 +67,7 @@
             floss.TabIndex = 5;
             floss.Text = "Floss";
             floss.UseVisualStyleBackColor = true;
+            floss.CheckedChanged += floss_CheckedChanged;
             // 
             // mouthwash
             // 
@@ -78,6 +79,7 @@
             mouthwash.TabIndex = 6;
             mouthwash.Text = "Mouthwash";
             mouthwash.UseVisualStyleBackColor = true;
+            mouthwash.CheckedChanged += mouthwash_CheckedChanged;
             // 
             // TestBox
             // 

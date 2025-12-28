@@ -16,5 +16,11 @@ namespace Boites_Windows_1
         {
             InitializeComponent();
         }
+
+        private void brush_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("You are in the CheckBox.CheckedChanged event.");
+
+        }
     }
 }

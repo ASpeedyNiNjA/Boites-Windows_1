@@ -32,6 +32,7 @@
             brush = new CheckBox();
             floss = new CheckBox();
             mouthwash = new CheckBox();
+            TestBox = new TextBox();
             SuspendLayout();
             // 
             // Header_Teeth
@@ -54,6 +55,7 @@
             brush.TabIndex = 4;
             brush.Text = "Brush";
             brush.UseVisualStyleBackColor = true;
+            brush.CheckedChanged += brush_CheckedChanged;
             // 
             // floss
             // 
@@ -77,11 +79,20 @@
             mouthwash.Text = "Mouthwash";
             mouthwash.UseVisualStyleBackColor = true;
             // 
+            // TestBox
+            // 
+            TestBox.Location = new Point(295, 277);
+            TestBox.Name = "TestBox";
+            TestBox.ReadOnly = true;
+            TestBox.Size = new Size(345, 23);
+            TestBox.TabIndex = 7;
+            // 
             // Teeth
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(TestBox);
             Controls.Add(mouthwash);
             Controls.Add(floss);
             Controls.Add(brush);
@@ -98,5 +109,6 @@
         private CheckBox brush;
         private CheckBox floss;
         private CheckBox mouthwash;
+        private TextBox TestBox;
     }
 }

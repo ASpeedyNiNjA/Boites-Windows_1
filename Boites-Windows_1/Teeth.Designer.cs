@@ -39,6 +39,10 @@
             startTime = new TextBox();
             endTime = new TextBox();
             pictureBox1 = new PictureBox();
+            duration = new Label();
+            textBox1 = new TextBox();
+            textBox2 = new TextBox();
+            textBox3 = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -90,7 +94,7 @@
             // 
             // TestBox
             // 
-            TestBox.Location = new Point(188, 188);
+            TestBox.Location = new Point(155, 256);
             TestBox.Name = "TestBox";
             TestBox.ReadOnly = true;
             TestBox.Size = new Size(345, 23);
@@ -120,6 +124,7 @@
             // 
             startTime.Location = new Point(68, 113);
             startTime.Name = "startTime";
+            startTime.ReadOnly = true;
             startTime.Size = new Size(100, 23);
             startTime.TabIndex = 10;
             // 
@@ -127,6 +132,7 @@
             // 
             endTime.Location = new Point(68, 302);
             endTime.Name = "endTime";
+            endTime.ReadOnly = true;
             endTime.Size = new Size(100, 23);
             endTime.TabIndex = 11;
             // 
@@ -139,11 +145,46 @@
             pictureBox1.TabIndex = 12;
             pictureBox1.TabStop = false;
             // 
+            // duration
+            // 
+            duration.AutoSize = true;
+            duration.Font = new Font("Retro Gaming", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            duration.Location = new Point(183, 113);
+            duration.Name = "duration";
+            duration.Size = new Size(125, 27);
+            duration.TabIndex = 13;
+            duration.Text = "Duration";
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(183, 163);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(45, 23);
+            textBox1.TabIndex = 14;
+            // 
+            // textBox2
+            // 
+            textBox2.Location = new Point(183, 192);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(45, 23);
+            textBox2.TabIndex = 15;
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(183, 219);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(45, 23);
+            textBox3.TabIndex = 16;
+            // 
             // Teeth
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(567, 362);
+            Controls.Add(textBox3);
+            Controls.Add(textBox2);
+            Controls.Add(textBox1);
+            Controls.Add(duration);
             Controls.Add(pictureBox1);
             Controls.Add(endTime);
             Controls.Add(startTime);
@@ -173,5 +214,9 @@
         private TextBox startTime;
         private TextBox endTime;
         private PictureBox pictureBox1;
+        private Label duration;
+        private TextBox textBox1;
+        private TextBox textBox2;
+        private TextBox textBox3;
     }
 }

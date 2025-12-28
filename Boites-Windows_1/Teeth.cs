@@ -19,8 +19,17 @@ namespace Boites_Windows_1
 
         private void brush_CheckedChanged(object sender, EventArgs e)
         {
-            MessageBox.Show("You are in the brush.CheckedChanged event.");
-            TestBox.Text += "Teeth";
+            if (brush.Checked)
+            {
+                MessageBox.Show("You are in the brush.CheckedChanged event.");
+                TestBox.Text += "Teeth";
+            }
+            else
+            {
+                // Needs more string manipulation to take out checkbox checked text
+                // Not necessarily useful at all
+                TestBox.Text += "Teeth Cancelled";
+            }
         }
 
         private void floss_CheckedChanged(object sender, EventArgs e)

@@ -13300,6 +13300,7 @@
             coffee1_d1.Size = new Size(23, 23);
             coffee1_d1.TabIndex = 155;
             coffee1_d1.UseVisualStyleBackColor = false;
+            coffee1_d1.Click += (this.coffee1_d1_Click);
             // 
             // water_d31
             // 

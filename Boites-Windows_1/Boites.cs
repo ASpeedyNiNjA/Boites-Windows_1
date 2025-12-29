@@ -13,5 +13,11 @@ namespace Boites_Windows_1
             Form teethModule = new Teeth();
             teethModule.ShowDialog();
         }
+
+        private void coffee1_d1_Click(object sender, EventArgs e)
+        {
+            Form coffeeModule = new Coffee();
+            coffeeModule.ShowDialog();
+        }
     }
 }

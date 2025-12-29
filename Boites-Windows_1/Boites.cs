@@ -19,5 +19,17 @@ namespace Boites_Windows_1
             Form coffeeModule = new Coffee();
             coffeeModule.ShowDialog();
         }
+
+        private void tv_d1_Click(object sender, EventArgs e)
+        {
+            Form TVModule = new TV();
+            TVModule.ShowDialog();
+        }
+
+        private void book_d1_Click(object sender, EventArgs e)
+        {
+            Form BookModule = new Book();
+            BookModule.ShowDialog();
+        }
     }
 }

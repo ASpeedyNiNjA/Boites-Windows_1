@@ -4433,6 +4433,7 @@
             book_d1.Size = new Size(23, 23);
             book_d1.TabIndex = 958;
             book_d1.UseVisualStyleBackColor = false;
+            book_d1.Click += (this.book_d1_Click);
             // 
             // music_d31
             // 
@@ -5456,6 +5457,7 @@
             tv_d1.Size = new Size(23, 23);
             tv_d1.TabIndex = 865;
             tv_d1.UseVisualStyleBackColor = false;
+            tv_d1.Click += (this.tv_d1_Click);
             // 
             // toDo_d31
             // 

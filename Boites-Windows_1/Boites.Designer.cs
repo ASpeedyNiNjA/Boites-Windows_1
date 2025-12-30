@@ -2728,6 +2728,7 @@
             sleep_d1.Size = new Size(23, 23);
             sleep_d1.TabIndex = 1113;
             sleep_d1.UseVisualStyleBackColor = false;
+            sleep_d1.Click += (this.sleep_d1_Click);
             // 
             // wrists_d31
             // 
@@ -5116,6 +5117,7 @@
             movie_d1.Size = new Size(23, 23);
             movie_d1.TabIndex = 896;
             movie_d1.UseVisualStyleBackColor = false;
+            movie_d1.Click += (this.movie_d1_Click);
             // 
             // tv_d31
             // 

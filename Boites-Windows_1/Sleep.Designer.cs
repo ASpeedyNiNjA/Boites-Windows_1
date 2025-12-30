@@ -1,6 +1,6 @@
 ﻿namespace Boites_Windows_1
 {
-    partial class Book
+    partial class Sleep
     {
         /// <summary>
         /// Required designer variable.
@@ -28,22 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Book));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Sleep));
             Header = new Label();
-            finishText = new TextBox();
-            startLabel = new Label();
             finishLabel = new Label();
             dateLabel = new Label();
             startText = new TextBox();
+            startLabel = new Label();
             dateText = new TextBox();
+            finishText = new TextBox();
             durationLabel = new Label();
             durationText = new TextBox();
-            chapterText = new TextBox();
-            bookLabel = new Label();
-            chapterLabel = new Label();
-            bookText = new TextBox();
-            pageLabel = new Label();
-            pageText = new TextBox();
             start = new Button();
             finish = new Button();
             moduleImage = new PictureBox();
@@ -56,187 +50,130 @@
             Header.Font = new Font("Retro Gaming", 27F, FontStyle.Regular, GraphicsUnit.Point, 0);
             Header.Location = new Point(12, 9);
             Header.Name = "Header";
-            Header.Size = new Size(129, 46);
-            Header.TabIndex = 40;
-            Header.Text = "Book";
-            // 
-            // finishText
-            // 
-            finishText.Location = new Point(86, 184);
-            finishText.Name = "finishText";
-            finishText.Size = new Size(130, 23);
-            finishText.TabIndex = 44;
-            // 
-            // startLabel
-            // 
-            startLabel.AutoSize = true;
-            startLabel.Font = new Font("Orange Kid", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            startLabel.Location = new Point(20, 139);
-            startLabel.Name = "startLabel";
-            startLabel.Size = new Size(62, 29);
-            startLabel.TabIndex = 40;
-            startLabel.Text = "Start:";
+            Header.Size = new Size(147, 46);
+            Header.TabIndex = 49;
+            Header.Text = "Sleep";
             // 
             // finishLabel
             // 
             finishLabel.AutoSize = true;
             finishLabel.Font = new Font("Orange Kid", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            finishLabel.Location = new Point(16, 178);
+            finishLabel.Location = new Point(12, 134);
             finishLabel.Name = "finishLabel";
             finishLabel.Size = new Size(66, 29);
-            finishLabel.TabIndex = 41;
+            finishLabel.TabIndex = 50;
             finishLabel.Text = "Finish:";
             // 
             // dateLabel
             // 
             dateLabel.AutoSize = true;
             dateLabel.Font = new Font("Orange Kid", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            dateLabel.Location = new Point(25, 220);
+            dateLabel.Location = new Point(21, 176);
             dateLabel.Name = "dateLabel";
             dateLabel.Size = new Size(57, 29);
-            dateLabel.TabIndex = 42;
+            dateLabel.TabIndex = 51;
             dateLabel.Text = "Date:";
             // 
             // startText
             // 
-            startText.Location = new Point(86, 145);
+            startText.Location = new Point(82, 101);
             startText.Name = "startText";
             startText.Size = new Size(130, 23);
-            startText.TabIndex = 43;
+            startText.TabIndex = 52;
+            // 
+            // startLabel
+            // 
+            startLabel.AutoSize = true;
+            startLabel.Font = new Font("Orange Kid", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            startLabel.Location = new Point(16, 95);
+            startLabel.Name = "startLabel";
+            startLabel.Size = new Size(62, 29);
+            startLabel.TabIndex = 49;
+            startLabel.Text = "Start:";
             // 
             // dateText
             // 
-            dateText.Location = new Point(86, 226);
+            dateText.Location = new Point(82, 182);
             dateText.Name = "dateText";
             dateText.Size = new Size(130, 23);
-            dateText.TabIndex = 45;
+            dateText.TabIndex = 54;
+            // 
+            // finishText
+            // 
+            finishText.Location = new Point(82, 140);
+            finishText.Name = "finishText";
+            finishText.Size = new Size(130, 23);
+            finishText.TabIndex = 53;
             // 
             // durationLabel
             // 
             durationLabel.AutoSize = true;
             durationLabel.Font = new Font("Orange Kid", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            durationLabel.Location = new Point(20, 262);
+            durationLabel.Location = new Point(16, 218);
             durationLabel.Name = "durationLabel";
             durationLabel.Size = new Size(90, 29);
-            durationLabel.TabIndex = 46;
+            durationLabel.TabIndex = 55;
             durationLabel.Text = "Duration:";
             // 
             // durationText
             // 
-            durationText.Location = new Point(118, 268);
+            durationText.Location = new Point(114, 224);
             durationText.Name = "durationText";
             durationText.Size = new Size(98, 23);
-            durationText.TabIndex = 47;
-            // 
-            // chapterText
-            // 
-            chapterText.Location = new Point(327, 203);
-            chapterText.Name = "chapterText";
-            chapterText.Size = new Size(95, 23);
-            chapterText.TabIndex = 43;
-            // 
-            // bookLabel
-            // 
-            bookLabel.AutoSize = true;
-            bookLabel.Font = new Font("Orange Kid", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            bookLabel.Location = new Point(258, 158);
-            bookLabel.Name = "bookLabel";
-            bookLabel.Size = new Size(59, 29);
-            bookLabel.TabIndex = 40;
-            bookLabel.Text = "Book:";
-            // 
-            // chapterLabel
-            // 
-            chapterLabel.AutoSize = true;
-            chapterLabel.Font = new Font("Orange Kid", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            chapterLabel.Location = new Point(222, 194);
-            chapterLabel.Name = "chapterLabel";
-            chapterLabel.Size = new Size(95, 29);
-            chapterLabel.TabIndex = 41;
-            chapterLabel.Text = "Chapters:";
-            // 
-            // bookText
-            // 
-            bookText.Location = new Point(327, 167);
-            bookText.Name = "bookText";
-            bookText.Size = new Size(95, 23);
-            bookText.TabIndex = 42;
-            // 
-            // pageLabel
-            // 
-            pageLabel.AutoSize = true;
-            pageLabel.Font = new Font("Orange Kid", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            pageLabel.Location = new Point(247, 236);
-            pageLabel.Name = "pageLabel";
-            pageLabel.Size = new Size(70, 29);
-            pageLabel.TabIndex = 44;
-            pageLabel.Text = "Pages:";
-            // 
-            // pageText
-            // 
-            pageText.Location = new Point(327, 242);
-            pageText.Name = "pageText";
-            pageText.Size = new Size(95, 23);
-            pageText.TabIndex = 45;
+            durationText.TabIndex = 56;
             // 
             // start
             // 
-            start.BackColor = Color.FromArgb(45, 62, 98);
+            start.BackColor = Color.PowderBlue;
             start.Font = new Font("Retro Gaming", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             start.ForeColor = SystemColors.ButtonFace;
-            start.Location = new Point(12, 374);
+            start.Location = new Point(21, 278);
             start.Name = "start";
             start.Size = new Size(191, 64);
-            start.TabIndex = 40;
+            start.TabIndex = 50;
             start.Text = "Start";
             start.UseVisualStyleBackColor = false;
             // 
             // finish
             // 
-            finish.BackColor = Color.FromArgb(128, 32, 48);
+            finish.BackColor = Color.LightGreen;
             finish.Font = new Font("Retro Gaming", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             finish.ForeColor = SystemColors.ControlLightLight;
-            finish.Location = new Point(236, 374);
+            finish.Location = new Point(21, 374);
             finish.Name = "finish";
             finish.Size = new Size(191, 64);
-            finish.TabIndex = 40;
+            finish.TabIndex = 49;
             finish.Text = "Finish";
             finish.UseVisualStyleBackColor = false;
             // 
             // moduleImage
             // 
             moduleImage.Image = (Image)resources.GetObject("moduleImage.Image");
-            moduleImage.Location = new Point(361, 9);
+            moduleImage.Location = new Point(167, 9);
             moduleImage.Name = "moduleImage";
-            moduleImage.Size = new Size(61, 73);
-            moduleImage.TabIndex = 48;
+            moduleImage.Size = new Size(84, 84);
+            moduleImage.TabIndex = 49;
             moduleImage.TabStop = false;
             // 
-            // Book
+            // Sleep
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(439, 450);
+            ClientSize = new Size(263, 450);
             Controls.Add(moduleImage);
             Controls.Add(finish);
-            Controls.Add(start);
             Controls.Add(durationText);
+            Controls.Add(start);
             Controls.Add(Header);
-            Controls.Add(pageText);
             Controls.Add(durationLabel);
-            Controls.Add(pageLabel);
-            Controls.Add(finishText);
-            Controls.Add(chapterText);
-            Controls.Add(bookText);
-            Controls.Add(dateText);
-            Controls.Add(chapterLabel);
-            Controls.Add(startLabel);
-            Controls.Add(bookLabel);
             Controls.Add(finishLabel);
-            Controls.Add(startText);
+            Controls.Add(finishText);
             Controls.Add(dateLabel);
-            Name = "Book";
-            Text = "Book";
+            Controls.Add(dateText);
+            Controls.Add(startText);
+            Controls.Add(startLabel);
+            Name = "Sleep";
+            Text = "Sleep";
             ((System.ComponentModel.ISupportInitialize)moduleImage).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -245,20 +182,14 @@
         #endregion
 
         private Label Header;
-        private TextBox finishText;
-        private Label startLabel;
         private Label finishLabel;
         private Label dateLabel;
         private TextBox startText;
+        private Label startLabel;
         private TextBox dateText;
+        private TextBox finishText;
         private Label durationLabel;
         private TextBox durationText;
-        private TextBox chapterText;
-        private Label bookLabel;
-        private Label chapterLabel;
-        private TextBox bookText;
-        private Label pageLabel;
-        private TextBox pageText;
         private Button start;
         private Button finish;
         private PictureBox moduleImage;

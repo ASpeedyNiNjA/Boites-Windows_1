@@ -31,5 +31,17 @@ namespace Boites_Windows_1
             Form BookModule = new Book();
             BookModule.ShowDialog();
         }
+
+        private void sleep_d1_Click(object sender, EventArgs e)
+        {
+            Form SleepModule = new Sleep();
+            SleepModule.ShowDialog();
+        }
+
+        private void movie_d1_Click(object sender, EventArgs e)
+        {
+            Form MovieModule = new Movie();
+            MovieModule.ShowDialog();
+        }
     }
 }

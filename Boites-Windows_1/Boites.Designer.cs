@@ -4093,6 +4093,7 @@
             videoGame_d1.Size = new Size(23, 23);
             videoGame_d1.TabIndex = 989;
             videoGame_d1.UseVisualStyleBackColor = false;
+            videoGame_d1.Click += (this.videoGame_d1_Click);
             // 
             // book_d31
             // 

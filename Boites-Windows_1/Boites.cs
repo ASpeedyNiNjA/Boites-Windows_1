@@ -49,5 +49,11 @@ namespace Boites_Windows_1
             Form MusicModule = new Music();
             MusicModule.ShowDialog();
         }
+
+        private void videoGame_d1_Click(object sender, EventArgs e)
+        {
+            Form VideoGameModule = new VideoGame();
+            VideoGameModule.ShowDialog();
+        }
     }
 }

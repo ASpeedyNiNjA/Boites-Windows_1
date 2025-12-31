@@ -4776,6 +4776,7 @@
             music_d1.Size = new Size(23, 23);
             music_d1.TabIndex = 927;
             music_d1.UseVisualStyleBackColor = false;
+            music_d1.Click += (this.music_d1_Click);
             // 
             // movie_d31
             // 

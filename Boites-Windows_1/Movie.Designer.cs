@@ -31,7 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Movie));
             finish = new Button();
             start = new Button();
-            pictureBox1 = new PictureBox();
+            moduleImage = new PictureBox();
             textBox9 = new TextBox();
             textBox8 = new TextBox();
             genreLabel = new Label();
@@ -49,7 +49,7 @@
             radioButton1 = new RadioButton();
             radioButton2 = new RadioButton();
             venueBox = new GroupBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)moduleImage).BeginInit();
             venueBox.SuspendLayout();
             SuspendLayout();
             // 
@@ -77,15 +77,15 @@
             start.Text = "Start";
             start.UseVisualStyleBackColor = false;
             // 
-            // pictureBox1
+            // moduleImage
             // 
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.InitialImage = null;
-            pictureBox1.Location = new Point(320, 9);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(83, 86);
-            pictureBox1.TabIndex = 44;
-            pictureBox1.TabStop = false;
+            moduleImage.Image = (Image)resources.GetObject("moduleImage.Image");
+            moduleImage.InitialImage = null;
+            moduleImage.Location = new Point(320, 9);
+            moduleImage.Name = "moduleImage";
+            moduleImage.Size = new Size(83, 86);
+            moduleImage.TabIndex = 44;
+            moduleImage.TabStop = false;
             // 
             // textBox9
             // 
@@ -250,7 +250,7 @@
             Controls.Add(label1);
             Controls.Add(finish);
             Controls.Add(start);
-            Controls.Add(pictureBox1);
+            Controls.Add(moduleImage);
             Controls.Add(textBox9);
             Controls.Add(textBox8);
             Controls.Add(genreLabel);
@@ -266,7 +266,7 @@
             Controls.Add(movieHeader);
             Name = "Movie";
             Text = "Movie";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)moduleImage).EndInit();
             venueBox.ResumeLayout(false);
             venueBox.PerformLayout();
             ResumeLayout(false);
@@ -277,7 +277,7 @@
 
         private Button finish;
         private Button start;
-        private PictureBox pictureBox1;
+        private PictureBox moduleImage;
         private TextBox textBox9;
         private TextBox textBox8;
         private Label genreLabel;

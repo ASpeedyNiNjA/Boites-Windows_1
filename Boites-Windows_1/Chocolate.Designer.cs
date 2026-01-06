@@ -38,8 +38,8 @@
             amountText = new TextBox();
             finish = new Button();
             start = new Button();
-            pictureBox1 = new PictureBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            moduleLogo = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)moduleLogo).BeginInit();
             SuspendLayout();
             // 
             // ChocolateHeader
@@ -127,21 +127,21 @@
             start.Text = "Start";
             start.UseVisualStyleBackColor = false;
             // 
-            // pictureBox1
+            // moduleLogo
             // 
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(95, 58);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(74, 91);
-            pictureBox1.TabIndex = 49;
-            pictureBox1.TabStop = false;
+            moduleLogo.Image = (Image)resources.GetObject("moduleLogo.Image");
+            moduleLogo.Location = new Point(95, 58);
+            moduleLogo.Name = "moduleLogo";
+            moduleLogo.Size = new Size(74, 91);
+            moduleLogo.TabIndex = 49;
+            moduleLogo.TabStop = false;
             // 
             // Chocolate
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(287, 450);
-            Controls.Add(pictureBox1);
+            Controls.Add(moduleLogo);
             Controls.Add(finish);
             Controls.Add(start);
             Controls.Add(amountText);
@@ -153,7 +153,7 @@
             Controls.Add(ChocolateHeader);
             Name = "Chocolate";
             Text = "Chocolate";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)moduleLogo).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -169,6 +169,6 @@
         private TextBox amountText;
         private Button finish;
         private Button start;
-        private PictureBox pictureBox1;
+        private PictureBox moduleLogo;
     }
 }

@@ -12283,6 +12283,7 @@
             shower1_d1.Size = new Size(23, 23);
             shower1_d1.TabIndex = 217;
             shower1_d1.UseVisualStyleBackColor = false;
+            shower1_d1.Click += (this.shower1_d1_Click);
             // 
             // shower2_d31
             // 
@@ -12624,6 +12625,7 @@
             shower2_d1.Size = new Size(23, 23);
             shower2_d1.TabIndex = 220;
             shower2_d1.UseVisualStyleBackColor = false;
+            shower2_d1.Click += (this.shower2_d1_Click);
             // 
             // coffee2_d31
             // 
@@ -13648,6 +13650,7 @@
             water_d1.Size = new Size(23, 23);
             water_d1.TabIndex = 124;
             water_d1.UseVisualStyleBackColor = false;
+            water_d1.Click += (this.water_d1_Click);
             // 
             // snack_d31
             // 
@@ -13989,6 +13992,7 @@
             snack_d1.Size = new Size(23, 23);
             snack_d1.TabIndex = 93;
             snack_d1.UseVisualStyleBackColor = false;
+            snack_d1.Click += (this.snack_d1_Click);
             // 
             // supper_d31
             // 
@@ -14330,6 +14334,7 @@
             supper_d1.Size = new Size(23, 23);
             supper_d1.TabIndex = 62;
             supper_d1.UseVisualStyleBackColor = false;
+            supper_d1.Click += (this.supper_d1_Click);
             // 
             // lunch_d31
             // 
@@ -14671,6 +14676,7 @@
             lunch_d1.Size = new Size(23, 23);
             lunch_d1.TabIndex = 31;
             lunch_d1.UseVisualStyleBackColor = false;
+            lunch_d1.Click += (this.lunch_d1_Click);
             // 
             // breakfast_d31
             // 
@@ -15012,6 +15018,7 @@
             breakfast_d1.Size = new Size(23, 23);
             breakfast_d1.TabIndex = 0;
             breakfast_d1.UseVisualStyleBackColor = false;
+            breakfast_d1.Click += (this.breakfast_d1_Click);
             // 
             // collegeCourse1
             // 

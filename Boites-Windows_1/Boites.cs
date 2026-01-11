@@ -55,5 +55,47 @@ namespace Boites_Windows_1
             Form VideoGameModule = new VideoGame();
             VideoGameModule.ShowDialog();
         }
+
+        private void water_d1_Click(object sender, EventArgs e)
+        {
+            Form WaterModule = new Water();
+            WaterModule.ShowDialog();
+        }
+
+        private void breakfast_d1_Click(object sender, EventArgs e)
+        {
+            Form FoodModule = new Food();
+            FoodModule.ShowDialog();
+        }
+
+        private void lunch_d1_Click(object sender, EventArgs e)
+        {
+            Form FoodModule = new Food();
+            FoodModule.ShowDialog();
+        }
+
+        private void supper_d1_Click(object sender, EventArgs e)
+        {
+            Form FoodModule = new Food();
+            FoodModule.ShowDialog();
+        }
+
+        private void snack_d1_Click(object sender, EventArgs e)
+        {
+            Form FoodModule = new Food();
+            FoodModule.ShowDialog();
+        }
+
+        private void shower1_d1_Click(object sender, EventArgs e)
+        {
+            Form ShowerModule = new Shower();
+            ShowerModule.ShowDialog();
+        }
+
+        private void shower2_d1_Click(object sender, EventArgs e)
+        {
+            Form ShowerModule = new Shower();
+            ShowerModule.ShowDialog();
+        }
     }
 }
